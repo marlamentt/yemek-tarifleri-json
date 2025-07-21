@@ -1,0 +1,4846 @@
+{
+  "turk": [
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    }
+  ],
+  "world": [
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "İskender",
+      "malzemeler": [
+        "et",
+        "yoğurt",
+        "salça",
+        "tereyağı",
+        "ekmek"
+      ],
+      "tarif": "Etler kızartılır, altına kızarmış ekmek, üzerine yoğurt ve sos eklenir.",
+      "description_en": "Grilled meat served on fried bread with yogurt and sauce on top."
+    },
+    {
+      "ad": "Çiğ Köfte",
+      "malzemeler": [
+        "bulgur",
+        "isot",
+        "salça",
+        "baharat",
+        "soğan"
+      ],
+      "tarif": "Bulgur yoğrularak baharat ve salçayla karıştırılır, şekil verilir.",
+      "description_en": "Bulgur is kneaded with spices and pepper paste until smooth and shaped."
+    },
+    {
+      "ad": "Mercimek Çorbası",
+      "malzemeler": [
+        "mercimek",
+        "soğan",
+        "havuç",
+        "salça",
+        "tuz",
+        "su"
+      ],
+      "tarif": "Mercimek, doğranmış sebzelerle haşlanır ve püre yapılır. Baharatlarla tatlandırılır.",
+      "description_en": "Lentils are cooked with chopped vegetables and blended. Seasoned with spices."
+    },
+    {
+      "ad": "Karnıyarık",
+      "malzemeler": [
+        "patlıcan",
+        "kıyma",
+        "soğan",
+        "domates",
+        "biber",
+        "yağ"
+      ],
+      "tarif": "Patlıcanlar kızartılır, içlerine kıymalı harç konur ve fırında pişirilir.",
+      "description_en": "Fried eggplants are filled with minced meat and vegetables, then baked."
+    },
+    {
+      "ad": "Menemen",
+      "malzemeler": [
+        "yumurta",
+        "biber",
+        "domates",
+        "soğan",
+        "yağ",
+        "tuz"
+      ],
+      "tarif": "Soğan ve biber kavrulur, domates eklenir, ardından yumurta kırılır.",
+      "description_en": "Onions and peppers are sautéed, tomatoes added, then eggs are cooked in."
+    },
+    {
+      "ad": "Spaghetti Bolognese",
+      "malzemeler": [
+        "makarna",
+        "kıyma",
+        "domates",
+        "soğan",
+        "sarımsak"
+      ],
+      "tarif": "Makarnayla birlikte kıymalı domates sosu pişirilerek servis edilir.",
+      "description_en": "Spaghetti served with minced meat tomato sauce."
+    },
+    {
+      "ad": "Pizza Margherita",
+      "malzemeler": [
+        "hamur",
+        "domates",
+        "mozzarella",
+        "fesleğen"
+      ],
+      "tarif": "Hamur üzerine malzemeler dizilir ve fırında pişirilir.",
+      "description_en": "Pizza dough topped with tomato, mozzarella and basil, then baked."
+    },
+    {
+      "ad": "Sushi",
+      "malzemeler": [
+        "pirinç",
+        "nori",
+        "somon",
+        "sirke"
+      ],
+      "tarif": "Pirinç sirkeyle karıştırılır, nori üzerine serilir, balık eklenir ve sarılır.",
+      "description_en": "Vinegared rice is rolled with nori and fish to create sushi."
+    },
+    {
+      "ad": "Tacos",
+      "malzemeler": [
+        "tortilla",
+        "et",
+        "marul",
+        "peynir",
+        "salsa"
+      ],
+      "tarif": "Malzemeler tortilla arasına yerleştirilir ve elle yenir.",
+      "description_en": "Ingredients are placed in tortillas and served as finger food."
+    },
+    {
+      "ad": "Pad Thai",
+      "malzemeler": [
+        "pirinç eriştesi",
+        "yumurta",
+        "karides",
+        "soya sosu",
+        "fıstık"
+      ],
+      "tarif": "Erişteler sebze ve soslarla birlikte wokta pişirilir.",
+      "description_en": "Rice noodles stir-fried with egg, shrimp, and Thai sauce."
+    }
+  ]
+}
