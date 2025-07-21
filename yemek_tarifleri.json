@@ -1,0 +1,3468 @@
+{
+  "turk": [
+    {
+      "ad": "Türk Yemeği 1",
+      "malzemeler": [
+        "limon",
+        "cheddar",
+        "makarna"
+      ],
+      "tarif": "Türk yemeği 1 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,0"
+    },
+    {
+      "ad": "Türk Yemeği 2",
+      "malzemeler": [
+        "brokoli",
+        "tarçın",
+        "kalamar",
+        "peynir",
+        "badem"
+      ],
+      "tarif": "Türk yemeği 2 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,1"
+    },
+    {
+      "ad": "Türk Yemeği 3",
+      "malzemeler": [
+        "yufka",
+        "muskat",
+        "tavuk"
+      ],
+      "tarif": "Türk yemeği 3 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,2"
+    },
+    {
+      "ad": "Türk Yemeği 4",
+      "malzemeler": [
+        "şehriye",
+        "armut",
+        "parmesan"
+      ],
+      "tarif": "Türk yemeği 4 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,3"
+    },
+    {
+      "ad": "Türk Yemeği 5",
+      "malzemeler": [
+        "peynir",
+        "yoğurt",
+        "nohut",
+        "armut",
+        "tavuk butu",
+        "lavaş"
+      ],
+      "tarif": "Türk yemeği 5 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,4"
+    },
+    {
+      "ad": "Türk Yemeği 6",
+      "malzemeler": [
+        "bal",
+        "pekmez",
+        "parmesan",
+        "tavuk",
+        "bulgur",
+        "yoğurt"
+      ],
+      "tarif": "Türk yemeği 6 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,5"
+    },
+    {
+      "ad": "Türk Yemeği 7",
+      "malzemeler": [
+        "parmesan",
+        "cheddar",
+        "tavuk suyu",
+        "kimyon"
+      ],
+      "tarif": "Türk yemeği 7 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,6"
+    },
+    {
+      "ad": "Türk Yemeği 8",
+      "malzemeler": [
+        "üzüm",
+        "safran",
+        "et",
+        "kabak"
+      ],
+      "tarif": "Türk yemeği 8 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,7"
+    },
+    {
+      "ad": "Türk Yemeği 9",
+      "malzemeler": [
+        "hardal",
+        "domates",
+        "nane",
+        "zeytinyağı",
+        "et",
+        "şeker"
+      ],
+      "tarif": "Türk yemeği 9 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,8"
+    },
+    {
+      "ad": "Türk Yemeği 10",
+      "malzemeler": [
+        "çilek",
+        "sarımsak tozu",
+        "mozzarella"
+      ],
+      "tarif": "Türk yemeği 10 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,9"
+    },
+    {
+      "ad": "Türk Yemeği 11",
+      "malzemeler": [
+        "havuç",
+        "ayçiçek yağı",
+        "süt"
+      ],
+      "tarif": "Türk yemeği 11 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,10"
+    },
+    {
+      "ad": "Türk Yemeği 12",
+      "malzemeler": [
+        "çikolata",
+        "lavaş",
+        "brokoli",
+        "tarçın"
+      ],
+      "tarif": "Türk yemeği 12 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,11"
+    },
+    {
+      "ad": "Türk Yemeği 13",
+      "malzemeler": [
+        "karnabahar",
+        "susam",
+        "kuru fasulye",
+        "şeker"
+      ],
+      "tarif": "Türk yemeği 13 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,12"
+    },
+    {
+      "ad": "Türk Yemeği 14",
+      "malzemeler": [
+        "limon",
+        "fındık",
+        "et suyu",
+        "soya sosu",
+        "kalamar",
+        "zeytin"
+      ],
+      "tarif": "Türk yemeği 14 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,13"
+    },
+    {
+      "ad": "Türk Yemeği 15",
+      "malzemeler": [
+        "soya sosu",
+        "acı sos",
+        "mantı",
+        "zeytin",
+        "un"
+      ],
+      "tarif": "Türk yemeği 15 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,14"
+    },
+    {
+      "ad": "Türk Yemeği 16",
+      "malzemeler": [
+        "fıstık",
+        "ayçiçek yağı",
+        "kakao",
+        "nane",
+        "kayısı"
+      ],
+      "tarif": "Türk yemeği 16 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,15"
+    },
+    {
+      "ad": "Türk Yemeği 17",
+      "malzemeler": [
+        "baklava yufkası",
+        "parmesan",
+        "jalapeno",
+        "tortilla",
+        "armut",
+        "üzüm"
+      ],
+      "tarif": "Türk yemeği 17 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,16"
+    },
+    {
+      "ad": "Türk Yemeği 18",
+      "malzemeler": [
+        "fasulye",
+        "tavuk",
+        "un"
+      ],
+      "tarif": "Türk yemeği 18 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,17"
+    },
+    {
+      "ad": "Türk Yemeği 19",
+      "malzemeler": [
+        "salça",
+        "nohut",
+        "ananas",
+        "krema"
+      ],
+      "tarif": "Türk yemeği 19 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,18"
+    },
+    {
+      "ad": "Türk Yemeği 20",
+      "malzemeler": [
+        "tavuk göğsü",
+        "karnabahar",
+        "krema",
+        "kabak çekirdeği",
+        "böğürtlen",
+        "karanfil"
+      ],
+      "tarif": "Türk yemeği 20 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,19"
+    },
+    {
+      "ad": "Türk Yemeği 21",
+      "malzemeler": [
+        "ceviz",
+        "reçel",
+        "sarımsak tozu",
+        "mantı",
+        "hindistancevizi"
+      ],
+      "tarif": "Türk yemeği 21 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,20"
+    },
+    {
+      "ad": "Türk Yemeği 22",
+      "malzemeler": [
+        "nişasta",
+        "defne yaprağı",
+        "armut",
+        "zeytin",
+        "karanfil"
+      ],
+      "tarif": "Türk yemeği 22 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,21"
+    },
+    {
+      "ad": "Türk Yemeği 23",
+      "malzemeler": [
+        "mozzarella",
+        "nohut",
+        "pul biber",
+        "armut",
+        "balık"
+      ],
+      "tarif": "Türk yemeği 23 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,22"
+    },
+    {
+      "ad": "Türk Yemeği 24",
+      "malzemeler": [
+        "nohut",
+        "bal",
+        "armut",
+        "limon",
+        "yoğurt"
+      ],
+      "tarif": "Türk yemeği 24 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,23"
+    },
+    {
+      "ad": "Türk Yemeği 25",
+      "malzemeler": [
+        "ekmek",
+        "muz",
+        "karides",
+        "fındık"
+      ],
+      "tarif": "Türk yemeği 25 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,24"
+    },
+    {
+      "ad": "Türk Yemeği 26",
+      "malzemeler": [
+        "tortilla",
+        "nane",
+        "soğan",
+        "biber",
+        "acı sos"
+      ],
+      "tarif": "Türk yemeği 26 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,25"
+    },
+    {
+      "ad": "Türk Yemeği 27",
+      "malzemeler": [
+        "pirinç",
+        "reçel",
+        "mayonez",
+        "tereyağı",
+        "kimyon",
+        "susam"
+      ],
+      "tarif": "Türk yemeği 27 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,26"
+    },
+    {
+      "ad": "Türk Yemeği 28",
+      "malzemeler": [
+        "et suyu",
+        "peynir",
+        "sirke",
+        "kayısı"
+      ],
+      "tarif": "Türk yemeği 28 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,27"
+    },
+    {
+      "ad": "Türk Yemeği 29",
+      "malzemeler": [
+        "yumurta",
+        "ceviz",
+        "nişasta",
+        "ciğer",
+        "peynir"
+      ],
+      "tarif": "Türk yemeği 29 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,28"
+    },
+    {
+      "ad": "Türk Yemeği 30",
+      "malzemeler": [
+        "kimyon",
+        "maydanoz",
+        "vanilin",
+        "soğan",
+        "patates",
+        "mayonez"
+      ],
+      "tarif": "Türk yemeği 30 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,29"
+    },
+    {
+      "ad": "Türk Yemeği 31",
+      "malzemeler": [
+        "susam",
+        "sarımsak",
+        "badem",
+        "incir",
+        "zeytinyağı"
+      ],
+      "tarif": "Türk yemeği 31 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,30"
+    },
+    {
+      "ad": "Türk Yemeği 32",
+      "malzemeler": [
+        "balık",
+        "bulgur",
+        "ayçiçek yağı",
+        "zeytinyağı",
+        "elma"
+      ],
+      "tarif": "Türk yemeği 32 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,31"
+    },
+    {
+      "ad": "Türk Yemeği 33",
+      "malzemeler": [
+        "ekmek",
+        "karanfil",
+        "ciğer",
+        "kabak",
+        "mantı"
+      ],
+      "tarif": "Türk yemeği 33 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,32"
+    },
+    {
+      "ad": "Türk Yemeği 34",
+      "malzemeler": [
+        "domates",
+        "fıstık",
+        "yufka",
+        "kuru fasulye",
+        "mantı"
+      ],
+      "tarif": "Türk yemeği 34 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,33"
+    },
+    {
+      "ad": "Türk Yemeği 35",
+      "malzemeler": [
+        "zeytinyağı",
+        "nohut",
+        "sosis"
+      ],
+      "tarif": "Türk yemeği 35 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,34"
+    },
+    {
+      "ad": "Türk Yemeği 36",
+      "malzemeler": [
+        "zeytinyağı",
+        "karanfil",
+        "mısır"
+      ],
+      "tarif": "Türk yemeği 36 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,35"
+    },
+    {
+      "ad": "Türk Yemeği 37",
+      "malzemeler": [
+        "balık",
+        "zeytinyağı",
+        "ıspanak"
+      ],
+      "tarif": "Türk yemeği 37 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,36"
+    },
+    {
+      "ad": "Türk Yemeği 38",
+      "malzemeler": [
+        "kıyma",
+        "baklava yufkası",
+        "lavaş",
+        "yumurta",
+        "armut",
+        "karabiber"
+      ],
+      "tarif": "Türk yemeği 38 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,37"
+    },
+    {
+      "ad": "Türk Yemeği 39",
+      "malzemeler": [
+        "ayçiçek yağı",
+        "et suyu",
+        "ciğer",
+        "yoğurt",
+        "ananas",
+        "tarçın"
+      ],
+      "tarif": "Türk yemeği 39 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,38"
+    },
+    {
+      "ad": "Türk Yemeği 40",
+      "malzemeler": [
+        "mayonez",
+        "acı sos",
+        "pekmez",
+        "brüksel lahanası"
+      ],
+      "tarif": "Türk yemeği 40 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,39"
+    },
+    {
+      "ad": "Türk Yemeği 41",
+      "malzemeler": [
+        "sucuk",
+        "brüksel lahanası",
+        "pekmez",
+        "krem peynir",
+        "cheddar"
+      ],
+      "tarif": "Türk yemeği 41 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,40"
+    },
+    {
+      "ad": "Türk Yemeği 42",
+      "malzemeler": [
+        "pekmez",
+        "muskat",
+        "yoğurt"
+      ],
+      "tarif": "Türk yemeği 42 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,41"
+    },
+    {
+      "ad": "Türk Yemeği 43",
+      "malzemeler": [
+        "sarımsak tozu",
+        "karnabahar",
+        "dereotu"
+      ],
+      "tarif": "Türk yemeği 43 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,42"
+    },
+    {
+      "ad": "Türk Yemeği 44",
+      "malzemeler": [
+        "kabak çekirdeği",
+        "havuç",
+        "elma",
+        "balık",
+        "yoğurt"
+      ],
+      "tarif": "Türk yemeği 44 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,43"
+    },
+    {
+      "ad": "Türk Yemeği 45",
+      "malzemeler": [
+        "pekmez",
+        "hardal",
+        "kayısı",
+        "nişasta"
+      ],
+      "tarif": "Türk yemeği 45 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,44"
+    },
+    {
+      "ad": "Türk Yemeği 46",
+      "malzemeler": [
+        "yufka",
+        "badem",
+        "ketçap",
+        "sirke",
+        "sucuk",
+        "çilek"
+      ],
+      "tarif": "Türk yemeği 46 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,45"
+    },
+    {
+      "ad": "Türk Yemeği 47",
+      "malzemeler": [
+        "kayısı",
+        "bezelye",
+        "böğürtlen",
+        "ayçiçek yağı",
+        "pirinç",
+        "ciğer"
+      ],
+      "tarif": "Türk yemeği 47 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,46"
+    },
+    {
+      "ad": "Türk Yemeği 48",
+      "malzemeler": [
+        "salça",
+        "mayonez",
+        "defne yaprağı"
+      ],
+      "tarif": "Türk yemeği 48 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,47"
+    },
+    {
+      "ad": "Türk Yemeği 49",
+      "malzemeler": [
+        "sosis",
+        "zeytin",
+        "kıyma",
+        "kabak çekirdeği",
+        "pul biber",
+        "hindistancevizi"
+      ],
+      "tarif": "Türk yemeği 49 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,48"
+    },
+    {
+      "ad": "Türk Yemeği 50",
+      "malzemeler": [
+        "parmesan",
+        "brüksel lahanası",
+        "sucuk",
+        "reçel",
+        "tavuk suyu",
+        "çikolata"
+      ],
+      "tarif": "Türk yemeği 50 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,49"
+    },
+    {
+      "ad": "Türk Yemeği 51",
+      "malzemeler": [
+        "böğürtlen",
+        "muz",
+        "cheddar",
+        "pirinç"
+      ],
+      "tarif": "Türk yemeği 51 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,50"
+    },
+    {
+      "ad": "Türk Yemeği 52",
+      "malzemeler": [
+        "kıyma",
+        "süt",
+        "bulgur",
+        "şehriye",
+        "defne yaprağı",
+        "zeytinyağı"
+      ],
+      "tarif": "Türk yemeği 52 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,51"
+    },
+    {
+      "ad": "Türk Yemeği 53",
+      "malzemeler": [
+        "hindistancevizi",
+        "karabiber",
+        "bal",
+        "zeytinyağı",
+        "bezelye",
+        "yufka"
+      ],
+      "tarif": "Türk yemeği 53 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,52"
+    },
+    {
+      "ad": "Türk Yemeği 54",
+      "malzemeler": [
+        "un",
+        "kalamar",
+        "makarna",
+        "cheddar",
+        "ceviz"
+      ],
+      "tarif": "Türk yemeği 54 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,53"
+    },
+    {
+      "ad": "Türk Yemeği 55",
+      "malzemeler": [
+        "üzüm",
+        "et suyu",
+        "bezelye"
+      ],
+      "tarif": "Türk yemeği 55 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,54"
+    },
+    {
+      "ad": "Türk Yemeği 56",
+      "malzemeler": [
+        "pekmez",
+        "nohut",
+        "yufka"
+      ],
+      "tarif": "Türk yemeği 56 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,55"
+    },
+    {
+      "ad": "Türk Yemeği 57",
+      "malzemeler": [
+        "nane",
+        "biber",
+        "ıspanak"
+      ],
+      "tarif": "Türk yemeği 57 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,56"
+    },
+    {
+      "ad": "Türk Yemeği 58",
+      "malzemeler": [
+        "ekmek",
+        "fındık",
+        "bulgur",
+        "lavaş",
+        "zeytinyağı"
+      ],
+      "tarif": "Türk yemeği 58 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,57"
+    },
+    {
+      "ad": "Türk Yemeği 59",
+      "malzemeler": [
+        "kıyma",
+        "patates",
+        "et",
+        "pastırma"
+      ],
+      "tarif": "Türk yemeği 59 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,58"
+    },
+    {
+      "ad": "Türk Yemeği 60",
+      "malzemeler": [
+        "haşhaş",
+        "süt",
+        "domates"
+      ],
+      "tarif": "Türk yemeği 60 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,59"
+    },
+    {
+      "ad": "Türk Yemeği 61",
+      "malzemeler": [
+        "karabiber",
+        "ketçap",
+        "domates"
+      ],
+      "tarif": "Türk yemeği 61 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,60"
+    },
+    {
+      "ad": "Türk Yemeği 62",
+      "malzemeler": [
+        "et suyu",
+        "ketçap",
+        "baharat",
+        "elma",
+        "ciğer",
+        "susam"
+      ],
+      "tarif": "Türk yemeği 62 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,61"
+    },
+    {
+      "ad": "Türk Yemeği 63",
+      "malzemeler": [
+        "sirke",
+        "patates",
+        "sarımsak",
+        "yumurta"
+      ],
+      "tarif": "Türk yemeği 63 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,62"
+    },
+    {
+      "ad": "Türk Yemeği 64",
+      "malzemeler": [
+        "zeytinyağı",
+        "bal",
+        "balık"
+      ],
+      "tarif": "Türk yemeği 64 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,63"
+    },
+    {
+      "ad": "Türk Yemeği 65",
+      "malzemeler": [
+        "tavuk göğsü",
+        "kalamar",
+        "muskat",
+        "bulgur",
+        "haşhaş"
+      ],
+      "tarif": "Türk yemeği 65 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,64"
+    },
+    {
+      "ad": "Türk Yemeği 66",
+      "malzemeler": [
+        "et suyu",
+        "ekmek",
+        "çilek",
+        "muz",
+        "hindistancevizi"
+      ],
+      "tarif": "Türk yemeği 66 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,65"
+    },
+    {
+      "ad": "Türk Yemeği 67",
+      "malzemeler": [
+        "yaban mersini",
+        "nişasta",
+        "tavuk butu",
+        "tarçın",
+        "hindistancevizi",
+        "böğürtlen"
+      ],
+      "tarif": "Türk yemeği 67 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,66"
+    },
+    {
+      "ad": "Türk Yemeği 68",
+      "malzemeler": [
+        "acı sos",
+        "tavuk",
+        "kabak",
+        "vanilin"
+      ],
+      "tarif": "Türk yemeği 68 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,67"
+    },
+    {
+      "ad": "Türk Yemeği 69",
+      "malzemeler": [
+        "nar",
+        "nane",
+        "fındık"
+      ],
+      "tarif": "Türk yemeği 69 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,68"
+    },
+    {
+      "ad": "Türk Yemeği 70",
+      "malzemeler": [
+        "safran",
+        "karanfil",
+        "krema",
+        "jalapeno",
+        "sarımsak tozu"
+      ],
+      "tarif": "Türk yemeği 70 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,69"
+    },
+    {
+      "ad": "Türk Yemeği 71",
+      "malzemeler": [
+        "kuzu eti",
+        "vanilin",
+        "haşhaş"
+      ],
+      "tarif": "Türk yemeği 71 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,70"
+    },
+    {
+      "ad": "Türk Yemeği 72",
+      "malzemeler": [
+        "patates",
+        "baharat",
+        "et suyu",
+        "mantı"
+      ],
+      "tarif": "Türk yemeği 72 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,71"
+    },
+    {
+      "ad": "Türk Yemeği 73",
+      "malzemeler": [
+        "ayçiçek yağı",
+        "brüksel lahanası",
+        "safran"
+      ],
+      "tarif": "Türk yemeği 73 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,72"
+    },
+    {
+      "ad": "Türk Yemeği 74",
+      "malzemeler": [
+        "karides",
+        "et",
+        "hindistancevizi"
+      ],
+      "tarif": "Türk yemeği 74 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,73"
+    },
+    {
+      "ad": "Türk Yemeği 75",
+      "malzemeler": [
+        "tavuk göğsü",
+        "ananas",
+        "patates"
+      ],
+      "tarif": "Türk yemeği 75 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,74"
+    },
+    {
+      "ad": "Türk Yemeği 76",
+      "malzemeler": [
+        "sarımsak",
+        "çilek",
+        "süt",
+        "nişasta",
+        "fındık",
+        "kuzu eti"
+      ],
+      "tarif": "Türk yemeği 76 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,75"
+    },
+    {
+      "ad": "Türk Yemeği 77",
+      "malzemeler": [
+        "havuç",
+        "bal",
+        "sucuk"
+      ],
+      "tarif": "Türk yemeği 77 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,76"
+    },
+    {
+      "ad": "Türk Yemeği 78",
+      "malzemeler": [
+        "kıyma",
+        "krema",
+        "süt"
+      ],
+      "tarif": "Türk yemeği 78 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,77"
+    },
+    {
+      "ad": "Türk Yemeği 79",
+      "malzemeler": [
+        "karnabahar",
+        "acı sos",
+        "biber",
+        "tavuk butu",
+        "fıstık",
+        "kıyma"
+      ],
+      "tarif": "Türk yemeği 79 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,78"
+    },
+    {
+      "ad": "Türk Yemeği 80",
+      "malzemeler": [
+        "karides",
+        "incir",
+        "yumurta",
+        "nar"
+      ],
+      "tarif": "Türk yemeği 80 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,79"
+    },
+    {
+      "ad": "Türk Yemeği 81",
+      "malzemeler": [
+        "bulgur",
+        "tavuk",
+        "mayonez",
+        "reçel",
+        "kabak",
+        "midye"
+      ],
+      "tarif": "Türk yemeği 81 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,80"
+    },
+    {
+      "ad": "Türk Yemeği 82",
+      "malzemeler": [
+        "ciğer",
+        "tuz",
+        "soya sosu",
+        "hardal",
+        "soğan"
+      ],
+      "tarif": "Türk yemeği 82 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,81"
+    },
+    {
+      "ad": "Türk Yemeği 83",
+      "malzemeler": [
+        "maydanoz",
+        "tarçın",
+        "fıstık",
+        "balık",
+        "bulgur"
+      ],
+      "tarif": "Türk yemeği 83 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,82"
+    },
+    {
+      "ad": "Türk Yemeği 84",
+      "malzemeler": [
+        "tarçın",
+        "domates",
+        "zeytin",
+        "kakao",
+        "pastırma"
+      ],
+      "tarif": "Türk yemeği 84 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,83"
+    },
+    {
+      "ad": "Türk Yemeği 85",
+      "malzemeler": [
+        "ceviz",
+        "vanilin",
+        "midye"
+      ],
+      "tarif": "Türk yemeği 85 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,84"
+    },
+    {
+      "ad": "Türk Yemeği 86",
+      "malzemeler": [
+        "ananas",
+        "baklava yufkası",
+        "sarımsak",
+        "defne yaprağı"
+      ],
+      "tarif": "Türk yemeği 86 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,85"
+    },
+    {
+      "ad": "Türk Yemeği 87",
+      "malzemeler": [
+        "karides",
+        "muz",
+        "kuzu eti",
+        "acı sos",
+        "karabiber"
+      ],
+      "tarif": "Türk yemeği 87 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,86"
+    },
+    {
+      "ad": "Türk Yemeği 88",
+      "malzemeler": [
+        "nane",
+        "tavuk göğsü",
+        "bezelye",
+        "et suyu",
+        "yeşil mercimek",
+        "sucuk"
+      ],
+      "tarif": "Türk yemeği 88 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,87"
+    },
+    {
+      "ad": "Türk Yemeği 89",
+      "malzemeler": [
+        "karnabahar",
+        "pirinç",
+        "reçel",
+        "ayçiçek yağı",
+        "balık",
+        "bulgur"
+      ],
+      "tarif": "Türk yemeği 89 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,88"
+    },
+    {
+      "ad": "Türk Yemeği 90",
+      "malzemeler": [
+        "domates",
+        "kuzu eti",
+        "patates"
+      ],
+      "tarif": "Türk yemeği 90 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,89"
+    },
+    {
+      "ad": "Türk Yemeği 91",
+      "malzemeler": [
+        "kabak",
+        "nişasta",
+        "kıyma",
+        "muskat",
+        "tavuk göğsü"
+      ],
+      "tarif": "Türk yemeği 91 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,90"
+    },
+    {
+      "ad": "Türk Yemeği 92",
+      "malzemeler": [
+        "mantı",
+        "et suyu",
+        "patates",
+        "nohut",
+        "baharat",
+        "hardal"
+      ],
+      "tarif": "Türk yemeği 92 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,91"
+    },
+    {
+      "ad": "Türk Yemeği 93",
+      "malzemeler": [
+        "kabak çekirdeği",
+        "mısır",
+        "çikolata",
+        "et"
+      ],
+      "tarif": "Türk yemeği 93 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,92"
+    },
+    {
+      "ad": "Türk Yemeği 94",
+      "malzemeler": [
+        "brüksel lahanası",
+        "karnabahar",
+        "et suyu",
+        "jalapeno",
+        "pekmez",
+        "ananas"
+      ],
+      "tarif": "Türk yemeği 94 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,93"
+    },
+    {
+      "ad": "Türk Yemeği 95",
+      "malzemeler": [
+        "ayçiçek yağı",
+        "dereotu",
+        "ceviz",
+        "tavuk butu",
+        "acı sos",
+        "armut"
+      ],
+      "tarif": "Türk yemeği 95 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,94"
+    },
+    {
+      "ad": "Türk Yemeği 96",
+      "malzemeler": [
+        "vanilin",
+        "muskat",
+        "soğan"
+      ],
+      "tarif": "Türk yemeği 96 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,95"
+    },
+    {
+      "ad": "Türk Yemeği 97",
+      "malzemeler": [
+        "tavuk butu",
+        "tereyağı",
+        "karnabahar",
+        "ceviz"
+      ],
+      "tarif": "Türk yemeği 97 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,96"
+    },
+    {
+      "ad": "Türk Yemeği 98",
+      "malzemeler": [
+        "safran",
+        "domates",
+        "cheddar",
+        "makarna",
+        "bal",
+        "soğan"
+      ],
+      "tarif": "Türk yemeği 98 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,97"
+    },
+    {
+      "ad": "Türk Yemeği 99",
+      "malzemeler": [
+        "karanfil",
+        "balık",
+        "çilek",
+        "limon",
+        "kıyma",
+        "incir"
+      ],
+      "tarif": "Türk yemeği 99 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,98"
+    },
+    {
+      "ad": "Türk Yemeği 100",
+      "malzemeler": [
+        "elma",
+        "karnabahar",
+        "bal"
+      ],
+      "tarif": "Türk yemeği 100 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,99"
+    },
+    {
+      "ad": "Türk Yemeği 101",
+      "malzemeler": [
+        "tortilla",
+        "karnabahar",
+        "ciğer",
+        "tereyağı",
+        "pastırma"
+      ],
+      "tarif": "Türk yemeği 101 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,100"
+    },
+    {
+      "ad": "Türk Yemeği 102",
+      "malzemeler": [
+        "yeşil mercimek",
+        "brokoli",
+        "peynir",
+        "ayçiçek yağı",
+        "bulgur",
+        "tereyağı"
+      ],
+      "tarif": "Türk yemeği 102 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,101"
+    },
+    {
+      "ad": "Türk Yemeği 103",
+      "malzemeler": [
+        "zeytinyağı",
+        "armut",
+        "soğan"
+      ],
+      "tarif": "Türk yemeği 103 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,102"
+    },
+    {
+      "ad": "Türk Yemeği 104",
+      "malzemeler": [
+        "dereotu",
+        "brüksel lahanası",
+        "pirinç",
+        "şehriye"
+      ],
+      "tarif": "Türk yemeği 104 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,103"
+    },
+    {
+      "ad": "Türk Yemeği 105",
+      "malzemeler": [
+        "maydanoz",
+        "tavuk",
+        "karides"
+      ],
+      "tarif": "Türk yemeği 105 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,104"
+    },
+    {
+      "ad": "Türk Yemeği 106",
+      "malzemeler": [
+        "kıyma",
+        "zeytinyağı",
+        "tavuk suyu"
+      ],
+      "tarif": "Türk yemeği 106 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,105"
+    },
+    {
+      "ad": "Türk Yemeği 107",
+      "malzemeler": [
+        "pul biber",
+        "karnabahar",
+        "şeker",
+        "krem peynir",
+        "kuru fasulye",
+        "üzüm"
+      ],
+      "tarif": "Türk yemeği 107 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,106"
+    },
+    {
+      "ad": "Türk Yemeği 108",
+      "malzemeler": [
+        "jalapeno",
+        "tavuk",
+        "ananas",
+        "bal",
+        "vanilin",
+        "kabak çekirdeği"
+      ],
+      "tarif": "Türk yemeği 108 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,107"
+    },
+    {
+      "ad": "Türk Yemeği 109",
+      "malzemeler": [
+        "kimyon",
+        "susam",
+        "sarımsak",
+        "şeker",
+        "zeytinyağı"
+      ],
+      "tarif": "Türk yemeği 109 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,108"
+    },
+    {
+      "ad": "Türk Yemeği 110",
+      "malzemeler": [
+        "susam",
+        "salça",
+        "haşhaş",
+        "tereyağı",
+        "böğürtlen",
+        "jalapeno"
+      ],
+      "tarif": "Türk yemeği 110 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,109"
+    },
+    {
+      "ad": "Türk Yemeği 111",
+      "malzemeler": [
+        "şehriye",
+        "makarna",
+        "nane",
+        "pastırma",
+        "brokoli"
+      ],
+      "tarif": "Türk yemeği 111 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,110"
+    },
+    {
+      "ad": "Türk Yemeği 112",
+      "malzemeler": [
+        "limon",
+        "kimyon",
+        "pekmez",
+        "ciğer"
+      ],
+      "tarif": "Türk yemeği 112 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,111"
+    },
+    {
+      "ad": "Türk Yemeği 113",
+      "malzemeler": [
+        "çilek",
+        "pul biber",
+        "reçel",
+        "baklava yufkası",
+        "hindistancevizi"
+      ],
+      "tarif": "Türk yemeği 113 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,112"
+    },
+    {
+      "ad": "Türk Yemeği 114",
+      "malzemeler": [
+        "yoğurt",
+        "kıyma",
+        "bal",
+        "pastırma",
+        "muskat",
+        "domates"
+      ],
+      "tarif": "Türk yemeği 114 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,113"
+    },
+    {
+      "ad": "Türk Yemeği 115",
+      "malzemeler": [
+        "havuç",
+        "elma",
+        "tortilla",
+        "krem peynir",
+        "bulgur",
+        "pirinç"
+      ],
+      "tarif": "Türk yemeği 115 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,114"
+    },
+    {
+      "ad": "Türk Yemeği 116",
+      "malzemeler": [
+        "ıspanak",
+        "sirke",
+        "balık",
+        "safran",
+        "baklava yufkası",
+        "hindistancevizi"
+      ],
+      "tarif": "Türk yemeği 116 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,115"
+    },
+    {
+      "ad": "Türk Yemeği 117",
+      "malzemeler": [
+        "mozzarella",
+        "ciğer",
+        "yumurta",
+        "hindistancevizi",
+        "parmesan"
+      ],
+      "tarif": "Türk yemeği 117 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,116"
+    },
+    {
+      "ad": "Türk Yemeği 118",
+      "malzemeler": [
+        "pirinç",
+        "muskat",
+        "muz"
+      ],
+      "tarif": "Türk yemeği 118 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,117"
+    },
+    {
+      "ad": "Türk Yemeği 119",
+      "malzemeler": [
+        "yeşil mercimek",
+        "nohut",
+        "kayısı",
+        "armut"
+      ],
+      "tarif": "Türk yemeği 119 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,118"
+    },
+    {
+      "ad": "Türk Yemeği 120",
+      "malzemeler": [
+        "karnabahar",
+        "biber",
+        "acı sos",
+        "kekik",
+        "pul biber"
+      ],
+      "tarif": "Türk yemeği 120 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,119"
+    },
+    {
+      "ad": "Türk Yemeği 121",
+      "malzemeler": [
+        "susam",
+        "hardal",
+        "tereyağı",
+        "böğürtlen"
+      ],
+      "tarif": "Türk yemeği 121 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,120"
+    },
+    {
+      "ad": "Türk Yemeği 122",
+      "malzemeler": [
+        "sucuk",
+        "parmesan",
+        "salça",
+        "hindiba"
+      ],
+      "tarif": "Türk yemeği 122 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,121"
+    },
+    {
+      "ad": "Türk Yemeği 123",
+      "malzemeler": [
+        "mısır",
+        "midye",
+        "hardal",
+        "ananas",
+        "üzüm"
+      ],
+      "tarif": "Türk yemeği 123 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,122"
+    },
+    {
+      "ad": "Türk Yemeği 124",
+      "malzemeler": [
+        "biber",
+        "sarımsak",
+        "yoğurt"
+      ],
+      "tarif": "Türk yemeği 124 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,123"
+    },
+    {
+      "ad": "Türk Yemeği 125",
+      "malzemeler": [
+        "ananas",
+        "kabak",
+        "tereyağı",
+        "haşhaş"
+      ],
+      "tarif": "Türk yemeği 125 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,124"
+    },
+    {
+      "ad": "Türk Yemeği 126",
+      "malzemeler": [
+        "brüksel lahanası",
+        "jalapeno",
+        "bulgur",
+        "sosis",
+        "patates"
+      ],
+      "tarif": "Türk yemeği 126 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,125"
+    },
+    {
+      "ad": "Türk Yemeği 127",
+      "malzemeler": [
+        "hindiba",
+        "süt",
+        "yumurta",
+        "pastırma"
+      ],
+      "tarif": "Türk yemeği 127 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,126"
+    },
+    {
+      "ad": "Türk Yemeği 128",
+      "malzemeler": [
+        "pirinç",
+        "tortilla",
+        "muskat",
+        "sarımsak",
+        "cheddar",
+        "zeytinyağı"
+      ],
+      "tarif": "Türk yemeği 128 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,127"
+    },
+    {
+      "ad": "Türk Yemeği 129",
+      "malzemeler": [
+        "tuz",
+        "pastırma",
+        "muz"
+      ],
+      "tarif": "Türk yemeği 129 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,128"
+    },
+    {
+      "ad": "Türk Yemeği 130",
+      "malzemeler": [
+        "safran",
+        "midye",
+        "çikolata",
+        "kayısı",
+        "sarımsak tozu"
+      ],
+      "tarif": "Türk yemeği 130 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,129"
+    },
+    {
+      "ad": "Türk Yemeği 131",
+      "malzemeler": [
+        "krem peynir",
+        "incir",
+        "krema",
+        "çilek"
+      ],
+      "tarif": "Türk yemeği 131 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,130"
+    },
+    {
+      "ad": "Türk Yemeği 132",
+      "malzemeler": [
+        "acı sos",
+        "armut",
+        "soya sosu",
+        "çilek",
+        "maydanoz"
+      ],
+      "tarif": "Türk yemeği 132 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,131"
+    },
+    {
+      "ad": "Türk Yemeği 133",
+      "malzemeler": [
+        "acı sos",
+        "kuzu eti",
+        "reçel",
+        "mozzarella",
+        "nar",
+        "balık"
+      ],
+      "tarif": "Türk yemeği 133 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,132"
+    },
+    {
+      "ad": "Türk Yemeği 134",
+      "malzemeler": [
+        "pul biber",
+        "et",
+        "brokoli",
+        "sirke"
+      ],
+      "tarif": "Türk yemeği 134 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,133"
+    },
+    {
+      "ad": "Türk Yemeği 135",
+      "malzemeler": [
+        "salça",
+        "hindiba",
+        "tavuk göğsü"
+      ],
+      "tarif": "Türk yemeği 135 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,134"
+    },
+    {
+      "ad": "Türk Yemeği 136",
+      "malzemeler": [
+        "yoğurt",
+        "mısır",
+        "susam",
+        "karnabahar",
+        "safran"
+      ],
+      "tarif": "Türk yemeği 136 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,135"
+    },
+    {
+      "ad": "Türk Yemeği 137",
+      "malzemeler": [
+        "mısır",
+        "kayısı",
+        "soğan",
+        "kabak",
+        "şehriye"
+      ],
+      "tarif": "Türk yemeği 137 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,136"
+    },
+    {
+      "ad": "Türk Yemeği 138",
+      "malzemeler": [
+        "karanfil",
+        "jalapeno",
+        "nar",
+        "tavuk"
+      ],
+      "tarif": "Türk yemeği 138 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,137"
+    },
+    {
+      "ad": "Türk Yemeği 139",
+      "malzemeler": [
+        "muskat",
+        "soya sosu",
+        "kakao",
+        "hindiba"
+      ],
+      "tarif": "Türk yemeği 139 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,138"
+    },
+    {
+      "ad": "Türk Yemeği 140",
+      "malzemeler": [
+        "tuz",
+        "nohut",
+        "acı sos"
+      ],
+      "tarif": "Türk yemeği 140 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,139"
+    },
+    {
+      "ad": "Türk Yemeği 141",
+      "malzemeler": [
+        "zeytin",
+        "zeytinyağı",
+        "ciğer",
+        "domates",
+        "böğürtlen",
+        "acı sos"
+      ],
+      "tarif": "Türk yemeği 141 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,140"
+    },
+    {
+      "ad": "Türk Yemeği 142",
+      "malzemeler": [
+        "karides",
+        "elma",
+        "muskat"
+      ],
+      "tarif": "Türk yemeği 142 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,141"
+    },
+    {
+      "ad": "Türk Yemeği 143",
+      "malzemeler": [
+        "tavuk göğsü",
+        "baharat",
+        "peynir",
+        "sucuk"
+      ],
+      "tarif": "Türk yemeği 143 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,142"
+    },
+    {
+      "ad": "Türk Yemeği 144",
+      "malzemeler": [
+        "bal",
+        "karides",
+        "ayçiçek yağı",
+        "peynir",
+        "safran",
+        "muz"
+      ],
+      "tarif": "Türk yemeği 144 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,143"
+    },
+    {
+      "ad": "Türk Yemeği 145",
+      "malzemeler": [
+        "tereyağı",
+        "yufka",
+        "pastırma",
+        "et suyu"
+      ],
+      "tarif": "Türk yemeği 145 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,144"
+    },
+    {
+      "ad": "Türk Yemeği 146",
+      "malzemeler": [
+        "et",
+        "zeytin",
+        "nane",
+        "hindiba"
+      ],
+      "tarif": "Türk yemeği 146 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,145"
+    },
+    {
+      "ad": "Türk Yemeği 147",
+      "malzemeler": [
+        "baklava yufkası",
+        "tarçın",
+        "tavuk suyu",
+        "zeytin",
+        "nişasta"
+      ],
+      "tarif": "Türk yemeği 147 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,146"
+    },
+    {
+      "ad": "Türk Yemeği 148",
+      "malzemeler": [
+        "zeytinyağı",
+        "brüksel lahanası",
+        "acı sos",
+        "et"
+      ],
+      "tarif": "Türk yemeği 148 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,147"
+    },
+    {
+      "ad": "Türk Yemeği 149",
+      "malzemeler": [
+        "domates",
+        "susam",
+        "reçel",
+        "çilek"
+      ],
+      "tarif": "Türk yemeği 149 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,148"
+    },
+    {
+      "ad": "Türk Yemeği 150",
+      "malzemeler": [
+        "kekik",
+        "kayısı",
+        "mısır",
+        "dereotu",
+        "salça",
+        "biber"
+      ],
+      "tarif": "Türk yemeği 150 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?turkish-food,149"
+    }
+  ],
+  "world": [
+    {
+      "ad": "Dünya Yemeği 1",
+      "malzemeler": [
+        "pirinç",
+        "süt",
+        "tavuk göğsü"
+      ],
+      "tarif": "Dünya yemeği 1 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,0"
+    },
+    {
+      "ad": "Dünya Yemeği 2",
+      "malzemeler": [
+        "kabak çekirdeği",
+        "biber",
+        "cheddar",
+        "şehriye",
+        "nohut",
+        "kuru fasulye"
+      ],
+      "tarif": "Dünya yemeği 2 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,1"
+    },
+    {
+      "ad": "Dünya Yemeği 3",
+      "malzemeler": [
+        "karnabahar",
+        "ekmek",
+        "maydanoz",
+        "tortilla",
+        "pirinç"
+      ],
+      "tarif": "Dünya yemeği 3 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,2"
+    },
+    {
+      "ad": "Dünya Yemeği 4",
+      "malzemeler": [
+        "karides",
+        "nar",
+        "sirke"
+      ],
+      "tarif": "Dünya yemeği 4 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,3"
+    },
+    {
+      "ad": "Dünya Yemeği 5",
+      "malzemeler": [
+        "domates",
+        "muz",
+        "hardal",
+        "lavaş",
+        "ciğer"
+      ],
+      "tarif": "Dünya yemeği 5 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,4"
+    },
+    {
+      "ad": "Dünya Yemeği 6",
+      "malzemeler": [
+        "kabak çekirdeği",
+        "balık",
+        "elma",
+        "sirke"
+      ],
+      "tarif": "Dünya yemeği 6 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,5"
+    },
+    {
+      "ad": "Dünya Yemeği 7",
+      "malzemeler": [
+        "kabak",
+        "pekmez",
+        "lavaş"
+      ],
+      "tarif": "Dünya yemeği 7 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,6"
+    },
+    {
+      "ad": "Dünya Yemeği 8",
+      "malzemeler": [
+        "sucuk",
+        "susam",
+        "un",
+        "makarna",
+        "tarçın",
+        "bal"
+      ],
+      "tarif": "Dünya yemeği 8 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,7"
+    },
+    {
+      "ad": "Dünya Yemeği 9",
+      "malzemeler": [
+        "karnabahar",
+        "sarımsak tozu",
+        "ıspanak"
+      ],
+      "tarif": "Dünya yemeği 9 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,8"
+    },
+    {
+      "ad": "Dünya Yemeği 10",
+      "malzemeler": [
+        "kabak çekirdeği",
+        "kimyon",
+        "çikolata",
+        "nane",
+        "sirke"
+      ],
+      "tarif": "Dünya yemeği 10 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,9"
+    },
+    {
+      "ad": "Dünya Yemeği 11",
+      "malzemeler": [
+        "pastırma",
+        "kıyma",
+        "kabak çekirdeği",
+        "hindiba",
+        "zeytin",
+        "bezelye"
+      ],
+      "tarif": "Dünya yemeği 11 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,10"
+    },
+    {
+      "ad": "Dünya Yemeği 12",
+      "malzemeler": [
+        "hindistancevizi",
+        "kalamar",
+        "soya sosu",
+        "bezelye",
+        "muskat",
+        "domates"
+      ],
+      "tarif": "Dünya yemeği 12 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,11"
+    },
+    {
+      "ad": "Dünya Yemeği 13",
+      "malzemeler": [
+        "tortilla",
+        "lavaş",
+        "nohut"
+      ],
+      "tarif": "Dünya yemeği 13 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,12"
+    },
+    {
+      "ad": "Dünya Yemeği 14",
+      "malzemeler": [
+        "maydanoz",
+        "midye",
+        "karides",
+        "domates"
+      ],
+      "tarif": "Dünya yemeği 14 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,13"
+    },
+    {
+      "ad": "Dünya Yemeği 15",
+      "malzemeler": [
+        "hindistancevizi",
+        "kıyma",
+        "tavuk butu",
+        "böğürtlen",
+        "kalamar",
+        "bezelye"
+      ],
+      "tarif": "Dünya yemeği 15 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,14"
+    },
+    {
+      "ad": "Dünya Yemeği 16",
+      "malzemeler": [
+        "dereotu",
+        "baharat",
+        "böğürtlen"
+      ],
+      "tarif": "Dünya yemeği 16 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,15"
+    },
+    {
+      "ad": "Dünya Yemeği 17",
+      "malzemeler": [
+        "et",
+        "nişasta",
+        "yeşil mercimek",
+        "tavuk göğsü",
+        "balık",
+        "un"
+      ],
+      "tarif": "Dünya yemeği 17 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,16"
+    },
+    {
+      "ad": "Dünya Yemeği 18",
+      "malzemeler": [
+        "böğürtlen",
+        "sosis",
+        "yufka",
+        "ketçap"
+      ],
+      "tarif": "Dünya yemeği 18 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,17"
+    },
+    {
+      "ad": "Dünya Yemeği 19",
+      "malzemeler": [
+        "hardal",
+        "reçel",
+        "et suyu",
+        "ekmek"
+      ],
+      "tarif": "Dünya yemeği 19 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,18"
+    },
+    {
+      "ad": "Dünya Yemeği 20",
+      "malzemeler": [
+        "parmesan",
+        "et",
+        "mozzarella",
+        "nar",
+        "baharat",
+        "hindistancevizi"
+      ],
+      "tarif": "Dünya yemeği 20 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,19"
+    },
+    {
+      "ad": "Dünya Yemeği 21",
+      "malzemeler": [
+        "patates",
+        "ananas",
+        "nane",
+        "fıstık",
+        "baharat"
+      ],
+      "tarif": "Dünya yemeği 21 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,20"
+    },
+    {
+      "ad": "Dünya Yemeği 22",
+      "malzemeler": [
+        "sirke",
+        "tortilla",
+        "dereotu"
+      ],
+      "tarif": "Dünya yemeği 22 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,21"
+    },
+    {
+      "ad": "Dünya Yemeği 23",
+      "malzemeler": [
+        "mısır",
+        "bulgur",
+        "brüksel lahanası",
+        "bal"
+      ],
+      "tarif": "Dünya yemeği 23 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,22"
+    },
+    {
+      "ad": "Dünya Yemeği 24",
+      "malzemeler": [
+        "incir",
+        "yumurta",
+        "dereotu",
+        "hardal"
+      ],
+      "tarif": "Dünya yemeği 24 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,23"
+    },
+    {
+      "ad": "Dünya Yemeği 25",
+      "malzemeler": [
+        "kakao",
+        "et",
+        "tavuk suyu",
+        "lavaş",
+        "zeytin",
+        "midye"
+      ],
+      "tarif": "Dünya yemeği 25 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,24"
+    },
+    {
+      "ad": "Dünya Yemeği 26",
+      "malzemeler": [
+        "tarçın",
+        "yaban mersini",
+        "muz"
+      ],
+      "tarif": "Dünya yemeği 26 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,25"
+    },
+    {
+      "ad": "Dünya Yemeği 27",
+      "malzemeler": [
+        "ceviz",
+        "ananas",
+        "nar",
+        "baharat",
+        "şehriye",
+        "armut"
+      ],
+      "tarif": "Dünya yemeği 27 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,26"
+    },
+    {
+      "ad": "Dünya Yemeği 28",
+      "malzemeler": [
+        "çilek",
+        "kabak çekirdeği",
+        "mısır"
+      ],
+      "tarif": "Dünya yemeği 28 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,27"
+    },
+    {
+      "ad": "Dünya Yemeği 29",
+      "malzemeler": [
+        "karabiber",
+        "tavuk",
+        "pastırma"
+      ],
+      "tarif": "Dünya yemeği 29 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,28"
+    },
+    {
+      "ad": "Dünya Yemeği 30",
+      "malzemeler": [
+        "badem",
+        "et",
+        "şeker"
+      ],
+      "tarif": "Dünya yemeği 30 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,29"
+    },
+    {
+      "ad": "Dünya Yemeği 31",
+      "malzemeler": [
+        "kayısı",
+        "bal",
+        "nişasta",
+        "ciğer",
+        "krema",
+        "vanilin"
+      ],
+      "tarif": "Dünya yemeği 31 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,30"
+    },
+    {
+      "ad": "Dünya Yemeği 32",
+      "malzemeler": [
+        "ceviz",
+        "kekik",
+        "dereotu",
+        "brokoli",
+        "incir"
+      ],
+      "tarif": "Dünya yemeği 32 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,31"
+    },
+    {
+      "ad": "Dünya Yemeği 33",
+      "malzemeler": [
+        "çilek",
+        "havuç",
+        "salça",
+        "patates"
+      ],
+      "tarif": "Dünya yemeği 33 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,32"
+    },
+    {
+      "ad": "Dünya Yemeği 34",
+      "malzemeler": [
+        "brüksel lahanası",
+        "kekik",
+        "hindistancevizi",
+        "yumurta",
+        "pul biber"
+      ],
+      "tarif": "Dünya yemeği 34 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,33"
+    },
+    {
+      "ad": "Dünya Yemeği 35",
+      "malzemeler": [
+        "brüksel lahanası",
+        "pul biber",
+        "şehriye"
+      ],
+      "tarif": "Dünya yemeği 35 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,34"
+    },
+    {
+      "ad": "Dünya Yemeği 36",
+      "malzemeler": [
+        "şeker",
+        "zeytin",
+        "maydanoz",
+        "tarçın"
+      ],
+      "tarif": "Dünya yemeği 36 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,35"
+    },
+    {
+      "ad": "Dünya Yemeği 37",
+      "malzemeler": [
+        "ayçiçek yağı",
+        "sosis",
+        "zeytinyağı",
+        "balık",
+        "tereyağı"
+      ],
+      "tarif": "Dünya yemeği 37 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,36"
+    },
+    {
+      "ad": "Dünya Yemeği 38",
+      "malzemeler": [
+        "tavuk göğsü",
+        "armut",
+        "tuz",
+        "tereyağı"
+      ],
+      "tarif": "Dünya yemeği 38 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,37"
+    },
+    {
+      "ad": "Dünya Yemeği 39",
+      "malzemeler": [
+        "pekmez",
+        "fıstık",
+        "dereotu",
+        "mozzarella",
+        "maydanoz",
+        "tuz"
+      ],
+      "tarif": "Dünya yemeği 39 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,38"
+    },
+    {
+      "ad": "Dünya Yemeği 40",
+      "malzemeler": [
+        "vanilin",
+        "ıspanak",
+        "sucuk",
+        "tuz",
+        "tavuk göğsü",
+        "mısır"
+      ],
+      "tarif": "Dünya yemeği 40 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,39"
+    },
+    {
+      "ad": "Dünya Yemeği 41",
+      "malzemeler": [
+        "et suyu",
+        "hindistancevizi",
+        "jalapeno",
+        "limon",
+        "yoğurt"
+      ],
+      "tarif": "Dünya yemeği 41 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,40"
+    },
+    {
+      "ad": "Dünya Yemeği 42",
+      "malzemeler": [
+        "bal",
+        "fıstık",
+        "mısır"
+      ],
+      "tarif": "Dünya yemeği 42 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,41"
+    },
+    {
+      "ad": "Dünya Yemeği 43",
+      "malzemeler": [
+        "safran",
+        "dereotu",
+        "defne yaprağı",
+        "un",
+        "pul biber",
+        "lavaş"
+      ],
+      "tarif": "Dünya yemeği 43 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,42"
+    },
+    {
+      "ad": "Dünya Yemeği 44",
+      "malzemeler": [
+        "soya sosu",
+        "midye",
+        "ekmek"
+      ],
+      "tarif": "Dünya yemeği 44 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,43"
+    },
+    {
+      "ad": "Dünya Yemeği 45",
+      "malzemeler": [
+        "ananas",
+        "kuzu eti",
+        "mayonez"
+      ],
+      "tarif": "Dünya yemeği 45 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,44"
+    },
+    {
+      "ad": "Dünya Yemeği 46",
+      "malzemeler": [
+        "muskat",
+        "ayçiçek yağı",
+        "kimyon",
+        "susam",
+        "nane"
+      ],
+      "tarif": "Dünya yemeği 46 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,45"
+    },
+    {
+      "ad": "Dünya Yemeği 47",
+      "malzemeler": [
+        "ketçap",
+        "sarımsak tozu",
+        "nişasta",
+        "parmesan",
+        "maydanoz"
+      ],
+      "tarif": "Dünya yemeği 47 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,46"
+    },
+    {
+      "ad": "Dünya Yemeği 48",
+      "malzemeler": [
+        "bal",
+        "lavaş",
+        "nar",
+        "yoğurt",
+        "yumurta"
+      ],
+      "tarif": "Dünya yemeği 48 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,47"
+    },
+    {
+      "ad": "Dünya Yemeği 49",
+      "malzemeler": [
+        "brokoli",
+        "ananas",
+        "kuru fasulye"
+      ],
+      "tarif": "Dünya yemeği 49 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,48"
+    },
+    {
+      "ad": "Dünya Yemeği 50",
+      "malzemeler": [
+        "bulgur",
+        "kekik",
+        "süt",
+        "maydanoz",
+        "havuç"
+      ],
+      "tarif": "Dünya yemeği 50 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,49"
+    },
+    {
+      "ad": "Dünya Yemeği 51",
+      "malzemeler": [
+        "ceviz",
+        "süt",
+        "et",
+        "sosis",
+        "nane",
+        "mozzarella"
+      ],
+      "tarif": "Dünya yemeği 51 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,50"
+    },
+    {
+      "ad": "Dünya Yemeği 52",
+      "malzemeler": [
+        "et suyu",
+        "pastırma",
+        "zeytinyağı"
+      ],
+      "tarif": "Dünya yemeği 52 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,51"
+    },
+    {
+      "ad": "Dünya Yemeği 53",
+      "malzemeler": [
+        "krema",
+        "şehriye",
+        "yaban mersini",
+        "soya sosu"
+      ],
+      "tarif": "Dünya yemeği 53 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,52"
+    },
+    {
+      "ad": "Dünya Yemeği 54",
+      "malzemeler": [
+        "karanfil",
+        "incir",
+        "sosis",
+        "süt",
+        "kakao",
+        "brüksel lahanası"
+      ],
+      "tarif": "Dünya yemeği 54 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,53"
+    },
+    {
+      "ad": "Dünya Yemeği 55",
+      "malzemeler": [
+        "elma",
+        "tavuk",
+        "üzüm",
+        "karnabahar",
+        "bezelye",
+        "baklava yufkası"
+      ],
+      "tarif": "Dünya yemeği 55 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,54"
+    },
+    {
+      "ad": "Dünya Yemeği 56",
+      "malzemeler": [
+        "armut",
+        "kabak",
+        "baklava yufkası",
+        "mantı",
+        "ekmek",
+        "karides"
+      ],
+      "tarif": "Dünya yemeği 56 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,55"
+    },
+    {
+      "ad": "Dünya Yemeği 57",
+      "malzemeler": [
+        "karides",
+        "dereotu",
+        "cheddar"
+      ],
+      "tarif": "Dünya yemeği 57 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,56"
+    },
+    {
+      "ad": "Dünya Yemeği 58",
+      "malzemeler": [
+        "ketçap",
+        "mozzarella",
+        "hindistancevizi",
+        "limon",
+        "brokoli",
+        "kabak çekirdeği"
+      ],
+      "tarif": "Dünya yemeği 58 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,57"
+    },
+    {
+      "ad": "Dünya Yemeği 59",
+      "malzemeler": [
+        "nişasta",
+        "dereotu",
+        "böğürtlen",
+        "pastırma"
+      ],
+      "tarif": "Dünya yemeği 59 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,58"
+    },
+    {
+      "ad": "Dünya Yemeği 60",
+      "malzemeler": [
+        "yeşil mercimek",
+        "midye",
+        "armut",
+        "kayısı",
+        "nişasta"
+      ],
+      "tarif": "Dünya yemeği 60 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,59"
+    },
+    {
+      "ad": "Dünya Yemeği 61",
+      "malzemeler": [
+        "hardal",
+        "vanilin",
+        "kuzu eti",
+        "pirinç"
+      ],
+      "tarif": "Dünya yemeği 61 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,60"
+    },
+    {
+      "ad": "Dünya Yemeği 62",
+      "malzemeler": [
+        "kekik",
+        "lavaş",
+        "armut",
+        "ceviz",
+        "üzüm"
+      ],
+      "tarif": "Dünya yemeği 62 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,61"
+    },
+    {
+      "ad": "Dünya Yemeği 63",
+      "malzemeler": [
+        "et suyu",
+        "lavaş",
+        "şeker",
+        "makarna"
+      ],
+      "tarif": "Dünya yemeği 63 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,62"
+    },
+    {
+      "ad": "Dünya Yemeği 64",
+      "malzemeler": [
+        "kıyma",
+        "nişasta",
+        "ketçap",
+        "pul biber",
+        "parmesan",
+        "peynir"
+      ],
+      "tarif": "Dünya yemeği 64 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,63"
+    },
+    {
+      "ad": "Dünya Yemeği 65",
+      "malzemeler": [
+        "patates",
+        "tarçın",
+        "sirke",
+        "domates"
+      ],
+      "tarif": "Dünya yemeği 65 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,64"
+    },
+    {
+      "ad": "Dünya Yemeği 66",
+      "malzemeler": [
+        "kalamar",
+        "tavuk göğsü",
+        "sosis",
+        "kıyma",
+        "çilek",
+        "nişasta"
+      ],
+      "tarif": "Dünya yemeği 66 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,65"
+    },
+    {
+      "ad": "Dünya Yemeği 67",
+      "malzemeler": [
+        "mozzarella",
+        "zeytin",
+        "maydanoz",
+        "mayonez",
+        "bal",
+        "ketçap"
+      ],
+      "tarif": "Dünya yemeği 67 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,66"
+    },
+    {
+      "ad": "Dünya Yemeği 68",
+      "malzemeler": [
+        "ayçiçek yağı",
+        "baharat",
+        "bulgur",
+        "muz"
+      ],
+      "tarif": "Dünya yemeği 68 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,67"
+    },
+    {
+      "ad": "Dünya Yemeği 69",
+      "malzemeler": [
+        "tavuk göğsü",
+        "sirke",
+        "çikolata"
+      ],
+      "tarif": "Dünya yemeği 69 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,68"
+    },
+    {
+      "ad": "Dünya Yemeği 70",
+      "malzemeler": [
+        "et",
+        "sarımsak",
+        "yaban mersini",
+        "karides",
+        "çikolata"
+      ],
+      "tarif": "Dünya yemeği 70 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,69"
+    },
+    {
+      "ad": "Dünya Yemeği 71",
+      "malzemeler": [
+        "çilek",
+        "yaban mersini",
+        "karnabahar",
+        "baharat",
+        "zeytin",
+        "et suyu"
+      ],
+      "tarif": "Dünya yemeği 71 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,70"
+    },
+    {
+      "ad": "Dünya Yemeği 72",
+      "malzemeler": [
+        "incir",
+        "defne yaprağı",
+        "kekik",
+        "et",
+        "badem",
+        "kayısı"
+      ],
+      "tarif": "Dünya yemeği 72 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,71"
+    },
+    {
+      "ad": "Dünya Yemeği 73",
+      "malzemeler": [
+        "brokoli",
+        "maydanoz",
+        "yaban mersini",
+        "et"
+      ],
+      "tarif": "Dünya yemeği 73 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,72"
+    },
+    {
+      "ad": "Dünya Yemeği 74",
+      "malzemeler": [
+        "acı sos",
+        "karanfil",
+        "mozzarella",
+        "kalamar",
+        "tortilla"
+      ],
+      "tarif": "Dünya yemeği 74 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,73"
+    },
+    {
+      "ad": "Dünya Yemeği 75",
+      "malzemeler": [
+        "ananas",
+        "domates",
+        "tavuk suyu",
+        "karabiber"
+      ],
+      "tarif": "Dünya yemeği 75 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,74"
+    },
+    {
+      "ad": "Dünya Yemeği 76",
+      "malzemeler": [
+        "bulgur",
+        "çilek",
+        "susam",
+        "pul biber",
+        "kalamar",
+        "üzüm"
+      ],
+      "tarif": "Dünya yemeği 76 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,75"
+    },
+    {
+      "ad": "Dünya Yemeği 77",
+      "malzemeler": [
+        "elma",
+        "kıyma",
+        "nar",
+        "ekmek",
+        "mısır"
+      ],
+      "tarif": "Dünya yemeği 77 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,76"
+    },
+    {
+      "ad": "Dünya Yemeği 78",
+      "malzemeler": [
+        "üzüm",
+        "yoğurt",
+        "pekmez",
+        "tavuk",
+        "incir",
+        "baharat"
+      ],
+      "tarif": "Dünya yemeği 78 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,77"
+    },
+    {
+      "ad": "Dünya Yemeği 79",
+      "malzemeler": [
+        "nar",
+        "bal",
+        "mayonez",
+        "armut",
+        "ceviz",
+        "makarna"
+      ],
+      "tarif": "Dünya yemeği 79 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,78"
+    },
+    {
+      "ad": "Dünya Yemeği 80",
+      "malzemeler": [
+        "hindistancevizi",
+        "et suyu",
+        "yoğurt",
+        "brüksel lahanası",
+        "kekik",
+        "jalapeno"
+      ],
+      "tarif": "Dünya yemeği 80 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,79"
+    },
+    {
+      "ad": "Dünya Yemeği 81",
+      "malzemeler": [
+        "baharat",
+        "tarçın",
+        "hardal",
+        "lavaş",
+        "et suyu"
+      ],
+      "tarif": "Dünya yemeği 81 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,80"
+    },
+    {
+      "ad": "Dünya Yemeği 82",
+      "malzemeler": [
+        "limon",
+        "un",
+        "baklava yufkası"
+      ],
+      "tarif": "Dünya yemeği 82 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,81"
+    },
+    {
+      "ad": "Dünya Yemeği 83",
+      "malzemeler": [
+        "armut",
+        "hindiba",
+        "şehriye",
+        "un",
+        "hardal"
+      ],
+      "tarif": "Dünya yemeği 83 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,82"
+    },
+    {
+      "ad": "Dünya Yemeği 84",
+      "malzemeler": [
+        "mozzarella",
+        "pul biber",
+        "yumurta"
+      ],
+      "tarif": "Dünya yemeği 84 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,83"
+    },
+    {
+      "ad": "Dünya Yemeği 85",
+      "malzemeler": [
+        "biber",
+        "kekik",
+        "kabak çekirdeği",
+        "tarçın",
+        "zeytinyağı"
+      ],
+      "tarif": "Dünya yemeği 85 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,84"
+    },
+    {
+      "ad": "Dünya Yemeği 86",
+      "malzemeler": [
+        "muz",
+        "brüksel lahanası",
+        "et",
+        "jalapeno",
+        "nane"
+      ],
+      "tarif": "Dünya yemeği 86 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,85"
+    },
+    {
+      "ad": "Dünya Yemeği 87",
+      "malzemeler": [
+        "kalamar",
+        "mozzarella",
+        "mayonez",
+        "haşhaş",
+        "incir",
+        "üzüm"
+      ],
+      "tarif": "Dünya yemeği 87 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,86"
+    },
+    {
+      "ad": "Dünya Yemeği 88",
+      "malzemeler": [
+        "fındık",
+        "kekik",
+        "kabak"
+      ],
+      "tarif": "Dünya yemeği 88 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,87"
+    },
+    {
+      "ad": "Dünya Yemeği 89",
+      "malzemeler": [
+        "karides",
+        "midye",
+        "kabak çekirdeği"
+      ],
+      "tarif": "Dünya yemeği 89 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,88"
+    },
+    {
+      "ad": "Dünya Yemeği 90",
+      "malzemeler": [
+        "makarna",
+        "şeker",
+        "kakao",
+        "pul biber",
+        "tereyağı",
+        "salça"
+      ],
+      "tarif": "Dünya yemeği 90 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,89"
+    },
+    {
+      "ad": "Dünya Yemeği 91",
+      "malzemeler": [
+        "yeşil mercimek",
+        "çilek",
+        "krem peynir"
+      ],
+      "tarif": "Dünya yemeği 91 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,90"
+    },
+    {
+      "ad": "Dünya Yemeği 92",
+      "malzemeler": [
+        "peynir",
+        "bal",
+        "cheddar",
+        "yaban mersini",
+        "karabiber"
+      ],
+      "tarif": "Dünya yemeği 92 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,91"
+    },
+    {
+      "ad": "Dünya Yemeği 93",
+      "malzemeler": [
+        "ayçiçek yağı",
+        "fındık",
+        "ketçap",
+        "tereyağı"
+      ],
+      "tarif": "Dünya yemeği 93 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,92"
+    },
+    {
+      "ad": "Dünya Yemeği 94",
+      "malzemeler": [
+        "hindiba",
+        "mayonez",
+        "dereotu"
+      ],
+      "tarif": "Dünya yemeği 94 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,93"
+    },
+    {
+      "ad": "Dünya Yemeği 95",
+      "malzemeler": [
+        "hindistancevizi",
+        "kakao",
+        "mısır"
+      ],
+      "tarif": "Dünya yemeği 95 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,94"
+    },
+    {
+      "ad": "Dünya Yemeği 96",
+      "malzemeler": [
+        "şeker",
+        "kayısı",
+        "et suyu",
+        "salça",
+        "krem peynir"
+      ],
+      "tarif": "Dünya yemeği 96 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,95"
+    },
+    {
+      "ad": "Dünya Yemeği 97",
+      "malzemeler": [
+        "brüksel lahanası",
+        "zeytin",
+        "muskat"
+      ],
+      "tarif": "Dünya yemeği 97 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,96"
+    },
+    {
+      "ad": "Dünya Yemeği 98",
+      "malzemeler": [
+        "peynir",
+        "mayonez",
+        "armut",
+        "çikolata",
+        "krema"
+      ],
+      "tarif": "Dünya yemeği 98 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,97"
+    },
+    {
+      "ad": "Dünya Yemeği 99",
+      "malzemeler": [
+        "kakao",
+        "brokoli",
+        "limon",
+        "sarımsak tozu"
+      ],
+      "tarif": "Dünya yemeği 99 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,98"
+    },
+    {
+      "ad": "Dünya Yemeği 100",
+      "malzemeler": [
+        "tarçın",
+        "süt",
+        "et suyu",
+        "pul biber",
+        "tavuk göğsü",
+        "bezelye"
+      ],
+      "tarif": "Dünya yemeği 100 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,99"
+    },
+    {
+      "ad": "Dünya Yemeği 101",
+      "malzemeler": [
+        "baklava yufkası",
+        "tavuk suyu",
+        "cheddar",
+        "vanilin",
+        "sosis",
+        "zeytinyağı"
+      ],
+      "tarif": "Dünya yemeği 101 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,100"
+    },
+    {
+      "ad": "Dünya Yemeği 102",
+      "malzemeler": [
+        "biber",
+        "nane",
+        "kalamar",
+        "ketçap",
+        "mayonez",
+        "bezelye"
+      ],
+      "tarif": "Dünya yemeği 102 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,101"
+    },
+    {
+      "ad": "Dünya Yemeği 103",
+      "malzemeler": [
+        "tavuk",
+        "kuzu eti",
+        "şehriye",
+        "tarçın",
+        "cheddar"
+      ],
+      "tarif": "Dünya yemeği 103 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,102"
+    },
+    {
+      "ad": "Dünya Yemeği 104",
+      "malzemeler": [
+        "çilek",
+        "armut",
+        "sosis",
+        "balık"
+      ],
+      "tarif": "Dünya yemeği 104 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,103"
+    },
+    {
+      "ad": "Dünya Yemeği 105",
+      "malzemeler": [
+        "kıyma",
+        "sarımsak",
+        "tavuk suyu"
+      ],
+      "tarif": "Dünya yemeği 105 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,104"
+    },
+    {
+      "ad": "Dünya Yemeği 106",
+      "malzemeler": [
+        "şeker",
+        "zeytin",
+        "sarımsak",
+        "zeytinyağı"
+      ],
+      "tarif": "Dünya yemeği 106 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,105"
+    },
+    {
+      "ad": "Dünya Yemeği 107",
+      "malzemeler": [
+        "nar",
+        "tavuk",
+        "sucuk"
+      ],
+      "tarif": "Dünya yemeği 107 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,106"
+    },
+    {
+      "ad": "Dünya Yemeği 108",
+      "malzemeler": [
+        "kakao",
+        "tavuk",
+        "vanilin"
+      ],
+      "tarif": "Dünya yemeği 108 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,107"
+    },
+    {
+      "ad": "Dünya Yemeği 109",
+      "malzemeler": [
+        "nar",
+        "pastırma",
+        "biber"
+      ],
+      "tarif": "Dünya yemeği 109 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,108"
+    },
+    {
+      "ad": "Dünya Yemeği 110",
+      "malzemeler": [
+        "et",
+        "kimyon",
+        "çilek",
+        "nişasta"
+      ],
+      "tarif": "Dünya yemeği 110 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,109"
+    },
+    {
+      "ad": "Dünya Yemeği 111",
+      "malzemeler": [
+        "ıspanak",
+        "tuz",
+        "karanfil",
+        "böğürtlen",
+        "et"
+      ],
+      "tarif": "Dünya yemeği 111 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,110"
+    },
+    {
+      "ad": "Dünya Yemeği 112",
+      "malzemeler": [
+        "çikolata",
+        "bulgur",
+        "yoğurt"
+      ],
+      "tarif": "Dünya yemeği 112 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,111"
+    },
+    {
+      "ad": "Dünya Yemeği 113",
+      "malzemeler": [
+        "havuç",
+        "baklava yufkası",
+        "kalamar"
+      ],
+      "tarif": "Dünya yemeği 113 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,112"
+    },
+    {
+      "ad": "Dünya Yemeği 114",
+      "malzemeler": [
+        "yumurta",
+        "şeker",
+        "parmesan",
+        "kuru fasulye",
+        "patates"
+      ],
+      "tarif": "Dünya yemeği 114 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,113"
+    },
+    {
+      "ad": "Dünya Yemeği 115",
+      "malzemeler": [
+        "ananas",
+        "pastırma",
+        "ketçap",
+        "cheddar",
+        "tereyağı",
+        "lavaş"
+      ],
+      "tarif": "Dünya yemeği 115 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,114"
+    },
+    {
+      "ad": "Dünya Yemeği 116",
+      "malzemeler": [
+        "pul biber",
+        "ayçiçek yağı",
+        "çilek",
+        "muz",
+        "karnabahar",
+        "pekmez"
+      ],
+      "tarif": "Dünya yemeği 116 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,115"
+    },
+    {
+      "ad": "Dünya Yemeği 117",
+      "malzemeler": [
+        "üzüm",
+        "fasulye",
+        "yoğurt"
+      ],
+      "tarif": "Dünya yemeği 117 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,116"
+    },
+    {
+      "ad": "Dünya Yemeği 118",
+      "malzemeler": [
+        "limon",
+        "armut",
+        "elma",
+        "safran"
+      ],
+      "tarif": "Dünya yemeği 118 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,117"
+    },
+    {
+      "ad": "Dünya Yemeği 119",
+      "malzemeler": [
+        "baharat",
+        "yoğurt",
+        "brokoli",
+        "dereotu",
+        "karabiber",
+        "çilek"
+      ],
+      "tarif": "Dünya yemeği 119 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,118"
+    },
+    {
+      "ad": "Dünya Yemeği 120",
+      "malzemeler": [
+        "kakao",
+        "tavuk",
+        "haşhaş",
+        "sosis",
+        "domates",
+        "kekik"
+      ],
+      "tarif": "Dünya yemeği 120 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,119"
+    },
+    {
+      "ad": "Dünya Yemeği 121",
+      "malzemeler": [
+        "tereyağı",
+        "haşhaş",
+        "sucuk",
+        "kayısı",
+        "hindistancevizi"
+      ],
+      "tarif": "Dünya yemeği 121 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,120"
+    },
+    {
+      "ad": "Dünya Yemeği 122",
+      "malzemeler": [
+        "sirke",
+        "yeşil mercimek",
+        "karnabahar"
+      ],
+      "tarif": "Dünya yemeği 122 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,121"
+    },
+    {
+      "ad": "Dünya Yemeği 123",
+      "malzemeler": [
+        "yaban mersini",
+        "tavuk butu",
+        "armut"
+      ],
+      "tarif": "Dünya yemeği 123 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,122"
+    },
+    {
+      "ad": "Dünya Yemeği 124",
+      "malzemeler": [
+        "zeytin",
+        "makarna",
+        "incir",
+        "ciğer"
+      ],
+      "tarif": "Dünya yemeği 124 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,123"
+    },
+    {
+      "ad": "Dünya Yemeği 125",
+      "malzemeler": [
+        "kuru fasulye",
+        "kimyon",
+        "makarna",
+        "nane",
+        "krem peynir",
+        "fasulye"
+      ],
+      "tarif": "Dünya yemeği 125 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,124"
+    },
+    {
+      "ad": "Dünya Yemeği 126",
+      "malzemeler": [
+        "patates",
+        "kabak çekirdeği",
+        "kuru fasulye",
+        "bezelye",
+        "nar",
+        "sarımsak tozu"
+      ],
+      "tarif": "Dünya yemeği 126 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,125"
+    },
+    {
+      "ad": "Dünya Yemeği 127",
+      "malzemeler": [
+        "pekmez",
+        "defne yaprağı",
+        "fıstık",
+        "acı sos"
+      ],
+      "tarif": "Dünya yemeği 127 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,126"
+    },
+    {
+      "ad": "Dünya Yemeği 128",
+      "malzemeler": [
+        "çilek",
+        "kuru fasulye",
+        "muz",
+        "böğürtlen"
+      ],
+      "tarif": "Dünya yemeği 128 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,127"
+    },
+    {
+      "ad": "Dünya Yemeği 129",
+      "malzemeler": [
+        "kabak",
+        "maydanoz",
+        "soğan",
+        "fındık"
+      ],
+      "tarif": "Dünya yemeği 129 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,128"
+    },
+    {
+      "ad": "Dünya Yemeği 130",
+      "malzemeler": [
+        "limon",
+        "ketçap",
+        "vanilin"
+      ],
+      "tarif": "Dünya yemeği 130 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,129"
+    },
+    {
+      "ad": "Dünya Yemeği 131",
+      "malzemeler": [
+        "muz",
+        "tereyağı",
+        "pekmez",
+        "sirke",
+        "yeşil mercimek",
+        "karabiber"
+      ],
+      "tarif": "Dünya yemeği 131 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,130"
+    },
+    {
+      "ad": "Dünya Yemeği 132",
+      "malzemeler": [
+        "safran",
+        "susam",
+        "limon",
+        "defne yaprağı",
+        "bulgur"
+      ],
+      "tarif": "Dünya yemeği 132 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,131"
+    },
+    {
+      "ad": "Dünya Yemeği 133",
+      "malzemeler": [
+        "pekmez",
+        "limon",
+        "karanfil",
+        "et",
+        "muz"
+      ],
+      "tarif": "Dünya yemeği 133 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,132"
+    },
+    {
+      "ad": "Dünya Yemeği 134",
+      "malzemeler": [
+        "tavuk",
+        "kuzu eti",
+        "sirke",
+        "soya sosu",
+        "brokoli",
+        "tavuk suyu"
+      ],
+      "tarif": "Dünya yemeği 134 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,133"
+    },
+    {
+      "ad": "Dünya Yemeği 135",
+      "malzemeler": [
+        "krema",
+        "sosis",
+        "havuç",
+        "lavaş",
+        "fıstık"
+      ],
+      "tarif": "Dünya yemeği 135 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,134"
+    },
+    {
+      "ad": "Dünya Yemeği 136",
+      "malzemeler": [
+        "kalamar",
+        "kabak çekirdeği",
+        "tavuk",
+        "baklava yufkası",
+        "domates",
+        "tavuk suyu"
+      ],
+      "tarif": "Dünya yemeği 136 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,135"
+    },
+    {
+      "ad": "Dünya Yemeği 137",
+      "malzemeler": [
+        "mantı",
+        "karnabahar",
+        "hardal"
+      ],
+      "tarif": "Dünya yemeği 137 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,136"
+    },
+    {
+      "ad": "Dünya Yemeği 138",
+      "malzemeler": [
+        "soğan",
+        "et",
+        "dereotu",
+        "çikolata",
+        "sarımsak",
+        "brokoli"
+      ],
+      "tarif": "Dünya yemeği 138 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,137"
+    },
+    {
+      "ad": "Dünya Yemeği 139",
+      "malzemeler": [
+        "un",
+        "ciğer",
+        "sosis",
+        "reçel",
+        "şehriye",
+        "badem"
+      ],
+      "tarif": "Dünya yemeği 139 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,138"
+    },
+    {
+      "ad": "Dünya Yemeği 140",
+      "malzemeler": [
+        "limon",
+        "tavuk göğsü",
+        "kuzu eti",
+        "tavuk butu"
+      ],
+      "tarif": "Dünya yemeği 140 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,139"
+    },
+    {
+      "ad": "Dünya Yemeği 141",
+      "malzemeler": [
+        "çikolata",
+        "domates",
+        "armut",
+        "ekmek",
+        "soya sosu",
+        "tortilla"
+      ],
+      "tarif": "Dünya yemeği 141 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,140"
+    },
+    {
+      "ad": "Dünya Yemeği 142",
+      "malzemeler": [
+        "kıyma",
+        "süt",
+        "karabiber"
+      ],
+      "tarif": "Dünya yemeği 142 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,141"
+    },
+    {
+      "ad": "Dünya Yemeği 143",
+      "malzemeler": [
+        "nane",
+        "defne yaprağı",
+        "ciğer",
+        "nar",
+        "baklava yufkası",
+        "fıstık"
+      ],
+      "tarif": "Dünya yemeği 143 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,142"
+    },
+    {
+      "ad": "Dünya Yemeği 144",
+      "malzemeler": [
+        "limon",
+        "kekik",
+        "karnabahar",
+        "nişasta"
+      ],
+      "tarif": "Dünya yemeği 144 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,143"
+    },
+    {
+      "ad": "Dünya Yemeği 145",
+      "malzemeler": [
+        "susam",
+        "mayonez",
+        "karanfil",
+        "lavaş",
+        "tavuk göğsü"
+      ],
+      "tarif": "Dünya yemeği 145 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,144"
+    },
+    {
+      "ad": "Dünya Yemeği 146",
+      "malzemeler": [
+        "tavuk butu",
+        "tuz",
+        "karnabahar"
+      ],
+      "tarif": "Dünya yemeği 146 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,145"
+    },
+    {
+      "ad": "Dünya Yemeği 147",
+      "malzemeler": [
+        "kabak çekirdeği",
+        "karanfil",
+        "badem",
+        "karides"
+      ],
+      "tarif": "Dünya yemeği 147 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,146"
+    },
+    {
+      "ad": "Dünya Yemeği 148",
+      "malzemeler": [
+        "ıspanak",
+        "mantı",
+        "kakao",
+        "ciğer"
+      ],
+      "tarif": "Dünya yemeği 148 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,147"
+    },
+    {
+      "ad": "Dünya Yemeği 149",
+      "malzemeler": [
+        "mayonez",
+        "şehriye",
+        "tavuk",
+        "brokoli",
+        "kalamar"
+      ],
+      "tarif": "Dünya yemeği 149 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,148"
+    },
+    {
+      "ad": "Dünya Yemeği 150",
+      "malzemeler": [
+        "nar",
+        "tortilla",
+        "tavuk göğsü"
+      ],
+      "tarif": "Dünya yemeği 150 tarif açıklaması burada yer alır.",
+      "img": "https://source.unsplash.com/800x600/?world-food,149"
+    }
+  ]
+}
