@@ -1,0 +1,3631 @@
+[
+  {
+    "id": 1,
+    "name": "Mercimek Köftesi",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Mercimek Köftesi özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+    "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+    "tr": {
+      "name": "Mercimek Köftesi",
+      "description": "Mercimek Köftesi özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "en": {
+      "name": "Lentil Balls",
+      "description": "Traditional lentil patties blended with fine spices.",
+      "why": "A comforting and healthy choice."
+    }
+  },
+  {
+    "id": 2,
+    "name": "Chow Mein",
+    "moods": [
+      "mutlu"
+    ],
+    "description": "Chow Mein mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+    "why": "Romantik bir akşam ya da özel bir mola için birebir.",
+    "tr": {
+      "name": "Chow Mein",
+      "description": "Chow Mein mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "why": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "en": {
+      "name": "Chow Mein",
+      "description": "Chow Mein is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 3,
+    "name": "Pizza Margherita",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Pizza Margherita hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+    "why": "Romantik bir akşam ya da özel bir mola için birebir.",
+    "tr": {
+      "name": "Pizza Margherita",
+      "description": "Pizza Margherita hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+      "why": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "en": {
+      "name": "Pizza Margherita",
+      "description": "Pizza Margherita is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 4,
+    "name": "Ramen",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Ramen mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+    "why": "Romantik bir akşam ya da özel bir mola için birebir.",
+    "tr": {
+      "name": "Ramen",
+      "description": "Ramen mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "why": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "en": {
+      "name": "Ramen",
+      "description": "Ramen is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 5,
+    "name": "Poutine",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Poutine geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+    "why": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!",
+    "tr": {
+      "name": "Poutine",
+      "description": "Poutine geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "why": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!"
+    },
+    "en": {
+      "name": "Poutine",
+      "description": "Poutine is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 6,
+    "name": "Sauerbraten",
+    "moods": [
+      "mutlu"
+    ],
+    "description": "Sauerbraten farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+    "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+    "tr": {
+      "name": "Sauerbraten",
+      "description": "Sauerbraten farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+      "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "en": {
+      "name": "Sauerbraten",
+      "description": "Sauerbraten is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 7,
+    "name": "Ceviche",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Ceviche doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+    "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+    "tr": {
+      "name": "Ceviche",
+      "description": "Ceviche doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+      "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "en": {
+      "name": "Ceviche",
+      "description": "Ceviche is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 8,
+    "name": "Tom Yum",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Tom Yum farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+    "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+    "tr": {
+      "name": "Tom Yum",
+      "description": "Tom Yum farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+      "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "en": {
+      "name": "Tom Yum",
+      "description": "Tom Yum is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 9,
+    "name": "Empanadas",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Empanadas yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+    "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+    "tr": {
+      "name": "Empanadas",
+      "description": "Empanadas yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "en": {
+      "name": "Empanadas",
+      "description": "Empanadas is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 10,
+    "name": "Bulgur Pilavı",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "Bulgur Pilavı yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+    "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+    "tr": {
+      "name": "Bulgur Pilavı",
+      "description": "Bulgur Pilavı yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "en": {
+      "name": "Bulgur Pilavı",
+      "description": "Bulgur Pilavı is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 11,
+    "name": "Tacos",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Tacos mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+    "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+    "tr": {
+      "name": "Tacos",
+      "description": "Tacos mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "en": {
+      "name": "Tacos",
+      "description": "Tacos is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 12,
+    "name": "Yoğurtlu Patates",
+    "moods": [
+      "mutlu"
+    ],
+    "description": "Yoğurtlu Patates mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+    "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+    "tr": {
+      "name": "Yoğurtlu Patates",
+      "description": "Yoğurtlu Patates mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "en": {
+      "name": "Yoğurtlu Patates",
+      "description": "Yoğurtlu Patates is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 13,
+    "name": "Okonomiyaki",
+    "moods": [
+      "romantik"
+    ],
+    "description": "Okonomiyaki mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+    "why": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek.",
+    "tr": {
+      "name": "Okonomiyaki",
+      "description": "Okonomiyaki mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "why": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek."
+    },
+    "en": {
+      "name": "Okonomiyaki",
+      "description": "Okonomiyaki is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 14,
+    "name": "Etli Nohut",
+    "moods": [
+      "romantik"
+    ],
+    "description": "Etli Nohut doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+    "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+    "tr": {
+      "name": "Etli Nohut",
+      "description": "Etli Nohut doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+      "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "en": {
+      "name": "Etli Nohut",
+      "description": "Etli Nohut is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 15,
+    "name": "Arnavut Ciğeri",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Arnavut Ciğeri hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir.",
+    "why": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!",
+    "tr": {
+      "name": "Arnavut Ciğeri",
+      "description": "Arnavut Ciğeri hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir.",
+      "why": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!"
+    },
+    "en": {
+      "name": "Arnavut Ciğeri",
+      "description": "Arnavut Ciğeri is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 16,
+    "name": "Bouillabaisse",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "Bouillabaisse özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+    "why": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!",
+    "tr": {
+      "name": "Bouillabaisse",
+      "description": "Bouillabaisse özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "why": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!"
+    },
+    "en": {
+      "name": "Bouillabaisse",
+      "description": "Bouillabaisse is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 17,
+    "name": "Katsu Curry",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Katsu Curry bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+    "why": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek.",
+    "tr": {
+      "name": "Katsu Curry",
+      "description": "Katsu Curry bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "why": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek."
+    },
+    "en": {
+      "name": "Katsu Curry",
+      "description": "Katsu Curry is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 18,
+    "name": "Ciğer Tava",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Ciğer Tava farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+    "why": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek.",
+    "tr": {
+      "name": "Ciğer Tava",
+      "description": "Ciğer Tava farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+      "why": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek."
+    },
+    "en": {
+      "name": "Ciğer Tava",
+      "description": "Ciğer Tava is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 19,
+    "name": "Kuzu Şiş",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Kuzu Şiş özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+    "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+    "tr": {
+      "name": "Kuzu Şiş",
+      "description": "Kuzu Şiş özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "en": {
+      "name": "Kuzu Şiş",
+      "description": "Kuzu Şiş is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 20,
+    "name": "Köfte Ekmek",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Köfte Ekmek özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+    "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+    "tr": {
+      "name": "Köfte Ekmek",
+      "description": "Köfte Ekmek özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "en": {
+      "name": "Köfte Ekmek",
+      "description": "Köfte Ekmek is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 21,
+    "name": "Kimchi",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "Kimchi geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+    "why": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek.",
+    "tr": {
+      "name": "Kimchi",
+      "description": "Kimchi geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "why": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek."
+    },
+    "en": {
+      "name": "Kimchi",
+      "description": "Kimchi is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 22,
+    "name": "Yakitori",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "Yakitori geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+    "why": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!",
+    "tr": {
+      "name": "Yakitori",
+      "description": "Yakitori geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "why": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!"
+    },
+    "en": {
+      "name": "Yakitori",
+      "description": "Yakitori is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 23,
+    "name": "Bibimbap",
+    "moods": [
+      "romantik"
+    ],
+    "description": "Bibimbap mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+    "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+    "tr": {
+      "name": "Bibimbap",
+      "description": "Bibimbap mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "en": {
+      "name": "Bibimbap",
+      "description": "Bibimbap is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 24,
+    "name": "Kumpir",
+    "moods": [
+      "romantik"
+    ],
+    "description": "Kumpir hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+    "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+    "tr": {
+      "name": "Kumpir",
+      "description": "Kumpir hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+      "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "en": {
+      "name": "Kumpir",
+      "description": "Kumpir is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 25,
+    "name": "Çılbır",
+    "moods": [
+      "mutlu"
+    ],
+    "description": "Çılbır yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+    "why": "Romantik bir akşam ya da özel bir mola için birebir.",
+    "tr": {
+      "name": "Çılbır",
+      "description": "Çılbır yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "why": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "en": {
+      "name": "Çılbır",
+      "description": "Çılbır is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 26,
+    "name": "Sucuklu Yumurta",
+    "moods": [
+      "romantik"
+    ],
+    "description": "Sucuklu Yumurta doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+    "why": "Romantik bir akşam ya da özel bir mola için birebir.",
+    "tr": {
+      "name": "Sucuklu Yumurta",
+      "description": "Sucuklu Yumurta doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+      "why": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "en": {
+      "name": "Sucuklu Yumurta",
+      "description": "Sucuklu Yumurta is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 27,
+    "name": "Adana Kebap",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Adana Kebap hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+    "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+    "tr": {
+      "name": "Adana Kebap",
+      "description": "Adana Kebap hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+      "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "en": {
+      "name": "Adana Kebap",
+      "description": "Adana Kebap is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 28,
+    "name": "Ratatouille",
+    "moods": [
+      "romantik"
+    ],
+    "description": "Ratatouille hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+    "why": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!",
+    "tr": {
+      "name": "Ratatouille",
+      "description": "Ratatouille hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+      "why": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!"
+    },
+    "en": {
+      "name": "Ratatouille",
+      "description": "Ratatouille is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 29,
+    "name": "Karnabahar Graten",
+    "moods": [
+      "romantik"
+    ],
+    "description": "Karnabahar Graten yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+    "why": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!",
+    "tr": {
+      "name": "Karnabahar Graten",
+      "description": "Karnabahar Graten yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "why": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!"
+    },
+    "en": {
+      "name": "Karnabahar Graten",
+      "description": "Karnabahar Graten is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 30,
+    "name": "Croissant",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Croissant özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+    "why": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!",
+    "tr": {
+      "name": "Croissant",
+      "description": "Croissant özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "why": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!"
+    },
+    "en": {
+      "name": "Croissant",
+      "description": "Croissant is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 31,
+    "name": "Goulash",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "Goulash özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+    "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+    "tr": {
+      "name": "Goulash",
+      "description": "Goulash özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "en": {
+      "name": "Goulash",
+      "description": "Goulash is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 32,
+    "name": "Çoban Salata",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Çoban Salata farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+    "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+    "tr": {
+      "name": "Çoban Salata",
+      "description": "Çoban Salata farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+      "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "en": {
+      "name": "Çoban Salata",
+      "description": "Çoban Salata is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 33,
+    "name": "Mapo Tofu",
+    "moods": [
+      "mutlu"
+    ],
+    "description": "Mapo Tofu özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+    "why": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek.",
+    "tr": {
+      "name": "Mapo Tofu",
+      "description": "Mapo Tofu özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "why": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek."
+    },
+    "en": {
+      "name": "Mapo Tofu",
+      "description": "Mapo Tofu is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 34,
+    "name": "Khachapuri",
+    "moods": [
+      "mutlu"
+    ],
+    "description": "Khachapuri doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+    "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+    "tr": {
+      "name": "Khachapuri",
+      "description": "Khachapuri doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+      "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "en": {
+      "name": "Khachapuri",
+      "description": "Khachapuri is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 35,
+    "name": "Pad Thai",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "Pad Thai doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+    "why": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!",
+    "tr": {
+      "name": "Pad Thai",
+      "description": "Pad Thai doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+      "why": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!"
+    },
+    "en": {
+      "name": "Pad Thai",
+      "description": "Pad Thai is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 36,
+    "name": "Falafel",
+    "moods": [
+      "mutlu"
+    ],
+    "description": "Falafel yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+    "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+    "tr": {
+      "name": "Falafel",
+      "description": "Falafel yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "en": {
+      "name": "Falafel",
+      "description": "Falafel is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 37,
+    "name": "Havuç Tarator",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Havuç Tarator mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+    "why": "Romantik bir akşam ya da özel bir mola için birebir.",
+    "tr": {
+      "name": "Havuç Tarator",
+      "description": "Havuç Tarator mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "why": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "en": {
+      "name": "Havuç Tarator",
+      "description": "Havuç Tarator is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 38,
+    "name": "Kabak Mücver",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Kabak Mücver dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+    "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+    "tr": {
+      "name": "Kabak Mücver",
+      "description": "Kabak Mücver dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+      "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "en": {
+      "name": "Kabak Mücver",
+      "description": "Kabak Mücver is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 39,
+    "name": "Tantuni",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Tantuni dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+    "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+    "tr": {
+      "name": "Tantuni",
+      "description": "Tantuni dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+      "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "en": {
+      "name": "Tantuni",
+      "description": "Tantuni is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 40,
+    "name": "Kahvaltı Tabağı",
+    "moods": [
+      "romantik"
+    ],
+    "description": "Kahvaltı Tabağı bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+    "why": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek.",
+    "tr": {
+      "name": "Kahvaltı Tabağı",
+      "description": "Kahvaltı Tabağı bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "why": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek."
+    },
+    "en": {
+      "name": "Kahvaltı Tabağı",
+      "description": "Kahvaltı Tabağı is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 41,
+    "name": "Kısır",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Kısır bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+    "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+    "tr": {
+      "name": "Kısır",
+      "description": "Kısır bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "en": {
+      "name": "Kısır",
+      "description": "Kısır is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 42,
+    "name": "Sulu Köfte",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Sulu Köfte yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+    "why": "Romantik bir akşam ya da özel bir mola için birebir.",
+    "tr": {
+      "name": "Sulu Köfte",
+      "description": "Sulu Köfte yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "why": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "en": {
+      "name": "Sulu Köfte",
+      "description": "Sulu Köfte is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 43,
+    "name": "Shakshuka",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Shakshuka doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+    "why": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!",
+    "tr": {
+      "name": "Shakshuka",
+      "description": "Shakshuka doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+      "why": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!"
+    },
+    "en": {
+      "name": "Shakshuka",
+      "description": "Shakshuka is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 44,
+    "name": "Arepas",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "Arepas mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+    "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+    "tr": {
+      "name": "Arepas",
+      "description": "Arepas mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "en": {
+      "name": "Arepas",
+      "description": "Arepas is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 45,
+    "name": "Gnocchi",
+    "moods": [
+      "mutlu"
+    ],
+    "description": "Gnocchi yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+    "why": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!",
+    "tr": {
+      "name": "Gnocchi",
+      "description": "Gnocchi yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "why": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!"
+    },
+    "en": {
+      "name": "Gnocchi",
+      "description": "Gnocchi is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 46,
+    "name": "Tamales",
+    "moods": [
+      "mutlu"
+    ],
+    "description": "Tamales mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+    "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+    "tr": {
+      "name": "Tamales",
+      "description": "Tamales mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "en": {
+      "name": "Tamales",
+      "description": "Tamales is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 47,
+    "name": "Fırın Tavuk",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Fırın Tavuk farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+    "why": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek.",
+    "tr": {
+      "name": "Fırın Tavuk",
+      "description": "Fırın Tavuk farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+      "why": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek."
+    },
+    "en": {
+      "name": "Fırın Tavuk",
+      "description": "Fırın Tavuk is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 48,
+    "name": "Paneer Tikka",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "Paneer Tikka bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+    "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+    "tr": {
+      "name": "Paneer Tikka",
+      "description": "Paneer Tikka bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "en": {
+      "name": "Paneer Tikka",
+      "description": "Paneer Tikka is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 49,
+    "name": "Chimichurri Steak",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "Chimichurri Steak geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+    "why": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!",
+    "tr": {
+      "name": "Chimichurri Steak",
+      "description": "Chimichurri Steak geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "why": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!"
+    },
+    "en": {
+      "name": "Chimichurri Steak",
+      "description": "Chimichurri Steak is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 50,
+    "name": "Cepelinai",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Cepelinai mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+    "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+    "tr": {
+      "name": "Cepelinai",
+      "description": "Cepelinai mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "en": {
+      "name": "Cepelinai",
+      "description": "Cepelinai is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 51,
+    "name": "Pide",
+    "moods": [
+      "romantik"
+    ],
+    "description": "Pide geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+    "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+    "tr": {
+      "name": "Pide",
+      "description": "Pide geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "en": {
+      "name": "Pide",
+      "description": "Pide is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 52,
+    "name": "Alinazik",
+    "moods": [
+      "romantik"
+    ],
+    "description": "Alinazik bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+    "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+    "tr": {
+      "name": "Alinazik",
+      "description": "Alinazik bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "en": {
+      "name": "Alinazik",
+      "description": "Alinazik is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 53,
+    "name": "Ezogelin Çorbası",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Ezogelin Çorbası doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+    "why": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!",
+    "tr": {
+      "name": "Ezogelin Çorbası",
+      "description": "Ezogelin Çorbası doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+      "why": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!"
+    },
+    "en": {
+      "name": "Ezogelin Çorbası",
+      "description": "Ezogelin Çorbası is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 54,
+    "name": "Tepsi Kebabı",
+    "moods": [
+      "romantik"
+    ],
+    "description": "Tepsi Kebabı dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+    "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+    "tr": {
+      "name": "Tepsi Kebabı",
+      "description": "Tepsi Kebabı dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+      "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "en": {
+      "name": "Tepsi Kebabı",
+      "description": "Tepsi Kebabı is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 55,
+    "name": "Kuru Fasulye",
+    "moods": [
+      "mutlu"
+    ],
+    "description": "Kuru Fasulye doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+    "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+    "tr": {
+      "name": "Kuru Fasulye",
+      "description": "Kuru Fasulye doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+      "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "en": {
+      "name": "Turkish Beans Stew",
+      "description": "A classic dish made with white beans and olive oil.",
+      "why": "Reminds you of home."
+    }
+  },
+  {
+    "id": 56,
+    "name": "Kuzu Güveç",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "Kuzu Güveç mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+    "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+    "tr": {
+      "name": "Kuzu Güveç",
+      "description": "Kuzu Güveç mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "en": {
+      "name": "Kuzu Güveç",
+      "description": "Kuzu Güveç is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 57,
+    "name": "Fish and Chips",
+    "moods": [
+      "romantik"
+    ],
+    "description": "Fish and Chips hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+    "why": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!",
+    "tr": {
+      "name": "Fish and Chips",
+      "description": "Fish and Chips hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+      "why": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!"
+    },
+    "en": {
+      "name": "Fish and Chips",
+      "description": "Fish and Chips is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 58,
+    "name": "Zerde",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Zerde dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+    "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+    "tr": {
+      "name": "Zerde",
+      "description": "Zerde dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+      "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "en": {
+      "name": "Zerde",
+      "description": "Zerde is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 59,
+    "name": "Tavuk Şiş",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Tavuk Şiş bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+    "why": "Romantik bir akşam ya da özel bir mola için birebir.",
+    "tr": {
+      "name": "Tavuk Şiş",
+      "description": "Tavuk Şiş bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "why": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "en": {
+      "name": "Tavuk Şiş",
+      "description": "Tavuk Şiş is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 60,
+    "name": "Shepherd's Pie",
+    "moods": [
+      "mutlu"
+    ],
+    "description": "Shepherd's Pie bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+    "why": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!",
+    "tr": {
+      "name": "Shepherd's Pie",
+      "description": "Shepherd's Pie bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "why": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!"
+    },
+    "en": {
+      "name": "Shepherd's Pie",
+      "description": "Shepherd's Pie is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 61,
+    "name": "Su Böreği",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Su Böreği farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+    "why": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!",
+    "tr": {
+      "name": "Su Böreği",
+      "description": "Su Böreği farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+      "why": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!"
+    },
+    "en": {
+      "name": "Su Böreği",
+      "description": "Su Böreği is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 62,
+    "name": "Pierogi",
+    "moods": [
+      "romantik"
+    ],
+    "description": "Pierogi özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+    "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+    "tr": {
+      "name": "Pierogi",
+      "description": "Pierogi özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "en": {
+      "name": "Pierogi",
+      "description": "Pierogi is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 63,
+    "name": "Mercimek Çorbası",
+    "moods": [
+      "mutlu"
+    ],
+    "description": "Mercimek Çorbası mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+    "why": "Romantik bir akşam ya da özel bir mola için birebir.",
+    "tr": {
+      "name": "Mercimek Çorbası",
+      "description": "Mercimek Çorbası mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "why": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "en": {
+      "name": "Mercimek Çorbası",
+      "description": "Mercimek Çorbası is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 64,
+    "name": "Laksa",
+    "moods": [
+      "romantik"
+    ],
+    "description": "Laksa farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+    "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+    "tr": {
+      "name": "Laksa",
+      "description": "Laksa farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+      "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "en": {
+      "name": "Laksa",
+      "description": "Laksa is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 65,
+    "name": "Dim Sum",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Dim Sum farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+    "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+    "tr": {
+      "name": "Dim Sum",
+      "description": "Dim Sum farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+      "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "en": {
+      "name": "Dim Sum",
+      "description": "Dim Sum is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 66,
+    "name": "Hummus",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Hummus özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+    "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+    "tr": {
+      "name": "Hummus",
+      "description": "Hummus özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "en": {
+      "name": "Hummus",
+      "description": "Hummus is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 67,
+    "name": "Couscous",
+    "moods": [
+      "mutlu"
+    ],
+    "description": "Couscous dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+    "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+    "tr": {
+      "name": "Couscous",
+      "description": "Couscous dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+      "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "en": {
+      "name": "Couscous",
+      "description": "Couscous is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 68,
+    "name": "Hünkar Beğendi",
+    "moods": [
+      "mutlu"
+    ],
+    "description": "Hünkar Beğendi geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+    "why": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!",
+    "tr": {
+      "name": "Hünkar Beğendi",
+      "description": "Hünkar Beğendi geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "why": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!"
+    },
+    "en": {
+      "name": "Hünkar Beğendi",
+      "description": "Hünkar Beğendi is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 69,
+    "name": "Tarhana Çorbası",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Tarhana Çorbası hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+    "why": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!",
+    "tr": {
+      "name": "Tarhana Çorbası",
+      "description": "Tarhana Çorbası hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+      "why": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!"
+    },
+    "en": {
+      "name": "Tarhana Çorbası",
+      "description": "Tarhana Çorbası is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 70,
+    "name": "Erişte",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Erişte özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+    "why": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!",
+    "tr": {
+      "name": "Erişte",
+      "description": "Erişte özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "why": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!"
+    },
+    "en": {
+      "name": "Erişte",
+      "description": "Erişte is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 71,
+    "name": "Tavuklu Pilav",
+    "moods": [
+      "romantik"
+    ],
+    "description": "Tavuklu Pilav mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+    "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+    "tr": {
+      "name": "Tavuklu Pilav",
+      "description": "Tavuklu Pilav mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "en": {
+      "name": "Tavuklu Pilav",
+      "description": "Tavuklu Pilav is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 72,
+    "name": "Sarma",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Sarma mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+    "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+    "tr": {
+      "name": "Sarma",
+      "description": "Sarma mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "en": {
+      "name": "Sarma",
+      "description": "Sarma is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 73,
+    "name": "Kabak Dolması",
+    "moods": [
+      "mutlu"
+    ],
+    "description": "Kabak Dolması geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+    "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+    "tr": {
+      "name": "Kabak Dolması",
+      "description": "Kabak Dolması geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "en": {
+      "name": "Kabak Dolması",
+      "description": "Kabak Dolması is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 74,
+    "name": "Zeytinyağlı Bamya",
+    "moods": [
+      "romantik"
+    ],
+    "description": "Zeytinyağlı Bamya hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir.",
+    "why": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!",
+    "tr": {
+      "name": "Zeytinyağlı Bamya",
+      "description": "Zeytinyağlı Bamya hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir.",
+      "why": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!"
+    },
+    "en": {
+      "name": "Zeytinyağlı Bamya",
+      "description": "Zeytinyağlı Bamya is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 75,
+    "name": "Pilav Üstü Döner",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Pilav Üstü Döner mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+    "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+    "tr": {
+      "name": "Pilav Üstü Döner",
+      "description": "Pilav Üstü Döner mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "en": {
+      "name": "Pilav Üstü Döner",
+      "description": "Pilav Üstü Döner is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 76,
+    "name": "Simit",
+    "moods": [
+      "romantik"
+    ],
+    "description": "Simit dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+    "why": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!",
+    "tr": {
+      "name": "Simit",
+      "description": "Simit dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+      "why": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!"
+    },
+    "en": {
+      "name": "Simit",
+      "description": "Simit is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 77,
+    "name": "Burger",
+    "moods": [
+      "mutlu"
+    ],
+    "description": "Burger dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+    "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+    "tr": {
+      "name": "Burger",
+      "description": "Burger dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+      "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "en": {
+      "name": "Burger",
+      "description": "Burger is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 78,
+    "name": "Sushi",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Sushi yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+    "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+    "tr": {
+      "name": "Sushi",
+      "description": "Sushi yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "en": {
+      "name": "Sushi",
+      "description": "Sushi is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 79,
+    "name": "Çiğ Köfte",
+    "moods": [
+      "mutlu"
+    ],
+    "description": "Çiğ Köfte geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+    "why": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!",
+    "tr": {
+      "name": "Çiğ Köfte",
+      "description": "Çiğ Köfte geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "why": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!"
+    },
+    "en": {
+      "name": "Çiğ Köfte",
+      "description": "Çiğ Köfte is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 80,
+    "name": "Menemen",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Menemen özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+    "why": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!",
+    "tr": {
+      "name": "Menemen",
+      "description": "Menemen özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "why": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!"
+    },
+    "en": {
+      "name": "Menemen",
+      "description": "Menemen is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 81,
+    "name": "İmam Bayıldı",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "İmam Bayıldı mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+    "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+    "tr": {
+      "name": "İmam Bayıldı",
+      "description": "İmam Bayıldı mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "en": {
+      "name": "Stuffed Eggplants",
+      "description": "A rich eggplant dish with onions and tomatoes.",
+      "why": "Perfect for relaxing evenings."
+    }
+  },
+  {
+    "id": 82,
+    "name": "Paella",
+    "moods": [
+      "mutlu"
+    ],
+    "description": "Paella bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+    "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+    "tr": {
+      "name": "Paella",
+      "description": "Paella bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "en": {
+      "name": "Paella",
+      "description": "Paella is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 83,
+    "name": "Kibbeh",
+    "moods": [
+      "romantik"
+    ],
+    "description": "Kibbeh yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+    "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+    "tr": {
+      "name": "Kibbeh",
+      "description": "Kibbeh yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "en": {
+      "name": "Kibbeh",
+      "description": "Kibbeh is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 84,
+    "name": "Piyaz",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Piyaz özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+    "why": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!",
+    "tr": {
+      "name": "Piyaz",
+      "description": "Piyaz özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "why": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!"
+    },
+    "en": {
+      "name": "Piyaz",
+      "description": "Piyaz is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 85,
+    "name": "Clam Chowder",
+    "moods": [
+      "romantik"
+    ],
+    "description": "Clam Chowder mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+    "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+    "tr": {
+      "name": "Clam Chowder",
+      "description": "Clam Chowder mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "en": {
+      "name": "Clam Chowder",
+      "description": "Clam Chowder is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 86,
+    "name": "Pho",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Pho hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+    "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+    "tr": {
+      "name": "Pho",
+      "description": "Pho hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+      "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "en": {
+      "name": "Pho",
+      "description": "Pho is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 87,
+    "name": "Tortilla Española",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Tortilla Española farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+    "why": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!",
+    "tr": {
+      "name": "Tortilla Española",
+      "description": "Tortilla Española farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+      "why": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!"
+    },
+    "en": {
+      "name": "Tortilla Española",
+      "description": "Tortilla Española is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 88,
+    "name": "Manti",
+    "moods": [
+      "romantik"
+    ],
+    "description": "Manti hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+    "why": "Romantik bir akşam ya da özel bir mola için birebir.",
+    "tr": {
+      "name": "Manti",
+      "description": "Manti hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+      "why": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "en": {
+      "name": "Manti",
+      "description": "Manti is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 89,
+    "name": "Miso Soup",
+    "moods": [
+      "mutlu"
+    ],
+    "description": "Miso Soup farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+    "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+    "tr": {
+      "name": "Miso Soup",
+      "description": "Miso Soup farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+      "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "en": {
+      "name": "Miso Soup",
+      "description": "Miso Soup is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 90,
+    "name": "Gyoza",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Gyoza mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+    "why": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!",
+    "tr": {
+      "name": "Gyoza",
+      "description": "Gyoza mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "why": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!"
+    },
+    "en": {
+      "name": "Gyoza",
+      "description": "Gyoza is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 91,
+    "name": "Baklava",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Baklava mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+    "why": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek.",
+    "tr": {
+      "name": "Baklava",
+      "description": "Baklava mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "why": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek."
+    },
+    "en": {
+      "name": "Baklava",
+      "description": "Baklava is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 92,
+    "name": "Dolma",
+    "moods": [
+      "romantik"
+    ],
+    "description": "Dolma özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+    "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+    "tr": {
+      "name": "Dolma",
+      "description": "Dolma özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "en": {
+      "name": "Dolma",
+      "description": "Dolma is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 93,
+    "name": "Lobster Roll",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Lobster Roll dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+    "why": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!",
+    "tr": {
+      "name": "Lobster Roll",
+      "description": "Lobster Roll dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+      "why": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!"
+    },
+    "en": {
+      "name": "Lobster Roll",
+      "description": "Lobster Roll is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 94,
+    "name": "Fajitas",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "Fajitas geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+    "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+    "tr": {
+      "name": "Fajitas",
+      "description": "Fajitas geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "en": {
+      "name": "Fajitas",
+      "description": "Fajitas is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 95,
+    "name": "Doro Wat",
+    "moods": [
+      "mutlu"
+    ],
+    "description": "Doro Wat farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+    "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+    "tr": {
+      "name": "Doro Wat",
+      "description": "Doro Wat farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+      "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "en": {
+      "name": "Doro Wat",
+      "description": "Doro Wat is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 96,
+    "name": "Biryani",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Biryani yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+    "why": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!",
+    "tr": {
+      "name": "Biryani",
+      "description": "Biryani yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "why": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!"
+    },
+    "en": {
+      "name": "Biryani",
+      "description": "Biryani is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 97,
+    "name": "Gulash",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Gulash geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+    "why": "Romantik bir akşam ya da özel bir mola için birebir.",
+    "tr": {
+      "name": "Gulash",
+      "description": "Gulash geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "why": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "en": {
+      "name": "Gulash",
+      "description": "Gulash is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 98,
+    "name": "Feijoada",
+    "moods": [
+      "romantik"
+    ],
+    "description": "Feijoada bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+    "why": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!",
+    "tr": {
+      "name": "Feijoada",
+      "description": "Feijoada bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "why": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!"
+    },
+    "en": {
+      "name": "Feijoada",
+      "description": "Feijoada is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 99,
+    "name": "Crepes",
+    "moods": [
+      "romantik"
+    ],
+    "description": "Crepes özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+    "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+    "tr": {
+      "name": "Crepes",
+      "description": "Crepes özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "en": {
+      "name": "Crepes",
+      "description": "Crepes is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 100,
+    "name": "Tandoori Chicken",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Tandoori Chicken doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+    "why": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!",
+    "tr": {
+      "name": "Tandoori Chicken",
+      "description": "Tandoori Chicken doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+      "why": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!"
+    },
+    "en": {
+      "name": "Tandoori Chicken",
+      "description": "Tandoori Chicken is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 101,
+    "name": "Kavurma",
+    "moods": [
+      "romantik"
+    ],
+    "description": "Kavurma yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+    "why": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!",
+    "tr": {
+      "name": "Kavurma",
+      "description": "Kavurma yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "why": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!"
+    },
+    "en": {
+      "name": "Kavurma",
+      "description": "Kavurma is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 102,
+    "name": "Chili Con Carne",
+    "moods": [
+      "mutlu"
+    ],
+    "description": "Chili Con Carne dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+    "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+    "tr": {
+      "name": "Chili Con Carne",
+      "description": "Chili Con Carne dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+      "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "en": {
+      "name": "Chili Con Carne",
+      "description": "Chili Con Carne is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 103,
+    "name": "Bamya Yemeği",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "Bamya Yemeği hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir.",
+    "why": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!",
+    "tr": {
+      "name": "Bamya Yemeği",
+      "description": "Bamya Yemeği hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir.",
+      "why": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!"
+    },
+    "en": {
+      "name": "Bamya Yemeği",
+      "description": "Bamya Yemeği is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 104,
+    "name": "Moussaka",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "Moussaka özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+    "why": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek.",
+    "tr": {
+      "name": "Moussaka",
+      "description": "Moussaka özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "why": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek."
+    },
+    "en": {
+      "name": "Moussaka",
+      "description": "Moussaka is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 105,
+    "name": "Terbiyeli Tavuk",
+    "moods": [
+      "romantik"
+    ],
+    "description": "Terbiyeli Tavuk bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+    "why": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!",
+    "tr": {
+      "name": "Terbiyeli Tavuk",
+      "description": "Terbiyeli Tavuk bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "why": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!"
+    },
+    "en": {
+      "name": "Terbiyeli Tavuk",
+      "description": "Terbiyeli Tavuk is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 106,
+    "name": "Gado Gado",
+    "moods": [
+      "romantik"
+    ],
+    "description": "Gado Gado bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+    "why": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!",
+    "tr": {
+      "name": "Gado Gado",
+      "description": "Gado Gado bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "why": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!"
+    },
+    "en": {
+      "name": "Gado Gado",
+      "description": "Gado Gado is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 107,
+    "name": "Beef Stroganoff",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Beef Stroganoff doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+    "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+    "tr": {
+      "name": "Beef Stroganoff",
+      "description": "Beef Stroganoff doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+      "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "en": {
+      "name": "Beef Stroganoff",
+      "description": "Beef Stroganoff is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 108,
+    "name": "Fırında Karnabahar",
+    "moods": [
+      "mutlu"
+    ],
+    "description": "Fırında Karnabahar bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+    "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+    "tr": {
+      "name": "Fırında Karnabahar",
+      "description": "Fırında Karnabahar bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "en": {
+      "name": "Fırında Karnabahar",
+      "description": "Fırında Karnabahar is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 109,
+    "name": "Kuzu Tandır",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Kuzu Tandır mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+    "why": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!",
+    "tr": {
+      "name": "Kuzu Tandır",
+      "description": "Kuzu Tandır mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "why": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!"
+    },
+    "en": {
+      "name": "Kuzu Tandır",
+      "description": "Kuzu Tandır is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 110,
+    "name": "Okra Stew",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "Okra Stew bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+    "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+    "tr": {
+      "name": "Okra Stew",
+      "description": "Okra Stew bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "en": {
+      "name": "Okra Stew",
+      "description": "Okra Stew is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 111,
+    "name": "Rendang",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Rendang özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+    "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+    "tr": {
+      "name": "Rendang",
+      "description": "Rendang özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "en": {
+      "name": "Rendang",
+      "description": "Rendang is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 112,
+    "name": "Burrito",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Burrito bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+    "why": "Romantik bir akşam ya da özel bir mola için birebir.",
+    "tr": {
+      "name": "Burrito",
+      "description": "Burrito bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "why": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "en": {
+      "name": "Burrito",
+      "description": "Burrito is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 113,
+    "name": "Pav Bhaji",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "Pav Bhaji yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+    "why": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!",
+    "tr": {
+      "name": "Pav Bhaji",
+      "description": "Pav Bhaji yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "why": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!"
+    },
+    "en": {
+      "name": "Pav Bhaji",
+      "description": "Pav Bhaji is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 114,
+    "name": "Gözleme",
+    "moods": [
+      "mutlu"
+    ],
+    "description": "Gözleme dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+    "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+    "tr": {
+      "name": "Gözleme",
+      "description": "Gözleme dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+      "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "en": {
+      "name": "Gözleme",
+      "description": "Gözleme is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 116,
+    "name": "Nasi Goreng",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Nasi Goreng doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+    "why": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!",
+    "tr": {
+      "name": "Nasi Goreng",
+      "description": "Nasi Goreng doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+      "why": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!"
+    },
+    "en": {
+      "name": "Nasi Goreng",
+      "description": "Nasi Goreng is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 117,
+    "name": "Katsu Don",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "Katsu Don mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+    "why": "Romantik bir akşam ya da özel bir mola için birebir.",
+    "tr": {
+      "name": "Katsu Don",
+      "description": "Katsu Don mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "why": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "en": {
+      "name": "Katsu Don",
+      "description": "Katsu Don is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 118,
+    "name": "Patates Bravas",
+    "moods": [
+      "romantik"
+    ],
+    "description": "Patates Bravas yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+    "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+    "tr": {
+      "name": "Patates Bravas",
+      "description": "Patates Bravas yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "en": {
+      "name": "Patates Bravas",
+      "description": "Patates Bravas is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 119,
+    "name": "Zeytinyağlı Yaprak Sarma",
+    "moods": [
+      "romantik"
+    ],
+    "description": "Zeytinyağlı Yaprak Sarma doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+    "why": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!",
+    "tr": {
+      "name": "Zeytinyağlı Yaprak Sarma",
+      "description": "Zeytinyağlı Yaprak Sarma doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+      "why": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!"
+    },
+    "en": {
+      "name": "Zeytinyağlı Yaprak Sarma",
+      "description": "Zeytinyağlı Yaprak Sarma is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 120,
+    "name": "Tagine",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Tagine geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+    "why": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek.",
+    "tr": {
+      "name": "Tagine",
+      "description": "Tagine geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "why": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek."
+    },
+    "en": {
+      "name": "Tagine",
+      "description": "Tagine is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 121,
+    "name": "Moqueca",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Moqueca hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+    "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+    "tr": {
+      "name": "Moqueca",
+      "description": "Moqueca hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+      "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "en": {
+      "name": "Moqueca",
+      "description": "Moqueca is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 122,
+    "name": "Patatesli Gözleme",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Patatesli Gözleme hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+    "why": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!",
+    "tr": {
+      "name": "Patatesli Gözleme",
+      "description": "Patatesli Gözleme hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+      "why": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!"
+    },
+    "en": {
+      "name": "Patatesli Gözleme",
+      "description": "Patatesli Gözleme is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 123,
+    "name": "Karnıyarık",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Karnıyarık geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+    "why": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!",
+    "tr": {
+      "name": "Karnıyarık",
+      "description": "Karnıyarık geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "why": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!"
+    },
+    "en": {
+      "name": "Karnıyarık",
+      "description": "Karnıyarık is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 124,
+    "name": "Köfte",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "Köfte doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+    "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+    "tr": {
+      "name": "Köfte",
+      "description": "Köfte doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+      "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "en": {
+      "name": "Köfte",
+      "description": "Köfte is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 125,
+    "name": "Risotto",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "Risotto özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+    "why": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!",
+    "tr": {
+      "name": "Risotto",
+      "description": "Risotto özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "why": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!"
+    },
+    "en": {
+      "name": "Risotto",
+      "description": "Risotto is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 126,
+    "name": "Kırmızı Mercimek Köftesi",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "Kırmızı Mercimek Köftesi bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+    "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+    "tr": {
+      "name": "Kırmızı Mercimek Köftesi",
+      "description": "Kırmızı Mercimek Köftesi bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "en": {
+      "name": "Kırmızı Mercimek Köftesi",
+      "description": "Kırmızı Mercimek Köftesi is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 127,
+    "name": "Islak Hamburger",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Islak Hamburger özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+    "why": "Romantik bir akşam ya da özel bir mola için birebir.",
+    "tr": {
+      "name": "Islak Hamburger",
+      "description": "Islak Hamburger özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "why": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "en": {
+      "name": "Islak Hamburger",
+      "description": "Islak Hamburger is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 128,
+    "name": "Sütlaç",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "Sütlaç bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+    "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+    "tr": {
+      "name": "Sütlaç",
+      "description": "Sütlaç bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "en": {
+      "name": "Sütlaç",
+      "description": "Sütlaç is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 129,
+    "name": "Tavuk Sote",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "Tavuk Sote yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+    "why": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!",
+    "tr": {
+      "name": "Tavuk Sote",
+      "description": "Tavuk Sote yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "why": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!"
+    },
+    "en": {
+      "name": "Tavuk Sote",
+      "description": "Tavuk Sote is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 130,
+    "name": "Güllaç",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Güllaç özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+    "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+    "tr": {
+      "name": "Güllaç",
+      "description": "Güllaç özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "en": {
+      "name": "Güllaç",
+      "description": "Güllaç is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 131,
+    "name": "Kayısı Tatlısı",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "Kayısı Tatlısı mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+    "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+    "tr": {
+      "name": "Kayısı Tatlısı",
+      "description": "Kayısı Tatlısı mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "en": {
+      "name": "Kayısı Tatlısı",
+      "description": "Kayısı Tatlısı is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 132,
+    "name": "İskender",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "İskender hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir.",
+    "why": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek.",
+    "tr": {
+      "name": "İskender",
+      "description": "İskender hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir.",
+      "why": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek."
+    },
+    "en": {
+      "name": "İskender",
+      "description": "İskender is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 133,
+    "name": "İçli Köfte",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "İçli Köfte hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir.",
+    "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+    "tr": {
+      "name": "İçli Köfte",
+      "description": "İçli Köfte hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir.",
+      "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "en": {
+      "name": "İçli Köfte",
+      "description": "İçli Köfte is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 134,
+    "name": "Tamagoyaki",
+    "moods": [
+      "mutlu"
+    ],
+    "description": "Tamagoyaki farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+    "why": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!",
+    "tr": {
+      "name": "Tamagoyaki",
+      "description": "Tamagoyaki farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+      "why": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!"
+    },
+    "en": {
+      "name": "Tamagoyaki",
+      "description": "Tamagoyaki is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 136,
+    "name": "Fırında Kaşarlı Mantar",
+    "moods": [
+      "romantik"
+    ],
+    "description": "Fırında Kaşarlı Mantar farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+    "why": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!",
+    "tr": {
+      "name": "Fırında Kaşarlı Mantar",
+      "description": "Fırında Kaşarlı Mantar farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+      "why": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!"
+    },
+    "en": {
+      "name": "Fırında Kaşarlı Mantar",
+      "description": "Fırında Kaşarlı Mantar is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 137,
+    "name": "Dumplings",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Dumplings hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir.",
+    "why": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!",
+    "tr": {
+      "name": "Dumplings",
+      "description": "Dumplings hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir.",
+      "why": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!"
+    },
+    "en": {
+      "name": "Dumplings",
+      "description": "Dumplings is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 138,
+    "name": "Cızlak",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Cızlak mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+    "why": "Romantik bir akşam ya da özel bir mola için birebir.",
+    "tr": {
+      "name": "Cızlak",
+      "description": "Cızlak mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "why": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "en": {
+      "name": "Cızlak",
+      "description": "Cızlak is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 139,
+    "name": "Fasulye Pilaki",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Fasulye Pilaki dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+    "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+    "tr": {
+      "name": "Fasulye Pilaki",
+      "description": "Fasulye Pilaki dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+      "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "en": {
+      "name": "Fasulye Pilaki",
+      "description": "Fasulye Pilaki is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 140,
+    "name": "Mercimekli Bulgur Pilavı",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Mercimekli Bulgur Pilavı bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+    "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+    "tr": {
+      "name": "Mercimekli Bulgur Pilavı",
+      "description": "Mercimekli Bulgur Pilavı bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "en": {
+      "name": "Mercimekli Bulgur Pilavı",
+      "description": "Mercimekli Bulgur Pilavı is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 141,
+    "name": "Fırın Makarna",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Fırın Makarna dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+    "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+    "tr": {
+      "name": "Fırın Makarna",
+      "description": "Fırın Makarna dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+      "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "en": {
+      "name": "Fırın Makarna",
+      "description": "Fırın Makarna is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 142,
+    "name": "Kremalı Mantar",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Kremalı Mantar dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+    "why": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!",
+    "tr": {
+      "name": "Kremalı Mantar",
+      "description": "Kremalı Mantar dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+      "why": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!"
+    },
+    "en": {
+      "name": "Kremalı Mantar",
+      "description": "Kremalı Mantar is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 143,
+    "name": "Tandoori Tavuk",
+    "moods": [
+      "mutlu"
+    ],
+    "description": "Tandoori Tavuk hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+    "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+    "tr": {
+      "name": "Tandoori Tavuk",
+      "description": "Tandoori Tavuk hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+      "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "en": {
+      "name": "Tandoori Tavuk",
+      "description": "Tandoori Tavuk is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 144,
+    "name": "Lahmacun",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "Lahmacun hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir.",
+    "why": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!",
+    "tr": {
+      "name": "Lahmacun",
+      "description": "Lahmacun hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir.",
+      "why": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!"
+    },
+    "en": {
+      "name": "Lahmacun",
+      "description": "Lahmacun is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 145,
+    "name": "Bulgogi",
+    "moods": [
+      "mutlu"
+    ],
+    "description": "Bulgogi özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+    "why": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!",
+    "tr": {
+      "name": "Bulgogi",
+      "description": "Bulgogi özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "why": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!"
+    },
+    "en": {
+      "name": "Bulgogi",
+      "description": "Bulgogi is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 146,
+    "name": "Cevizli Kabak Salatası",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "Cevizli Kabak Salatası geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+    "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+    "tr": {
+      "name": "Cevizli Kabak Salatası",
+      "description": "Cevizli Kabak Salatası geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "en": {
+      "name": "Cevizli Kabak Salatası",
+      "description": "Cevizli Kabak Salatası is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 147,
+    "name": "Balık Kokoreç",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Balık Kokoreç geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+    "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+    "tr": {
+      "name": "Balık Kokoreç",
+      "description": "Balık Kokoreç geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "en": {
+      "name": "Balık Kokoreç",
+      "description": "Balık Kokoreç is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 148,
+    "name": "Samosa",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Samosa bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+    "why": "Romantik bir akşam ya da özel bir mola için birebir.",
+    "tr": {
+      "name": "Samosa",
+      "description": "Samosa bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "why": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "en": {
+      "name": "Samosa",
+      "description": "Samosa is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 149,
+    "name": "Roast Beef",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Roast Beef bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+    "why": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek.",
+    "tr": {
+      "name": "Roast Beef",
+      "description": "Roast Beef bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "why": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek."
+    },
+    "en": {
+      "name": "Roast Beef",
+      "description": "Roast Beef is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 150,
+    "name": "Karides Güveç",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Karides Güveç hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir.",
+    "why": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!",
+    "tr": {
+      "name": "Karides Güveç",
+      "description": "Karides Güveç hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir.",
+      "why": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!"
+    },
+    "en": {
+      "name": "Karides Güveç",
+      "description": "Karides Güveç is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 151,
+    "name": "Çerkez Tavuğu",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Çerkez Tavuğu geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+    "why": "Romantik bir akşam ya da özel bir mola için birebir.",
+    "tr": {
+      "name": "Çerkez Tavuğu",
+      "description": "Çerkez Tavuğu geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "why": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "en": {
+      "name": "Çerkez Tavuğu",
+      "description": "Çerkez Tavuğu is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 152,
+    "name": "Fırında Makarna",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Fırında Makarna geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+    "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+    "tr": {
+      "name": "Fırında Makarna",
+      "description": "Fırında Makarna geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "en": {
+      "name": "Fırında Makarna",
+      "description": "Fırında Makarna is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 154,
+    "name": "Zeytinyağlı Enginar",
+    "moods": [
+      "mutlu"
+    ],
+    "description": "Zeytinyağlı Enginar hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir.",
+    "why": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!",
+    "tr": {
+      "name": "Zeytinyağlı Enginar",
+      "description": "Zeytinyağlı Enginar hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir.",
+      "why": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!"
+    },
+    "en": {
+      "name": "Zeytinyağlı Enginar",
+      "description": "Zeytinyağlı Enginar is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 157,
+    "name": "Çorba Trio",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Çorba Trio özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+    "why": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!",
+    "tr": {
+      "name": "Çorba Trio",
+      "description": "Çorba Trio özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "why": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!"
+    },
+    "en": {
+      "name": "Çorba Trio",
+      "description": "Çorba Trio is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 158,
+    "name": "Domates Çorbası",
+    "moods": [
+      "romantik"
+    ],
+    "description": "Domates Çorbası yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+    "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+    "tr": {
+      "name": "Domates Çorbası",
+      "description": "Domates Çorbası yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "en": {
+      "name": "Domates Çorbası",
+      "description": "Domates Çorbası is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 159,
+    "name": "Lasagna",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Lasagna geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+    "why": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!",
+    "tr": {
+      "name": "Lasagna",
+      "description": "Lasagna geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "why": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!"
+    },
+    "en": {
+      "name": "Lasagna",
+      "description": "Lasagna is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 160,
+    "name": "Perde Pilavı",
+    "moods": [
+      "mutlu"
+    ],
+    "description": "Perde Pilavı yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+    "why": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!",
+    "tr": {
+      "name": "Perde Pilavı",
+      "description": "Perde Pilavı yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "why": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!"
+    },
+    "en": {
+      "name": "Perde Pilavı",
+      "description": "Perde Pilavı is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 161,
+    "name": "Tavuklu Krep",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Tavuklu Krep mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+    "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+    "tr": {
+      "name": "Tavuklu Krep",
+      "description": "Tavuklu Krep mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "en": {
+      "name": "Tavuklu Krep",
+      "description": "Tavuklu Krep is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 162,
+    "name": "Kıymalı Ispanak",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Kıymalı Ispanak özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+    "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+    "tr": {
+      "name": "Kıymalı Ispanak",
+      "description": "Kıymalı Ispanak özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "en": {
+      "name": "Kıymalı Ispanak",
+      "description": "Kıymalı Ispanak is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 163,
+    "name": "Bratwurst",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Bratwurst dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+    "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+    "tr": {
+      "name": "Bratwurst",
+      "description": "Bratwurst dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+      "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "en": {
+      "name": "Bratwurst",
+      "description": "Bratwurst is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 164,
+    "name": "Fırın Tavuk Baget",
+    "moods": [
+      "romantik"
+    ],
+    "description": "Fırın Tavuk Baget hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+    "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+    "tr": {
+      "name": "Fırın Tavuk Baget",
+      "description": "Fırın Tavuk Baget hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+      "why": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "en": {
+      "name": "Fırın Tavuk Baget",
+      "description": "Fırın Tavuk Baget is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 165,
+    "name": "Köri Soslu Tavuk",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "Köri Soslu Tavuk geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+    "why": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!",
+    "tr": {
+      "name": "Köri Soslu Tavuk",
+      "description": "Köri Soslu Tavuk geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "why": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!"
+    },
+    "en": {
+      "name": "Köri Soslu Tavuk",
+      "description": "Köri Soslu Tavuk is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 166,
+    "name": "Fırın Somon",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "Fırın Somon geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+    "why": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!",
+    "tr": {
+      "name": "Fırın Somon",
+      "description": "Fırın Somon geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "why": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!"
+    },
+    "en": {
+      "name": "Fırın Somon",
+      "description": "Fırın Somon is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 167,
+    "name": "Karalahana Sarması",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Karalahana Sarması mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+    "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+    "tr": {
+      "name": "Karalahana Sarması",
+      "description": "Karalahana Sarması mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "en": {
+      "name": "Karalahana Sarması",
+      "description": "Karalahana Sarması is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 168,
+    "name": "Mantarlı Risotto",
+    "moods": [
+      "mutlu"
+    ],
+    "description": "Mantarlı Risotto hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+    "why": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!",
+    "tr": {
+      "name": "Mantarlı Risotto",
+      "description": "Mantarlı Risotto hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+      "why": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!"
+    },
+    "en": {
+      "name": "Mantarlı Risotto",
+      "description": "Mantarlı Risotto is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 169,
+    "name": "Fırın Mücver",
+    "moods": [
+      "romantik"
+    ],
+    "description": "Fırın Mücver geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+    "why": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek.",
+    "tr": {
+      "name": "Fırın Mücver",
+      "description": "Fırın Mücver geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "why": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek."
+    },
+    "en": {
+      "name": "Fırın Mücver",
+      "description": "Fırın Mücver is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 170,
+    "name": "Spaghetti Carbonara",
+    "moods": [
+      "romantik"
+    ],
+    "description": "Spaghetti Carbonara özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+    "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+    "tr": {
+      "name": "Spaghetti Carbonara",
+      "description": "Spaghetti Carbonara özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "en": {
+      "name": "Spaghetti Carbonara",
+      "description": "Spaghetti Carbonara is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 172,
+    "name": "Sebzeli Kuskus",
+    "moods": [
+      "mutlu"
+    ],
+    "description": "Sebzeli Kuskus yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+    "why": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!",
+    "tr": {
+      "name": "Sebzeli Kuskus",
+      "description": "Sebzeli Kuskus yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "why": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!"
+    },
+    "en": {
+      "name": "Sebzeli Kuskus",
+      "description": "Sebzeli Kuskus is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 173,
+    "name": "Şinitzel",
+    "moods": [
+      "romantik"
+    ],
+    "description": "Şinitzel farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+    "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+    "tr": {
+      "name": "Şinitzel",
+      "description": "Şinitzel farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+      "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "en": {
+      "name": "Şinitzel",
+      "description": "Şinitzel is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 174,
+    "name": "Biftek Tava",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "Biftek Tava yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+    "why": "Romantik bir akşam ya da özel bir mola için birebir.",
+    "tr": {
+      "name": "Biftek Tava",
+      "description": "Biftek Tava yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "why": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "en": {
+      "name": "Biftek Tava",
+      "description": "Biftek Tava is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 175,
+    "name": "Kaşarlı Köfte",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Kaşarlı Köfte dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+    "why": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!",
+    "tr": {
+      "name": "Kaşarlı Köfte",
+      "description": "Kaşarlı Köfte dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+      "why": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!"
+    },
+    "en": {
+      "name": "Kaşarlı Köfte",
+      "description": "Kaşarlı Köfte is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 176,
+    "name": "Biber Dolması",
+    "moods": [
+      "mutlu"
+    ],
+    "description": "Biber Dolması geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+    "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+    "tr": {
+      "name": "Biber Dolması",
+      "description": "Biber Dolması geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "en": {
+      "name": "Biber Dolması",
+      "description": "Biber Dolması is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 177,
+    "name": "Bulgurlu Semizotu",
+    "moods": [
+      "romantik"
+    ],
+    "description": "Bulgurlu Semizotu bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+    "why": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek.",
+    "tr": {
+      "name": "Bulgurlu Semizotu",
+      "description": "Bulgurlu Semizotu bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "why": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek."
+    },
+    "en": {
+      "name": "Bulgurlu Semizotu",
+      "description": "Bulgurlu Semizotu is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 178,
+    "name": "Garnitürlü Tavuk",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Garnitürlü Tavuk dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+    "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+    "tr": {
+      "name": "Garnitürlü Tavuk",
+      "description": "Garnitürlü Tavuk dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+      "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "en": {
+      "name": "Garnitürlü Tavuk",
+      "description": "Garnitürlü Tavuk is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 179,
+    "name": "Köri Noodle",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Köri Noodle hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir.",
+    "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+    "tr": {
+      "name": "Köri Noodle",
+      "description": "Köri Noodle hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir.",
+      "why": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "en": {
+      "name": "Köri Noodle",
+      "description": "Köri Noodle is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 180,
+    "name": "Zerdeçallı Tavuk",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "Zerdeçallı Tavuk mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+    "why": "Romantik bir akşam ya da özel bir mola için birebir.",
+    "tr": {
+      "name": "Zerdeçallı Tavuk",
+      "description": "Zerdeçallı Tavuk mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "why": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "en": {
+      "name": "Zerdeçallı Tavuk",
+      "description": "Zerdeçallı Tavuk is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 181,
+    "name": "Yoğurtlu Kabak",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Yoğurtlu Kabak yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+    "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+    "tr": {
+      "name": "Yoğurtlu Kabak",
+      "description": "Yoğurtlu Kabak yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "en": {
+      "name": "Yoğurtlu Kabak",
+      "description": "Yoğurtlu Kabak is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 182,
+    "name": "Soya Soslu Sebzeler",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Soya Soslu Sebzeler doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+    "why": "Romantik bir akşam ya da özel bir mola için birebir.",
+    "tr": {
+      "name": "Soya Soslu Sebzeler",
+      "description": "Soya Soslu Sebzeler doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+      "why": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "en": {
+      "name": "Soya Soslu Sebzeler",
+      "description": "Soya Soslu Sebzeler is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 183,
+    "name": "Fırın Kumpir",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "Fırın Kumpir farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+    "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+    "tr": {
+      "name": "Fırın Kumpir",
+      "description": "Fırın Kumpir farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+      "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "en": {
+      "name": "Fırın Kumpir",
+      "description": "Fırın Kumpir is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 184,
+    "name": "Naneli Mercimek Çorbası",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "Naneli Mercimek Çorbası farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+    "why": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!",
+    "tr": {
+      "name": "Naneli Mercimek Çorbası",
+      "description": "Naneli Mercimek Çorbası farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+      "why": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!"
+    },
+    "en": {
+      "name": "Naneli Mercimek Çorbası",
+      "description": "Naneli Mercimek Çorbası is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 185,
+    "name": "Soğan Halkası",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "Soğan Halkası farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+    "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+    "tr": {
+      "name": "Soğan Halkası",
+      "description": "Soğan Halkası farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+      "why": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "en": {
+      "name": "Soğan Halkası",
+      "description": "Soğan Halkası is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 186,
+    "name": "Tahinli Kabak Tatlısı",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "Tahinli Kabak Tatlısı bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+    "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+    "tr": {
+      "name": "Tahinli Kabak Tatlısı",
+      "description": "Tahinli Kabak Tatlısı bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "en": {
+      "name": "Tahinli Kabak Tatlısı",
+      "description": "Tahinli Kabak Tatlısı is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 187,
+    "name": "Tavuklu Sezar Salata",
+    "moods": [
+      "stresli"
+    ],
+    "description": "Tavuklu Sezar Salata doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+    "why": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!",
+    "tr": {
+      "name": "Tavuklu Sezar Salata",
+      "description": "Tavuklu Sezar Salata doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+      "why": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!"
+    },
+    "en": {
+      "name": "Tavuklu Sezar Salata",
+      "description": "Tavuklu Sezar Salata is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 189,
+    "name": "Kestaneli İç Pilav",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "Kestaneli İç Pilav hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+    "why": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek.",
+    "tr": {
+      "name": "Kestaneli İç Pilav",
+      "description": "Kestaneli İç Pilav hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+      "why": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek."
+    },
+    "en": {
+      "name": "Kestaneli İç Pilav",
+      "description": "Kestaneli İç Pilav is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 190,
+    "name": "Fırında Köfte Patates",
+    "moods": [
+      "romantik"
+    ],
+    "description": "Fırında Köfte Patates dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+    "why": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!",
+    "tr": {
+      "name": "Fırında Köfte Patates",
+      "description": "Fırında Köfte Patates dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+      "why": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!"
+    },
+    "en": {
+      "name": "Fırında Köfte Patates",
+      "description": "Fırında Köfte Patates is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 191,
+    "name": "Fasulye Ezmesi",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "Fasulye Ezmesi hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+    "why": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!",
+    "tr": {
+      "name": "Fasulye Ezmesi",
+      "description": "Fasulye Ezmesi hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+      "why": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!"
+    },
+    "en": {
+      "name": "Fasulye Ezmesi",
+      "description": "Fasulye Ezmesi is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 192,
+    "name": "Zeytinyağlı Taze Fasulye",
+    "moods": [
+      "mutlu"
+    ],
+    "description": "Zeytinyağlı Taze Fasulye geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+    "why": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!",
+    "tr": {
+      "name": "Zeytinyağlı Taze Fasulye",
+      "description": "Zeytinyağlı Taze Fasulye geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "why": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!"
+    },
+    "en": {
+      "name": "Zeytinyağlı Taze Fasulye",
+      "description": "Zeytinyağlı Taze Fasulye is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 193,
+    "name": "Etli Kabak Dolması",
+    "moods": [
+      "mutlu"
+    ],
+    "description": "Etli Kabak Dolması dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+    "why": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!",
+    "tr": {
+      "name": "Etli Kabak Dolması",
+      "description": "Etli Kabak Dolması dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+      "why": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!"
+    },
+    "en": {
+      "name": "Etli Kabak Dolması",
+      "description": "Etli Kabak Dolması is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 194,
+    "name": "Midye Dolma",
+    "moods": [
+      "yorgun"
+    ],
+    "description": "Midye Dolma yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+    "why": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!",
+    "tr": {
+      "name": "Midye Dolma",
+      "description": "Midye Dolma yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "why": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!"
+    },
+    "en": {
+      "name": "Midye Dolma",
+      "description": "Midye Dolma is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 195,
+    "name": "Kalamar Tava",
+    "moods": [
+      "romantik"
+    ],
+    "description": "Kalamar Tava farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+    "why": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek.",
+    "tr": {
+      "name": "Kalamar Tava",
+      "description": "Kalamar Tava farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+      "why": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek."
+    },
+    "en": {
+      "name": "Kalamar Tava",
+      "description": "Kalamar Tava is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 196,
+    "name": "Fırında Peynirli Kabak",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "Fırında Peynirli Kabak mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+    "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+    "tr": {
+      "name": "Fırında Peynirli Kabak",
+      "description": "Fırında Peynirli Kabak mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "en": {
+      "name": "Fırında Peynirli Kabak",
+      "description": "Fırında Peynirli Kabak is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 197,
+    "name": "Balık Buğulama",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "Balık Buğulama hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir.",
+    "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+    "tr": {
+      "name": "Balık Buğulama",
+      "description": "Balık Buğulama hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir.",
+      "why": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "en": {
+      "name": "Balık Buğulama",
+      "description": "Balık Buğulama is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  },
+  {
+    "id": 198,
+    "name": "Kuzu İncik",
+    "moods": [
+      "acıktım"
+    ],
+    "description": "Kuzu İncik özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+    "why": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!",
+    "tr": {
+      "name": "Kuzu İncik",
+      "description": "Kuzu İncik özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "why": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!"
+    },
+    "en": {
+      "name": "Kuzu İncik",
+      "description": "Kuzu İncik is a popular dish in Turkish cuisine, known for its rich taste.",
+      "why": "Chosen to match your mood with a satisfying flavor."
+    }
+  }
+]
