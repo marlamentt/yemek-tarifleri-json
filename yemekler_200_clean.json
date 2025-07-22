@@ -1,0 +1,1579 @@
+[
+  {
+    "name": "Sushi",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Sushi' birebir.",
+    "moods": [
+      "mutlu",
+      "romantik",
+      "stresli"
+    ]
+  },
+  {
+    "name": "Gnocchi",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Gnocchi' birebir.",
+    "moods": [
+      "stresli",
+      "yorgun"
+    ]
+  },
+  {
+    "name": "Testi Kebabı",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Testi Kebabı' birebir.",
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "name": "Paella",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Paella' birebir.",
+    "moods": [
+      "üzgün",
+      "yorgun"
+    ]
+  },
+  {
+    "name": "Dolma",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Dolma' birebir.",
+    "moods": [
+      "mutlu",
+      "acıktım"
+    ]
+  },
+  {
+    "name": "Shawarma",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Shawarma' birebir.",
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "name": "Ratatouille",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Ratatouille' birebir.",
+    "moods": [
+      "stresli",
+      "romantik",
+      "mutlu"
+    ]
+  },
+  {
+    "name": "Kumpir",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Kumpir' birebir.",
+    "moods": [
+      "mutlu",
+      "romantik",
+      "acıktım"
+    ]
+  },
+  {
+    "name": "Simit",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Simit' birebir.",
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "name": "Lahmacun",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Lahmacun' birebir.",
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "name": "Tagine",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Tagine' birebir.",
+    "moods": [
+      "acıktım",
+      "stresli"
+    ]
+  },
+  {
+    "name": "Yaprak Sarma",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Yaprak Sarma' birebir.",
+    "moods": [
+      "stresli",
+      "romantik",
+      "mutlu"
+    ]
+  },
+  {
+    "name": "Tepsi Kebabı",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Tepsi Kebabı' birebir.",
+    "moods": [
+      "üzgün",
+      "mutlu",
+      "acıktım"
+    ]
+  },
+  {
+    "name": "Okonomiyaki",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Okonomiyaki' birebir.",
+    "moods": [
+      "acıktım",
+      "üzgün"
+    ]
+  },
+  {
+    "name": "Balık Izgara",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Balık Izgara' birebir.",
+    "moods": [
+      "üzgün",
+      "yorgun",
+      "romantik"
+    ]
+  },
+  {
+    "name": "Tantuni",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Tantuni' birebir.",
+    "moods": [
+      "üzgün",
+      "mutlu"
+    ]
+  },
+  {
+    "name": "Tarhana Çorbası",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Tarhana Çorbası' birebir.",
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "name": "Menemen",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Menemen' birebir.",
+    "moods": [
+      "üzgün"
+    ]
+  },
+  {
+    "name": "Boeuf Bourguignon",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Boeuf Bourguignon' birebir.",
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "name": "Pide",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Pide' birebir.",
+    "moods": [
+      "üzgün"
+    ]
+  },
+  {
+    "name": "Tavuk Sote",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Tavuk Sote' birebir.",
+    "moods": [
+      "romantik",
+      "üzgün"
+    ]
+  },
+  {
+    "name": "Pad Thai",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Pad Thai' birebir.",
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "name": "Karnıyarık",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Karnıyarık' birebir.",
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "name": "Adana Kebap",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Adana Kebap' birebir.",
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "name": "Chicken Tikka",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Chicken Tikka' birebir.",
+    "moods": [
+      "stresli",
+      "acıktım",
+      "üzgün"
+    ]
+  },
+  {
+    "name": "Tacos",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Tacos' birebir.",
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "name": "Kimchi",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Kimchi' birebir.",
+    "moods": [
+      "acıktım",
+      "romantik",
+      "yorgun"
+    ]
+  },
+  {
+    "name": "Arepa",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Arepa' birebir.",
+    "moods": [
+      "stresli",
+      "romantik",
+      "yorgun"
+    ]
+  },
+  {
+    "name": "Burger",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Burger' birebir.",
+    "moods": [
+      "romantik",
+      "mutlu"
+    ]
+  },
+  {
+    "name": "Chili Con Carne",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Chili Con Carne' birebir.",
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "name": "Gözleme",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Gözleme' birebir.",
+    "moods": [
+      "acıktım",
+      "mutlu",
+      "yorgun"
+    ]
+  },
+  {
+    "name": "Ceviche",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Ceviche' birebir.",
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "name": "Bibimbap",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Bibimbap' birebir.",
+    "moods": [
+      "romantik",
+      "üzgün"
+    ]
+  },
+  {
+    "name": "Mercimek Çorbası",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Mercimek Çorbası' birebir.",
+    "moods": [
+      "yorgun",
+      "mutlu"
+    ]
+  },
+  {
+    "name": "Hünkar Beğendi",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Hünkar Beğendi' birebir.",
+    "moods": [
+      "mutlu",
+      "üzgün",
+      "yorgun"
+    ]
+  },
+  {
+    "name": "Tom Yum",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Tom Yum' birebir.",
+    "moods": [
+      "üzgün"
+    ]
+  },
+  {
+    "name": "Couscous",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Couscous' birebir.",
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "name": "Pilav Üstü Döner",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Pilav Üstü Döner' birebir.",
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "name": "Mantı",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Mantı' birebir.",
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "name": "Yoğurtlu Kebap",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Yoğurtlu Kebap' birebir.",
+    "moods": [
+      "yorgun",
+      "stresli"
+    ]
+  },
+  {
+    "name": "Croissant",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Croissant' birebir.",
+    "moods": [
+      "acıktım",
+      "üzgün"
+    ]
+  },
+  {
+    "name": "Burrito",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Burrito' birebir.",
+    "moods": [
+      "acıktım",
+      "yorgun",
+      "mutlu"
+    ]
+  },
+  {
+    "name": "Dim Sum",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Dim Sum' birebir.",
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "name": "Pho",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Pho' birebir.",
+    "moods": [
+      "üzgün"
+    ]
+  },
+  {
+    "name": "Pierogi",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Pierogi' birebir.",
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "name": "Goulash",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Goulash' birebir.",
+    "moods": [
+      "romantik",
+      "üzgün"
+    ]
+  },
+  {
+    "name": "Çiğ Köfte",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Çiğ Köfte' birebir.",
+    "moods": [
+      "mutlu",
+      "romantik",
+      "üzgün"
+    ]
+  },
+  {
+    "name": "Pizza Margherita",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Pizza Margherita' birebir.",
+    "moods": [
+      "mutlu",
+      "üzgün",
+      "stresli"
+    ]
+  },
+  {
+    "name": "Moussaka",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Moussaka' birebir.",
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "name": "Gado Gado",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Gado Gado' birebir.",
+    "moods": [
+      "acıktım",
+      "mutlu"
+    ]
+  },
+  {
+    "name": "Kuzu Şiş",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Kuzu Şiş' birebir.",
+    "moods": [
+      "üzgün"
+    ]
+  },
+  {
+    "name": "Kuzu Tandır",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Kuzu Tandır' birebir.",
+    "moods": [
+      "stresli",
+      "üzgün"
+    ]
+  },
+  {
+    "name": "İmam Bayıldı",
+    "description": "AI önerisi: Bugünkü ruh halin için 'İmam Bayıldı' birebir.",
+    "moods": [
+      "üzgün"
+    ]
+  },
+  {
+    "name": "Lasagna",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Lasagna' birebir.",
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "name": "Kuru Fasulye",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Kuru Fasulye' birebir.",
+    "moods": [
+      "mutlu",
+      "romantik",
+      "stresli"
+    ]
+  },
+  {
+    "name": "İskender Kebap",
+    "description": "AI önerisi: Bugünkü ruh halin için 'İskender Kebap' birebir.",
+    "moods": [
+      "üzgün"
+    ]
+  },
+  {
+    "name": "Sauerbraten",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Sauerbraten' birebir.",
+    "moods": [
+      "üzgün",
+      "acıktım",
+      "mutlu"
+    ]
+  },
+  {
+    "name": "Zeytinyağlı Fasulye",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Zeytinyağlı Fasulye' birebir.",
+    "moods": [
+      "acıktım",
+      "romantik"
+    ]
+  },
+  {
+    "name": "Ramen",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Ramen' birebir.",
+    "moods": [
+      "stresli",
+      "mutlu"
+    ]
+  },
+  {
+    "name": "Falafel",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Falafel' birebir.",
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "name": "Kavurma",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Kavurma' birebir.",
+    "moods": [
+      "üzgün",
+      "acıktım",
+      "yorgun"
+    ]
+  },
+  {
+    "name": "Etli Ekmek",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Etli Ekmek' birebir.",
+    "moods": [
+      "üzgün",
+      "mutlu"
+    ]
+  },
+  {
+    "name": "Empanadas",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Empanadas' birebir.",
+    "moods": [
+      "stresli",
+      "mutlu"
+    ]
+  },
+  {
+    "name": "Feijoada",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Feijoada' birebir.",
+    "moods": [
+      "mutlu",
+      "üzgün",
+      "acıktım"
+    ]
+  },
+  {
+    "name": "Yaprak Sarma - AI Versiyon 8",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Yaprak Sarma - AI Versiyon 8' birebir.",
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "name": "Pierogi - AI Versiyon 7",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Pierogi - AI Versiyon 7' birebir.",
+    "moods": [
+      "mutlu",
+      "stresli",
+      "romantik"
+    ]
+  },
+  {
+    "name": "Pilav Üstü Döner - AI Versiyon 9",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Pilav Üstü Döner - AI Versiyon 9' birebir.",
+    "moods": [
+      "acıktım",
+      "yorgun"
+    ]
+  },
+  {
+    "name": "Feijoada - AI Versiyon 4",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Feijoada - AI Versiyon 4' birebir.",
+    "moods": [
+      "romantik",
+      "mutlu"
+    ]
+  },
+  {
+    "name": "Pilav Üstü Döner - AI Versiyon 9 - AI Versiyon 3",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Pilav Üstü Döner - AI Versiyon 9 - AI Versiyon 3' birebir.",
+    "moods": [
+      "üzgün",
+      "romantik",
+      "stresli"
+    ]
+  },
+  {
+    "name": "Chicken Tikka - AI Versiyon 8",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Chicken Tikka - AI Versiyon 8' birebir.",
+    "moods": [
+      "mutlu",
+      "acıktım"
+    ]
+  },
+  {
+    "name": "Shawarma - AI Versiyon 2",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Shawarma - AI Versiyon 2' birebir.",
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "name": "Pilav Üstü Döner - AI Versiyon 5",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Pilav Üstü Döner - AI Versiyon 5' birebir.",
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "name": "Etli Ekmek - AI Versiyon 4",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Etli Ekmek - AI Versiyon 4' birebir.",
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "name": "Etli Ekmek - AI Versiyon 2",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Etli Ekmek - AI Versiyon 2' birebir.",
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "name": "Pizza Margherita - AI Versiyon 5",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Pizza Margherita - AI Versiyon 5' birebir.",
+    "moods": [
+      "mutlu",
+      "yorgun",
+      "üzgün"
+    ]
+  },
+  {
+    "name": "Menemen - AI Versiyon 6",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Menemen - AI Versiyon 6' birebir.",
+    "moods": [
+      "üzgün",
+      "stresli",
+      "mutlu"
+    ]
+  },
+  {
+    "name": "Chicken Tikka - AI Versiyon 6",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Chicken Tikka - AI Versiyon 6' birebir.",
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "name": "Tom Yum - AI Versiyon 4",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Tom Yum - AI Versiyon 4' birebir.",
+    "moods": [
+      "stresli",
+      "romantik"
+    ]
+  },
+  {
+    "name": "Moussaka - AI Versiyon 1",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Moussaka - AI Versiyon 1' birebir.",
+    "moods": [
+      "üzgün",
+      "romantik",
+      "stresli"
+    ]
+  },
+  {
+    "name": "Moussaka - AI Versiyon 6",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Moussaka - AI Versiyon 6' birebir.",
+    "moods": [
+      "romantik",
+      "mutlu"
+    ]
+  },
+  {
+    "name": "Pilav Üstü Döner - AI Versiyon 9 - AI Versiyon 4",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Pilav Üstü Döner - AI Versiyon 9 - AI Versiyon 4' birebir.",
+    "moods": [
+      "stresli",
+      "yorgun"
+    ]
+  },
+  {
+    "name": "Pierogi - AI Versiyon 7 - AI Versiyon 1",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Pierogi - AI Versiyon 7 - AI Versiyon 1' birebir.",
+    "moods": [
+      "stresli",
+      "romantik",
+      "mutlu"
+    ]
+  },
+  {
+    "name": "Çiğ Köfte - AI Versiyon 10",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Çiğ Köfte - AI Versiyon 10' birebir.",
+    "moods": [
+      "stresli",
+      "mutlu",
+      "yorgun"
+    ]
+  },
+  {
+    "name": "Kuzu Şiş - AI Versiyon 8",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Kuzu Şiş - AI Versiyon 8' birebir.",
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "name": "Ceviche - AI Versiyon 7",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Ceviche - AI Versiyon 7' birebir.",
+    "moods": [
+      "üzgün",
+      "stresli",
+      "mutlu"
+    ]
+  },
+  {
+    "name": "Moussaka - AI Versiyon 6 - AI Versiyon 2",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Moussaka - AI Versiyon 6 - AI Versiyon 2' birebir.",
+    "moods": [
+      "acıktım",
+      "üzgün",
+      "yorgun"
+    ]
+  },
+  {
+    "name": "Ceviche - AI Versiyon 7 - AI Versiyon 9",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Ceviche - AI Versiyon 7 - AI Versiyon 9' birebir.",
+    "moods": [
+      "romantik",
+      "mutlu"
+    ]
+  },
+  {
+    "name": "Lahmacun - AI Versiyon 9",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Lahmacun - AI Versiyon 9' birebir.",
+    "moods": [
+      "üzgün",
+      "stresli"
+    ]
+  },
+  {
+    "name": "Menemen - AI Versiyon 6 - AI Versiyon 7",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Menemen - AI Versiyon 6 - AI Versiyon 7' birebir.",
+    "moods": [
+      "acıktım",
+      "mutlu"
+    ]
+  },
+  {
+    "name": "Pide - AI Versiyon 3",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Pide - AI Versiyon 3' birebir.",
+    "moods": [
+      "stresli",
+      "romantik"
+    ]
+  },
+  {
+    "name": "Yaprak Sarma - AI Versiyon 1",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Yaprak Sarma - AI Versiyon 1' birebir.",
+    "moods": [
+      "romantik",
+      "üzgün",
+      "mutlu"
+    ]
+  },
+  {
+    "name": "Pilav Üstü Döner - AI Versiyon 5 - AI Versiyon 9",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Pilav Üstü Döner - AI Versiyon 5 - AI Versiyon 9' birebir.",
+    "moods": [
+      "stresli",
+      "mutlu",
+      "acıktım"
+    ]
+  },
+  {
+    "name": "Menemen - AI Versiyon 2",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Menemen - AI Versiyon 2' birebir.",
+    "moods": [
+      "mutlu",
+      "romantik"
+    ]
+  },
+  {
+    "name": "Balık Izgara - AI Versiyon 6",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Balık Izgara - AI Versiyon 6' birebir.",
+    "moods": [
+      "romantik",
+      "acıktım"
+    ]
+  },
+  {
+    "name": "Pilav Üstü Döner - AI Versiyon 5 - AI Versiyon 9 - AI Versiyon 5",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Pilav Üstü Döner - AI Versiyon 5 - AI Versiyon 9 - AI Versiyon 5' birebir.",
+    "moods": [
+      "acıktım",
+      "mutlu",
+      "stresli"
+    ]
+  },
+  {
+    "name": "Tom Yum - AI Versiyon 4 - AI Versiyon 4",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Tom Yum - AI Versiyon 4 - AI Versiyon 4' birebir.",
+    "moods": [
+      "mutlu",
+      "acıktım"
+    ]
+  },
+  {
+    "name": "Moussaka - AI Versiyon 7",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Moussaka - AI Versiyon 7' birebir.",
+    "moods": [
+      "üzgün",
+      "romantik"
+    ]
+  },
+  {
+    "name": "Gado Gado - AI Versiyon 8",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Gado Gado - AI Versiyon 8' birebir.",
+    "moods": [
+      "üzgün"
+    ]
+  },
+  {
+    "name": "Menemen - AI Versiyon 6 - AI Versiyon 7 - AI Versiyon 10",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Menemen - AI Versiyon 6 - AI Versiyon 7 - AI Versiyon 10' birebir.",
+    "moods": [
+      "romantik",
+      "üzgün"
+    ]
+  },
+  {
+    "name": "Kuzu Şiş - AI Versiyon 8 - AI Versiyon 2",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Kuzu Şiş - AI Versiyon 8 - AI Versiyon 2' birebir.",
+    "moods": [
+      "üzgün",
+      "mutlu"
+    ]
+  },
+  {
+    "name": "Kuzu Tandır - AI Versiyon 1",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Kuzu Tandır - AI Versiyon 1' birebir.",
+    "moods": [
+      "mutlu",
+      "üzgün",
+      "yorgun"
+    ]
+  },
+  {
+    "name": "Lahmacun - AI Versiyon 9 - AI Versiyon 2",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Lahmacun - AI Versiyon 9 - AI Versiyon 2' birebir.",
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "name": "Kumpir - AI Versiyon 6",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Kumpir - AI Versiyon 6' birebir.",
+    "moods": [
+      "acıktım",
+      "stresli",
+      "mutlu"
+    ]
+  },
+  {
+    "name": "Pizza Margherita - AI Versiyon 5 - AI Versiyon 7",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Pizza Margherita - AI Versiyon 5 - AI Versiyon 7' birebir.",
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "name": "Lasagna - AI Versiyon 9",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Lasagna - AI Versiyon 9' birebir.",
+    "moods": [
+      "romantik",
+      "yorgun",
+      "stresli"
+    ]
+  },
+  {
+    "name": "Kuru Fasulye - AI Versiyon 4",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Kuru Fasulye - AI Versiyon 4' birebir.",
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "name": "Pizza Margherita - AI Versiyon 2",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Pizza Margherita - AI Versiyon 2' birebir.",
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "name": "Tagine - AI Versiyon 3",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Tagine - AI Versiyon 3' birebir.",
+    "moods": [
+      "acıktım",
+      "üzgün",
+      "romantik"
+    ]
+  },
+  {
+    "name": "Tacos - AI Versiyon 4",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Tacos - AI Versiyon 4' birebir.",
+    "moods": [
+      "romantik",
+      "stresli"
+    ]
+  },
+  {
+    "name": "Okonomiyaki - AI Versiyon 4",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Okonomiyaki - AI Versiyon 4' birebir.",
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "name": "Karnıyarık - AI Versiyon 1",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Karnıyarık - AI Versiyon 1' birebir.",
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "name": "Arepa - AI Versiyon 5",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Arepa - AI Versiyon 5' birebir.",
+    "moods": [
+      "üzgün",
+      "romantik"
+    ]
+  },
+  {
+    "name": "Bibimbap - AI Versiyon 4",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Bibimbap - AI Versiyon 4' birebir.",
+    "moods": [
+      "üzgün"
+    ]
+  },
+  {
+    "name": "Tacos - AI Versiyon 1",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Tacos - AI Versiyon 1' birebir.",
+    "moods": [
+      "stresli",
+      "acıktım",
+      "romantik"
+    ]
+  },
+  {
+    "name": "Tacos - AI Versiyon 4 - AI Versiyon 4",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Tacos - AI Versiyon 4 - AI Versiyon 4' birebir.",
+    "moods": [
+      "romantik",
+      "stresli",
+      "acıktım"
+    ]
+  },
+  {
+    "name": "Mercimek Çorbası - AI Versiyon 1",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Mercimek Çorbası - AI Versiyon 1' birebir.",
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "name": "Adana Kebap - AI Versiyon 1",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Adana Kebap - AI Versiyon 1' birebir.",
+    "moods": [
+      "acıktım",
+      "üzgün"
+    ]
+  },
+  {
+    "name": "Burrito - AI Versiyon 7",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Burrito - AI Versiyon 7' birebir.",
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "name": "Burger - AI Versiyon 5",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Burger - AI Versiyon 5' birebir.",
+    "moods": [
+      "mutlu",
+      "yorgun",
+      "üzgün"
+    ]
+  },
+  {
+    "name": "Pilav Üstü Döner - AI Versiyon 5 - AI Versiyon 5",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Pilav Üstü Döner - AI Versiyon 5 - AI Versiyon 5' birebir.",
+    "moods": [
+      "yorgun",
+      "stresli"
+    ]
+  },
+  {
+    "name": "Pilav Üstü Döner - AI Versiyon 5 - AI Versiyon 9 - AI Versiyon 5 - AI Versiyon 3",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Pilav Üstü Döner - AI Versiyon 5 - AI Versiyon 9 - AI Versiyon 5 - AI Versiyon 3' birebir.",
+    "moods": [
+      "stresli",
+      "mutlu",
+      "yorgun"
+    ]
+  },
+  {
+    "name": "Okonomiyaki - AI Versiyon 7",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Okonomiyaki - AI Versiyon 7' birebir.",
+    "moods": [
+      "üzgün"
+    ]
+  },
+  {
+    "name": "Çiğ Köfte - AI Versiyon 6",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Çiğ Köfte - AI Versiyon 6' birebir.",
+    "moods": [
+      "mutlu",
+      "acıktım"
+    ]
+  },
+  {
+    "name": "Burger - AI Versiyon 4",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Burger - AI Versiyon 4' birebir.",
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "name": "Lahmacun - AI Versiyon 9 - AI Versiyon 2 - AI Versiyon 2",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Lahmacun - AI Versiyon 9 - AI Versiyon 2 - AI Versiyon 2' birebir.",
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "name": "Testi Kebabı - AI Versiyon 10",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Testi Kebabı - AI Versiyon 10' birebir.",
+    "moods": [
+      "acıktım",
+      "yorgun"
+    ]
+  },
+  {
+    "name": "Moussaka - AI Versiyon 5",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Moussaka - AI Versiyon 5' birebir.",
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "name": "Moussaka - AI Versiyon 5 - AI Versiyon 9",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Moussaka - AI Versiyon 5 - AI Versiyon 9' birebir.",
+    "moods": [
+      "mutlu",
+      "romantik"
+    ]
+  },
+  {
+    "name": "Ramen - AI Versiyon 6",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Ramen - AI Versiyon 6' birebir.",
+    "moods": [
+      "romantik",
+      "stresli",
+      "mutlu"
+    ]
+  },
+  {
+    "name": "Simit - AI Versiyon 8",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Simit - AI Versiyon 8' birebir.",
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "name": "Kuzu Tandır - AI Versiyon 2",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Kuzu Tandır - AI Versiyon 2' birebir.",
+    "moods": [
+      "mutlu",
+      "stresli"
+    ]
+  },
+  {
+    "name": "Moussaka - AI Versiyon 5 - AI Versiyon 2",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Moussaka - AI Versiyon 5 - AI Versiyon 2' birebir.",
+    "moods": [
+      "romantik",
+      "acıktım"
+    ]
+  },
+  {
+    "name": "Etli Ekmek - AI Versiyon 2 - AI Versiyon 8",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Etli Ekmek - AI Versiyon 2 - AI Versiyon 8' birebir.",
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "name": "Okonomiyaki - AI Versiyon 9",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Okonomiyaki - AI Versiyon 9' birebir.",
+    "moods": [
+      "mutlu",
+      "üzgün"
+    ]
+  },
+  {
+    "name": "Yaprak Sarma - AI Versiyon 1 - AI Versiyon 7",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Yaprak Sarma - AI Versiyon 1 - AI Versiyon 7' birebir.",
+    "moods": [
+      "romantik",
+      "mutlu",
+      "üzgün"
+    ]
+  },
+  {
+    "name": "Moussaka - AI Versiyon 1 - AI Versiyon 9",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Moussaka - AI Versiyon 1 - AI Versiyon 9' birebir.",
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "name": "Tavuk Sote - AI Versiyon 3",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Tavuk Sote - AI Versiyon 3' birebir.",
+    "moods": [
+      "acıktım",
+      "üzgün",
+      "yorgun"
+    ]
+  },
+  {
+    "name": "Tagine - AI Versiyon 1",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Tagine - AI Versiyon 1' birebir.",
+    "moods": [
+      "stresli",
+      "romantik"
+    ]
+  },
+  {
+    "name": "Chicken Tikka - AI Versiyon 9",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Chicken Tikka - AI Versiyon 9' birebir.",
+    "moods": [
+      "üzgün"
+    ]
+  },
+  {
+    "name": "Pierogi - AI Versiyon 7 - AI Versiyon 1 - AI Versiyon 9",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Pierogi - AI Versiyon 7 - AI Versiyon 1 - AI Versiyon 9' birebir.",
+    "moods": [
+      "stresli",
+      "üzgün",
+      "acıktım"
+    ]
+  },
+  {
+    "name": "Moussaka - AI Versiyon 6 - AI Versiyon 2 - AI Versiyon 8",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Moussaka - AI Versiyon 6 - AI Versiyon 2 - AI Versiyon 8' birebir.",
+    "moods": [
+      "üzgün",
+      "stresli"
+    ]
+  },
+  {
+    "name": "Chicken Tikka - AI Versiyon 8 - AI Versiyon 4",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Chicken Tikka - AI Versiyon 8 - AI Versiyon 4' birebir.",
+    "moods": [
+      "üzgün",
+      "acıktım"
+    ]
+  },
+  {
+    "name": "Boeuf Bourguignon - AI Versiyon 8",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Boeuf Bourguignon - AI Versiyon 8' birebir.",
+    "moods": [
+      "mutlu",
+      "stresli",
+      "üzgün"
+    ]
+  },
+  {
+    "name": "Shawarma - AI Versiyon 2 - AI Versiyon 9",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Shawarma - AI Versiyon 2 - AI Versiyon 9' birebir.",
+    "moods": [
+      "mutlu",
+      "üzgün"
+    ]
+  },
+  {
+    "name": "Kuzu Şiş - AI Versiyon 8 - AI Versiyon 2 - AI Versiyon 2",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Kuzu Şiş - AI Versiyon 8 - AI Versiyon 2 - AI Versiyon 2' birebir.",
+    "moods": [
+      "üzgün",
+      "acıktım"
+    ]
+  },
+  {
+    "name": "Zeytinyağlı Fasulye - AI Versiyon 5",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Zeytinyağlı Fasulye - AI Versiyon 5' birebir.",
+    "moods": [
+      "stresli",
+      "üzgün"
+    ]
+  },
+  {
+    "name": "Zeytinyağlı Fasulye - AI Versiyon 5 - AI Versiyon 4",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Zeytinyağlı Fasulye - AI Versiyon 5 - AI Versiyon 4' birebir.",
+    "moods": [
+      "üzgün"
+    ]
+  },
+  {
+    "name": "Pizza Margherita - AI Versiyon 5 - AI Versiyon 7 - AI Versiyon 10",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Pizza Margherita - AI Versiyon 5 - AI Versiyon 7 - AI Versiyon 10' birebir.",
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "name": "Feijoada - AI Versiyon 4 - AI Versiyon 4",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Feijoada - AI Versiyon 4 - AI Versiyon 4' birebir.",
+    "moods": [
+      "üzgün"
+    ]
+  },
+  {
+    "name": "Pizza Margherita - AI Versiyon 5 - AI Versiyon 7 - AI Versiyon 3",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Pizza Margherita - AI Versiyon 5 - AI Versiyon 7 - AI Versiyon 3' birebir.",
+    "moods": [
+      "mutlu",
+      "üzgün",
+      "stresli"
+    ]
+  },
+  {
+    "name": "Tacos - AI Versiyon 8",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Tacos - AI Versiyon 8' birebir.",
+    "moods": [
+      "acıktım",
+      "romantik",
+      "stresli"
+    ]
+  },
+  {
+    "name": "Testi Kebabı - AI Versiyon 10 - AI Versiyon 8",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Testi Kebabı - AI Versiyon 10 - AI Versiyon 8' birebir.",
+    "moods": [
+      "üzgün",
+      "romantik",
+      "yorgun"
+    ]
+  },
+  {
+    "name": "Ceviche - AI Versiyon 7 - AI Versiyon 8",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Ceviche - AI Versiyon 7 - AI Versiyon 8' birebir.",
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "name": "Empanadas - AI Versiyon 7",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Empanadas - AI Versiyon 7' birebir.",
+    "moods": [
+      "stresli",
+      "üzgün",
+      "mutlu"
+    ]
+  },
+  {
+    "name": "Chicken Tikka - AI Versiyon 6 - AI Versiyon 3",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Chicken Tikka - AI Versiyon 6 - AI Versiyon 3' birebir.",
+    "moods": [
+      "mutlu",
+      "acıktım"
+    ]
+  },
+  {
+    "name": "Çiğ Köfte - AI Versiyon 6 - AI Versiyon 4",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Çiğ Köfte - AI Versiyon 6 - AI Versiyon 4' birebir.",
+    "moods": [
+      "mutlu",
+      "acıktım"
+    ]
+  },
+  {
+    "name": "Lahmacun - AI Versiyon 7",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Lahmacun - AI Versiyon 7' birebir.",
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "name": "Tarhana Çorbası - AI Versiyon 6",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Tarhana Çorbası - AI Versiyon 6' birebir.",
+    "moods": [
+      "üzgün",
+      "acıktım",
+      "romantik"
+    ]
+  },
+  {
+    "name": "Ratatouille - AI Versiyon 10",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Ratatouille - AI Versiyon 10' birebir.",
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "name": "Boeuf Bourguignon - AI Versiyon 7",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Boeuf Bourguignon - AI Versiyon 7' birebir.",
+    "moods": [
+      "acıktım",
+      "romantik",
+      "stresli"
+    ]
+  },
+  {
+    "name": "Pizza Margherita - AI Versiyon 5 - AI Versiyon 7 - AI Versiyon 1",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Pizza Margherita - AI Versiyon 5 - AI Versiyon 7 - AI Versiyon 1' birebir.",
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "name": "Ramen - AI Versiyon 2",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Ramen - AI Versiyon 2' birebir.",
+    "moods": [
+      "üzgün",
+      "romantik"
+    ]
+  },
+  {
+    "name": "Pilav Üstü Döner - AI Versiyon 9 - AI Versiyon 4 - AI Versiyon 1",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Pilav Üstü Döner - AI Versiyon 9 - AI Versiyon 4 - AI Versiyon 1' birebir.",
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "name": "Menemen - AI Versiyon 6 - AI Versiyon 7 - AI Versiyon 6",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Menemen - AI Versiyon 6 - AI Versiyon 7 - AI Versiyon 6' birebir.",
+    "moods": [
+      "romantik",
+      "acıktım"
+    ]
+  },
+  {
+    "name": "Gözleme - AI Versiyon 6",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Gözleme - AI Versiyon 6' birebir.",
+    "moods": [
+      "acıktım",
+      "romantik",
+      "üzgün"
+    ]
+  },
+  {
+    "name": "Kuzu Şiş - AI Versiyon 8 - AI Versiyon 2 - AI Versiyon 4",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Kuzu Şiş - AI Versiyon 8 - AI Versiyon 2 - AI Versiyon 4' birebir.",
+    "moods": [
+      "üzgün"
+    ]
+  },
+  {
+    "name": "Çiğ Köfte - AI Versiyon 6 - AI Versiyon 4 - AI Versiyon 2",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Çiğ Köfte - AI Versiyon 6 - AI Versiyon 4 - AI Versiyon 2' birebir.",
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "name": "Pizza Margherita - AI Versiyon 5 - AI Versiyon 7 - AI Versiyon 1 - AI Versiyon 6",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Pizza Margherita - AI Versiyon 5 - AI Versiyon 7 - AI Versiyon 1 - AI Versiyon 6' birebir.",
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "name": "Pizza Margherita - AI Versiyon 5 - AI Versiyon 7 - AI Versiyon 8",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Pizza Margherita - AI Versiyon 5 - AI Versiyon 7 - AI Versiyon 8' birebir.",
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "name": "Tarhana Çorbası - AI Versiyon 6 - AI Versiyon 9",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Tarhana Çorbası - AI Versiyon 6 - AI Versiyon 9' birebir.",
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "name": "Dim Sum - AI Versiyon 5",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Dim Sum - AI Versiyon 5' birebir.",
+    "moods": [
+      "mutlu",
+      "yorgun",
+      "stresli"
+    ]
+  },
+  {
+    "name": "Chicken Tikka - AI Versiyon 6 - AI Versiyon 6",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Chicken Tikka - AI Versiyon 6 - AI Versiyon 6' birebir.",
+    "moods": [
+      "acıktım",
+      "stresli"
+    ]
+  },
+  {
+    "name": "Shawarma - AI Versiyon 2 - AI Versiyon 8",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Shawarma - AI Versiyon 2 - AI Versiyon 8' birebir.",
+    "moods": [
+      "romantik",
+      "yorgun"
+    ]
+  },
+  {
+    "name": "Gnocchi - AI Versiyon 9",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Gnocchi - AI Versiyon 9' birebir.",
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "name": "Balık Izgara - AI Versiyon 6 - AI Versiyon 10",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Balık Izgara - AI Versiyon 6 - AI Versiyon 10' birebir.",
+    "moods": [
+      "üzgün",
+      "stresli"
+    ]
+  },
+  {
+    "name": "Mercimek Çorbası - AI Versiyon 1 - AI Versiyon 2",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Mercimek Çorbası - AI Versiyon 1 - AI Versiyon 2' birebir.",
+    "moods": [
+      "yorgun",
+      "mutlu"
+    ]
+  },
+  {
+    "name": "Arepa - AI Versiyon 5 - AI Versiyon 2",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Arepa - AI Versiyon 5 - AI Versiyon 2' birebir.",
+    "moods": [
+      "üzgün"
+    ]
+  },
+  {
+    "name": "Kuzu Şiş - AI Versiyon 8 - AI Versiyon 2 - AI Versiyon 4 - AI Versiyon 1",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Kuzu Şiş - AI Versiyon 8 - AI Versiyon 2 - AI Versiyon 4 - AI Versiyon 1' birebir.",
+    "moods": [
+      "üzgün",
+      "yorgun"
+    ]
+  },
+  {
+    "name": "Tavuk Sote - AI Versiyon 3 - AI Versiyon 2",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Tavuk Sote - AI Versiyon 3 - AI Versiyon 2' birebir.",
+    "moods": [
+      "üzgün",
+      "stresli"
+    ]
+  },
+  {
+    "name": "Ramen - AI Versiyon 6 - AI Versiyon 4",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Ramen - AI Versiyon 6 - AI Versiyon 4' birebir.",
+    "moods": [
+      "romantik",
+      "acıktım",
+      "üzgün"
+    ]
+  },
+  {
+    "name": "Tavuk Sote - AI Versiyon 2",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Tavuk Sote - AI Versiyon 2' birebir.",
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "name": "Mercimek Çorbası - AI Versiyon 4",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Mercimek Çorbası - AI Versiyon 4' birebir.",
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "name": "Mercimek Çorbası - AI Versiyon 1 - AI Versiyon 5",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Mercimek Çorbası - AI Versiyon 1 - AI Versiyon 5' birebir.",
+    "moods": [
+      "acıktım",
+      "stresli"
+    ]
+  },
+  {
+    "name": "Chicken Tikka - AI Versiyon 9 - AI Versiyon 8",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Chicken Tikka - AI Versiyon 9 - AI Versiyon 8' birebir.",
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "name": "Gado Gado - AI Versiyon 8 - AI Versiyon 1",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Gado Gado - AI Versiyon 8 - AI Versiyon 1' birebir.",
+    "moods": [
+      "mutlu",
+      "stresli",
+      "acıktım"
+    ]
+  },
+  {
+    "name": "Zeytinyağlı Fasulye - AI Versiyon 5 - AI Versiyon 5",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Zeytinyağlı Fasulye - AI Versiyon 5 - AI Versiyon 5' birebir.",
+    "moods": [
+      "acıktım",
+      "stresli"
+    ]
+  },
+  {
+    "name": "Mercimek Çorbası - AI Versiyon 4 - AI Versiyon 7",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Mercimek Çorbası - AI Versiyon 4 - AI Versiyon 7' birebir.",
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "name": "Pilav Üstü Döner - AI Versiyon 4",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Pilav Üstü Döner - AI Versiyon 4' birebir.",
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "name": "Sushi - AI Versiyon 2",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Sushi - AI Versiyon 2' birebir.",
+    "moods": [
+      "stresli",
+      "acıktım"
+    ]
+  },
+  {
+    "name": "Shawarma - AI Versiyon 2 - AI Versiyon 8 - AI Versiyon 7",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Shawarma - AI Versiyon 2 - AI Versiyon 8 - AI Versiyon 7' birebir.",
+    "moods": [
+      "üzgün",
+      "romantik"
+    ]
+  },
+  {
+    "name": "Kuru Fasulye - AI Versiyon 8",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Kuru Fasulye - AI Versiyon 8' birebir.",
+    "moods": [
+      "stresli",
+      "yorgun",
+      "mutlu"
+    ]
+  },
+  {
+    "name": "Pilav Üstü Döner - AI Versiyon 9 - AI Versiyon 4 - AI Versiyon 1 - AI Versiyon 2",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Pilav Üstü Döner - AI Versiyon 9 - AI Versiyon 4 - AI Versiyon 1 - AI Versiyon 2' birebir.",
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "name": "Adana Kebap - AI Versiyon 4",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Adana Kebap - AI Versiyon 4' birebir.",
+    "moods": [
+      "üzgün"
+    ]
+  },
+  {
+    "name": "Mercimek Çorbası - AI Versiyon 1 - AI Versiyon 5 - AI Versiyon 6",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Mercimek Çorbası - AI Versiyon 1 - AI Versiyon 5 - AI Versiyon 6' birebir.",
+    "moods": [
+      "acıktım",
+      "romantik",
+      "mutlu"
+    ]
+  },
+  {
+    "name": "Kuzu Şiş - AI Versiyon 2",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Kuzu Şiş - AI Versiyon 2' birebir.",
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "name": "Pizza Margherita - AI Versiyon 5 - AI Versiyon 7 - AI Versiyon 10 - AI Versiyon 6",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Pizza Margherita - AI Versiyon 5 - AI Versiyon 7 - AI Versiyon 10 - AI Versiyon 6' birebir.",
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "name": "Pilav Üstü Döner - AI Versiyon 9 - AI Versiyon 4 - AI Versiyon 1 - AI Versiyon 1",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Pilav Üstü Döner - AI Versiyon 9 - AI Versiyon 4 - AI Versiyon 1 - AI Versiyon 1' birebir.",
+    "moods": [
+      "mutlu",
+      "stresli"
+    ]
+  },
+  {
+    "name": "Pilav Üstü Döner - AI Versiyon 9 - AI Versiyon 4 - AI Versiyon 1 - AI Versiyon 2 - AI Versiyon 1",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Pilav Üstü Döner - AI Versiyon 9 - AI Versiyon 4 - AI Versiyon 1 - AI Versiyon 2 - AI Versiyon 1' birebir.",
+    "moods": [
+      "romantik",
+      "mutlu"
+    ]
+  },
+  {
+    "name": "Zeytinyağlı Fasulye - AI Versiyon 5 - AI Versiyon 7",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Zeytinyağlı Fasulye - AI Versiyon 5 - AI Versiyon 7' birebir.",
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "name": "Dolma - AI Versiyon 9",
+    "description": "AI önerisi: Bugünkü ruh halin için 'Dolma - AI Versiyon 9' birebir.",
+    "moods": [
+      "acıktım"
+    ]
+  }
+]
