@@ -1,0 +1,3440 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "tr": "Mercimek Köftesi",
+      "en": "Mercimek Köftesi"
+    },
+    "description": {
+      "tr": "Mercimek Köftesi özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "en": "Mercimek Köftesi özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir."
+    },
+    "why": {
+      "tr": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+      "en": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 2,
+    "name": {
+      "tr": "Chow Mein",
+      "en": "Chow Mein"
+    },
+    "description": {
+      "tr": "Chow Mein mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "en": "Chow Mein mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur."
+    },
+    "why": {
+      "tr": "Romantik bir akşam ya da özel bir mola için birebir.",
+      "en": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "id": 3,
+    "name": {
+      "tr": "Pizza Margherita",
+      "en": "Pizza Margherita"
+    },
+    "description": {
+      "tr": "Pizza Margherita hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+      "en": "Pizza Margherita hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir."
+    },
+    "why": {
+      "tr": "Romantik bir akşam ya da özel bir mola için birebir.",
+      "en": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 4,
+    "name": {
+      "tr": "Ramen",
+      "en": "Ramen"
+    },
+    "description": {
+      "tr": "Ramen mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "en": "Ramen mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur."
+    },
+    "why": {
+      "tr": "Romantik bir akşam ya da özel bir mola için birebir.",
+      "en": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 5,
+    "name": {
+      "tr": "Poutine",
+      "en": "Poutine"
+    },
+    "description": {
+      "tr": "Poutine geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "en": "Poutine geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir."
+    },
+    "why": {
+      "tr": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!",
+      "en": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!"
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 6,
+    "name": {
+      "tr": "Sauerbraten",
+      "en": "Sauerbraten"
+    },
+    "description": {
+      "tr": "Sauerbraten farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+      "en": "Sauerbraten farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar."
+    },
+    "why": {
+      "tr": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+      "en": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "id": 7,
+    "name": {
+      "tr": "Ceviche",
+      "en": "Ceviche"
+    },
+    "description": {
+      "tr": "Ceviche doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+      "en": "Ceviche doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir."
+    },
+    "why": {
+      "tr": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+      "en": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 8,
+    "name": {
+      "tr": "Tom Yum",
+      "en": "Tom Yum"
+    },
+    "description": {
+      "tr": "Tom Yum farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+      "en": "Tom Yum farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar."
+    },
+    "why": {
+      "tr": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+      "en": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 9,
+    "name": {
+      "tr": "Empanadas",
+      "en": "Empanadas"
+    },
+    "description": {
+      "tr": "Empanadas yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "en": "Empanadas yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır."
+    },
+    "why": {
+      "tr": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+      "en": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 10,
+    "name": {
+      "tr": "Bulgur Pilavı",
+      "en": "Bulgur Pilavı"
+    },
+    "description": {
+      "tr": "Bulgur Pilavı yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "en": "Bulgur Pilavı yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır."
+    },
+    "why": {
+      "tr": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+      "en": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 11,
+    "name": {
+      "tr": "Tacos",
+      "en": "Tacos"
+    },
+    "description": {
+      "tr": "Tacos mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "en": "Tacos mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur."
+    },
+    "why": {
+      "tr": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+      "en": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 12,
+    "name": {
+      "tr": "Yoğurtlu Patates",
+      "en": "Yoğurtlu Patates"
+    },
+    "description": {
+      "tr": "Yoğurtlu Patates mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "en": "Yoğurtlu Patates mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur."
+    },
+    "why": {
+      "tr": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+      "en": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "id": 13,
+    "name": {
+      "tr": "Okonomiyaki",
+      "en": "Okonomiyaki"
+    },
+    "description": {
+      "tr": "Okonomiyaki mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "en": "Okonomiyaki mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur."
+    },
+    "why": {
+      "tr": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek.",
+      "en": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek."
+    },
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 14,
+    "name": {
+      "tr": "Etli Nohut",
+      "en": "Etli Nohut"
+    },
+    "description": {
+      "tr": "Etli Nohut doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+      "en": "Etli Nohut doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir."
+    },
+    "why": {
+      "tr": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+      "en": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 15,
+    "name": {
+      "tr": "Arnavut Ciğeri",
+      "en": "Arnavut Ciğeri"
+    },
+    "description": {
+      "tr": "Arnavut Ciğeri hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir.",
+      "en": "Arnavut Ciğeri hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir."
+    },
+    "why": {
+      "tr": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!",
+      "en": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!"
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 16,
+    "name": {
+      "tr": "Bouillabaisse",
+      "en": "Bouillabaisse"
+    },
+    "description": {
+      "tr": "Bouillabaisse özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "en": "Bouillabaisse özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir."
+    },
+    "why": {
+      "tr": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!",
+      "en": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!"
+    },
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 17,
+    "name": {
+      "tr": "Katsu Curry",
+      "en": "Katsu Curry"
+    },
+    "description": {
+      "tr": "Katsu Curry bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "en": "Katsu Curry bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar."
+    },
+    "why": {
+      "tr": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek.",
+      "en": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek."
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 18,
+    "name": {
+      "tr": "Ciğer Tava",
+      "en": "Ciğer Tava"
+    },
+    "description": {
+      "tr": "Ciğer Tava farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+      "en": "Ciğer Tava farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar."
+    },
+    "why": {
+      "tr": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek.",
+      "en": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek."
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 19,
+    "name": {
+      "tr": "Kuzu Şiş",
+      "en": "Kuzu Şiş"
+    },
+    "description": {
+      "tr": "Kuzu Şiş özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "en": "Kuzu Şiş özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir."
+    },
+    "why": {
+      "tr": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+      "en": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 20,
+    "name": {
+      "tr": "Köfte Ekmek",
+      "en": "Köfte Ekmek"
+    },
+    "description": {
+      "tr": "Köfte Ekmek özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "en": "Köfte Ekmek özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir."
+    },
+    "why": {
+      "tr": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+      "en": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 21,
+    "name": {
+      "tr": "Kimchi",
+      "en": "Kimchi"
+    },
+    "description": {
+      "tr": "Kimchi geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "en": "Kimchi geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir."
+    },
+    "why": {
+      "tr": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek.",
+      "en": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek."
+    },
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 22,
+    "name": {
+      "tr": "Yakitori",
+      "en": "Yakitori"
+    },
+    "description": {
+      "tr": "Yakitori geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "en": "Yakitori geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir."
+    },
+    "why": {
+      "tr": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!",
+      "en": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!"
+    },
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 23,
+    "name": {
+      "tr": "Bibimbap",
+      "en": "Bibimbap"
+    },
+    "description": {
+      "tr": "Bibimbap mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "en": "Bibimbap mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur."
+    },
+    "why": {
+      "tr": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+      "en": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 24,
+    "name": {
+      "tr": "Kumpir",
+      "en": "Kumpir"
+    },
+    "description": {
+      "tr": "Kumpir hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+      "en": "Kumpir hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir."
+    },
+    "why": {
+      "tr": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+      "en": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 25,
+    "name": {
+      "tr": "Çılbır",
+      "en": "Çılbır"
+    },
+    "description": {
+      "tr": "Çılbır yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "en": "Çılbır yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır."
+    },
+    "why": {
+      "tr": "Romantik bir akşam ya da özel bir mola için birebir.",
+      "en": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "id": 26,
+    "name": {
+      "tr": "Sucuklu Yumurta",
+      "en": "Sucuklu Yumurta"
+    },
+    "description": {
+      "tr": "Sucuklu Yumurta doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+      "en": "Sucuklu Yumurta doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir."
+    },
+    "why": {
+      "tr": "Romantik bir akşam ya da özel bir mola için birebir.",
+      "en": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 27,
+    "name": {
+      "tr": "Adana Kebap",
+      "en": "Adana Kebap"
+    },
+    "description": {
+      "tr": "Adana Kebap hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+      "en": "Adana Kebap hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir."
+    },
+    "why": {
+      "tr": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+      "en": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 28,
+    "name": {
+      "tr": "Ratatouille",
+      "en": "Ratatouille"
+    },
+    "description": {
+      "tr": "Ratatouille hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+      "en": "Ratatouille hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir."
+    },
+    "why": {
+      "tr": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!",
+      "en": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!"
+    },
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 29,
+    "name": {
+      "tr": "Karnabahar Graten",
+      "en": "Karnabahar Graten"
+    },
+    "description": {
+      "tr": "Karnabahar Graten yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "en": "Karnabahar Graten yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır."
+    },
+    "why": {
+      "tr": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!",
+      "en": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!"
+    },
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 30,
+    "name": {
+      "tr": "Croissant",
+      "en": "Croissant"
+    },
+    "description": {
+      "tr": "Croissant özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "en": "Croissant özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir."
+    },
+    "why": {
+      "tr": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!",
+      "en": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!"
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 31,
+    "name": {
+      "tr": "Goulash",
+      "en": "Goulash"
+    },
+    "description": {
+      "tr": "Goulash özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "en": "Goulash özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir."
+    },
+    "why": {
+      "tr": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+      "en": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 32,
+    "name": {
+      "tr": "Çoban Salata",
+      "en": "Çoban Salata"
+    },
+    "description": {
+      "tr": "Çoban Salata farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+      "en": "Çoban Salata farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar."
+    },
+    "why": {
+      "tr": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+      "en": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 33,
+    "name": {
+      "tr": "Mapo Tofu",
+      "en": "Mapo Tofu"
+    },
+    "description": {
+      "tr": "Mapo Tofu özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "en": "Mapo Tofu özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir."
+    },
+    "why": {
+      "tr": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek.",
+      "en": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek."
+    },
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "id": 34,
+    "name": {
+      "tr": "Khachapuri",
+      "en": "Khachapuri"
+    },
+    "description": {
+      "tr": "Khachapuri doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+      "en": "Khachapuri doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir."
+    },
+    "why": {
+      "tr": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+      "en": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "id": 35,
+    "name": {
+      "tr": "Pad Thai",
+      "en": "Pad Thai"
+    },
+    "description": {
+      "tr": "Pad Thai doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+      "en": "Pad Thai doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir."
+    },
+    "why": {
+      "tr": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!",
+      "en": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!"
+    },
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 36,
+    "name": {
+      "tr": "Falafel",
+      "en": "Falafel"
+    },
+    "description": {
+      "tr": "Falafel yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "en": "Falafel yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır."
+    },
+    "why": {
+      "tr": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+      "en": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "id": 37,
+    "name": {
+      "tr": "Havuç Tarator",
+      "en": "Havuç Tarator"
+    },
+    "description": {
+      "tr": "Havuç Tarator mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "en": "Havuç Tarator mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur."
+    },
+    "why": {
+      "tr": "Romantik bir akşam ya da özel bir mola için birebir.",
+      "en": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 38,
+    "name": {
+      "tr": "Kabak Mücver",
+      "en": "Kabak Mücver"
+    },
+    "description": {
+      "tr": "Kabak Mücver dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+      "en": "Kabak Mücver dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir."
+    },
+    "why": {
+      "tr": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+      "en": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 39,
+    "name": {
+      "tr": "Tantuni",
+      "en": "Tantuni"
+    },
+    "description": {
+      "tr": "Tantuni dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+      "en": "Tantuni dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir."
+    },
+    "why": {
+      "tr": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+      "en": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 40,
+    "name": {
+      "tr": "Kahvaltı Tabağı",
+      "en": "Kahvaltı Tabağı"
+    },
+    "description": {
+      "tr": "Kahvaltı Tabağı bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "en": "Kahvaltı Tabağı bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar."
+    },
+    "why": {
+      "tr": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek.",
+      "en": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek."
+    },
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 41,
+    "name": {
+      "tr": "Kısır",
+      "en": "Kısır"
+    },
+    "description": {
+      "tr": "Kısır bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "en": "Kısır bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar."
+    },
+    "why": {
+      "tr": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+      "en": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 42,
+    "name": {
+      "tr": "Sulu Köfte",
+      "en": "Sulu Köfte"
+    },
+    "description": {
+      "tr": "Sulu Köfte yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "en": "Sulu Köfte yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır."
+    },
+    "why": {
+      "tr": "Romantik bir akşam ya da özel bir mola için birebir.",
+      "en": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 43,
+    "name": {
+      "tr": "Shakshuka",
+      "en": "Shakshuka"
+    },
+    "description": {
+      "tr": "Shakshuka doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+      "en": "Shakshuka doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir."
+    },
+    "why": {
+      "tr": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!",
+      "en": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!"
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 44,
+    "name": {
+      "tr": "Arepas",
+      "en": "Arepas"
+    },
+    "description": {
+      "tr": "Arepas mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "en": "Arepas mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur."
+    },
+    "why": {
+      "tr": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+      "en": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 45,
+    "name": {
+      "tr": "Gnocchi",
+      "en": "Gnocchi"
+    },
+    "description": {
+      "tr": "Gnocchi yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "en": "Gnocchi yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır."
+    },
+    "why": {
+      "tr": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!",
+      "en": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!"
+    },
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "id": 46,
+    "name": {
+      "tr": "Tamales",
+      "en": "Tamales"
+    },
+    "description": {
+      "tr": "Tamales mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "en": "Tamales mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur."
+    },
+    "why": {
+      "tr": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+      "en": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "id": 47,
+    "name": {
+      "tr": "Fırın Tavuk",
+      "en": "Fırın Tavuk"
+    },
+    "description": {
+      "tr": "Fırın Tavuk farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+      "en": "Fırın Tavuk farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar."
+    },
+    "why": {
+      "tr": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek.",
+      "en": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek."
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 48,
+    "name": {
+      "tr": "Paneer Tikka",
+      "en": "Paneer Tikka"
+    },
+    "description": {
+      "tr": "Paneer Tikka bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "en": "Paneer Tikka bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar."
+    },
+    "why": {
+      "tr": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+      "en": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 49,
+    "name": {
+      "tr": "Chimichurri Steak",
+      "en": "Chimichurri Steak"
+    },
+    "description": {
+      "tr": "Chimichurri Steak geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "en": "Chimichurri Steak geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir."
+    },
+    "why": {
+      "tr": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!",
+      "en": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!"
+    },
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 50,
+    "name": {
+      "tr": "Cepelinai",
+      "en": "Cepelinai"
+    },
+    "description": {
+      "tr": "Cepelinai mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "en": "Cepelinai mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur."
+    },
+    "why": {
+      "tr": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+      "en": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 51,
+    "name": {
+      "tr": "Pide",
+      "en": "Pide"
+    },
+    "description": {
+      "tr": "Pide geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "en": "Pide geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir."
+    },
+    "why": {
+      "tr": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+      "en": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 52,
+    "name": {
+      "tr": "Alinazik",
+      "en": "Alinazik"
+    },
+    "description": {
+      "tr": "Alinazik bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "en": "Alinazik bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar."
+    },
+    "why": {
+      "tr": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+      "en": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 53,
+    "name": {
+      "tr": "Ezogelin Çorbası",
+      "en": "Ezogelin Çorbası"
+    },
+    "description": {
+      "tr": "Ezogelin Çorbası doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+      "en": "Ezogelin Çorbası doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir."
+    },
+    "why": {
+      "tr": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!",
+      "en": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!"
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 54,
+    "name": {
+      "tr": "Tepsi Kebabı",
+      "en": "Tepsi Kebabı"
+    },
+    "description": {
+      "tr": "Tepsi Kebabı dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+      "en": "Tepsi Kebabı dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir."
+    },
+    "why": {
+      "tr": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+      "en": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 55,
+    "name": {
+      "tr": "Kuru Fasulye",
+      "en": "Kuru Fasulye"
+    },
+    "description": {
+      "tr": "Kuru Fasulye doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+      "en": "Kuru Fasulye doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir."
+    },
+    "why": {
+      "tr": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+      "en": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "id": 56,
+    "name": {
+      "tr": "Kuzu Güveç",
+      "en": "Kuzu Güveç"
+    },
+    "description": {
+      "tr": "Kuzu Güveç mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "en": "Kuzu Güveç mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur."
+    },
+    "why": {
+      "tr": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+      "en": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 57,
+    "name": {
+      "tr": "Fish and Chips",
+      "en": "Fish and Chips"
+    },
+    "description": {
+      "tr": "Fish and Chips hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+      "en": "Fish and Chips hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir."
+    },
+    "why": {
+      "tr": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!",
+      "en": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!"
+    },
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 58,
+    "name": {
+      "tr": "Zerde",
+      "en": "Zerde"
+    },
+    "description": {
+      "tr": "Zerde dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+      "en": "Zerde dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir."
+    },
+    "why": {
+      "tr": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+      "en": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 59,
+    "name": {
+      "tr": "Tavuk Şiş",
+      "en": "Tavuk Şiş"
+    },
+    "description": {
+      "tr": "Tavuk Şiş bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "en": "Tavuk Şiş bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar."
+    },
+    "why": {
+      "tr": "Romantik bir akşam ya da özel bir mola için birebir.",
+      "en": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 60,
+    "name": {
+      "tr": "Shepherd's Pie",
+      "en": "Shepherd's Pie"
+    },
+    "description": {
+      "tr": "Shepherd's Pie bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "en": "Shepherd's Pie bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar."
+    },
+    "why": {
+      "tr": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!",
+      "en": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!"
+    },
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "id": 61,
+    "name": {
+      "tr": "Su Böreği",
+      "en": "Su Böreği"
+    },
+    "description": {
+      "tr": "Su Böreği farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+      "en": "Su Böreği farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar."
+    },
+    "why": {
+      "tr": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!",
+      "en": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!"
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 62,
+    "name": {
+      "tr": "Pierogi",
+      "en": "Pierogi"
+    },
+    "description": {
+      "tr": "Pierogi özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "en": "Pierogi özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir."
+    },
+    "why": {
+      "tr": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+      "en": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 63,
+    "name": {
+      "tr": "Mercimek Çorbası",
+      "en": "Mercimek Çorbası"
+    },
+    "description": {
+      "tr": "Mercimek Çorbası mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "en": "Mercimek Çorbası mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur."
+    },
+    "why": {
+      "tr": "Romantik bir akşam ya da özel bir mola için birebir.",
+      "en": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "id": 64,
+    "name": {
+      "tr": "Laksa",
+      "en": "Laksa"
+    },
+    "description": {
+      "tr": "Laksa farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+      "en": "Laksa farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar."
+    },
+    "why": {
+      "tr": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+      "en": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 65,
+    "name": {
+      "tr": "Dim Sum",
+      "en": "Dim Sum"
+    },
+    "description": {
+      "tr": "Dim Sum farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+      "en": "Dim Sum farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar."
+    },
+    "why": {
+      "tr": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+      "en": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 66,
+    "name": {
+      "tr": "Hummus",
+      "en": "Hummus"
+    },
+    "description": {
+      "tr": "Hummus özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "en": "Hummus özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir."
+    },
+    "why": {
+      "tr": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+      "en": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 67,
+    "name": {
+      "tr": "Couscous",
+      "en": "Couscous"
+    },
+    "description": {
+      "tr": "Couscous dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+      "en": "Couscous dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir."
+    },
+    "why": {
+      "tr": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+      "en": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "id": 68,
+    "name": {
+      "tr": "Hünkar Beğendi",
+      "en": "Hünkar Beğendi"
+    },
+    "description": {
+      "tr": "Hünkar Beğendi geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "en": "Hünkar Beğendi geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir."
+    },
+    "why": {
+      "tr": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!",
+      "en": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!"
+    },
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "id": 69,
+    "name": {
+      "tr": "Tarhana Çorbası",
+      "en": "Tarhana Çorbası"
+    },
+    "description": {
+      "tr": "Tarhana Çorbası hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+      "en": "Tarhana Çorbası hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir."
+    },
+    "why": {
+      "tr": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!",
+      "en": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!"
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 70,
+    "name": {
+      "tr": "Erişte",
+      "en": "Erişte"
+    },
+    "description": {
+      "tr": "Erişte özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "en": "Erişte özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir."
+    },
+    "why": {
+      "tr": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!",
+      "en": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!"
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 71,
+    "name": {
+      "tr": "Tavuklu Pilav",
+      "en": "Tavuklu Pilav"
+    },
+    "description": {
+      "tr": "Tavuklu Pilav mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "en": "Tavuklu Pilav mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur."
+    },
+    "why": {
+      "tr": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+      "en": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 72,
+    "name": {
+      "tr": "Sarma",
+      "en": "Sarma"
+    },
+    "description": {
+      "tr": "Sarma mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "en": "Sarma mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur."
+    },
+    "why": {
+      "tr": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+      "en": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 73,
+    "name": {
+      "tr": "Kabak Dolması",
+      "en": "Kabak Dolması"
+    },
+    "description": {
+      "tr": "Kabak Dolması geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "en": "Kabak Dolması geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir."
+    },
+    "why": {
+      "tr": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+      "en": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "id": 74,
+    "name": {
+      "tr": "Zeytinyağlı Bamya",
+      "en": "Zeytinyağlı Bamya"
+    },
+    "description": {
+      "tr": "Zeytinyağlı Bamya hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir.",
+      "en": "Zeytinyağlı Bamya hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir."
+    },
+    "why": {
+      "tr": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!",
+      "en": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!"
+    },
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 75,
+    "name": {
+      "tr": "Pilav Üstü Döner",
+      "en": "Pilav Üstü Döner"
+    },
+    "description": {
+      "tr": "Pilav Üstü Döner mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "en": "Pilav Üstü Döner mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur."
+    },
+    "why": {
+      "tr": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+      "en": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 76,
+    "name": {
+      "tr": "Simit",
+      "en": "Simit"
+    },
+    "description": {
+      "tr": "Simit dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+      "en": "Simit dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir."
+    },
+    "why": {
+      "tr": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!",
+      "en": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!"
+    },
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 77,
+    "name": {
+      "tr": "Burger",
+      "en": "Burger"
+    },
+    "description": {
+      "tr": "Burger dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+      "en": "Burger dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir."
+    },
+    "why": {
+      "tr": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+      "en": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "id": 78,
+    "name": {
+      "tr": "Sushi",
+      "en": "Sushi"
+    },
+    "description": {
+      "tr": "Sushi yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "en": "Sushi yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır."
+    },
+    "why": {
+      "tr": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+      "en": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 79,
+    "name": {
+      "tr": "Çiğ Köfte",
+      "en": "Çiğ Köfte"
+    },
+    "description": {
+      "tr": "Çiğ Köfte geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "en": "Çiğ Köfte geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir."
+    },
+    "why": {
+      "tr": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!",
+      "en": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!"
+    },
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "id": 80,
+    "name": {
+      "tr": "Menemen",
+      "en": "Menemen"
+    },
+    "description": {
+      "tr": "Menemen özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "en": "Menemen özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir."
+    },
+    "why": {
+      "tr": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!",
+      "en": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!"
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 81,
+    "name": {
+      "tr": "İmam Bayıldı",
+      "en": "İmam Bayıldı"
+    },
+    "description": {
+      "tr": "İmam Bayıldı mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "en": "İmam Bayıldı mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur."
+    },
+    "why": {
+      "tr": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+      "en": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 82,
+    "name": {
+      "tr": "Paella",
+      "en": "Paella"
+    },
+    "description": {
+      "tr": "Paella bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "en": "Paella bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar."
+    },
+    "why": {
+      "tr": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+      "en": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "id": 83,
+    "name": {
+      "tr": "Kibbeh",
+      "en": "Kibbeh"
+    },
+    "description": {
+      "tr": "Kibbeh yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "en": "Kibbeh yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır."
+    },
+    "why": {
+      "tr": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+      "en": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 84,
+    "name": {
+      "tr": "Piyaz",
+      "en": "Piyaz"
+    },
+    "description": {
+      "tr": "Piyaz özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "en": "Piyaz özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir."
+    },
+    "why": {
+      "tr": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!",
+      "en": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!"
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 85,
+    "name": {
+      "tr": "Clam Chowder",
+      "en": "Clam Chowder"
+    },
+    "description": {
+      "tr": "Clam Chowder mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "en": "Clam Chowder mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur."
+    },
+    "why": {
+      "tr": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+      "en": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 86,
+    "name": {
+      "tr": "Pho",
+      "en": "Pho"
+    },
+    "description": {
+      "tr": "Pho hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+      "en": "Pho hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir."
+    },
+    "why": {
+      "tr": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+      "en": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 87,
+    "name": {
+      "tr": "Tortilla Española",
+      "en": "Tortilla Española"
+    },
+    "description": {
+      "tr": "Tortilla Española farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+      "en": "Tortilla Española farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar."
+    },
+    "why": {
+      "tr": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!",
+      "en": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!"
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 88,
+    "name": {
+      "tr": "Manti",
+      "en": "Manti"
+    },
+    "description": {
+      "tr": "Manti hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+      "en": "Manti hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir."
+    },
+    "why": {
+      "tr": "Romantik bir akşam ya da özel bir mola için birebir.",
+      "en": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 89,
+    "name": {
+      "tr": "Miso Soup",
+      "en": "Miso Soup"
+    },
+    "description": {
+      "tr": "Miso Soup farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+      "en": "Miso Soup farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar."
+    },
+    "why": {
+      "tr": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+      "en": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "id": 90,
+    "name": {
+      "tr": "Gyoza",
+      "en": "Gyoza"
+    },
+    "description": {
+      "tr": "Gyoza mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "en": "Gyoza mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur."
+    },
+    "why": {
+      "tr": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!",
+      "en": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!"
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 91,
+    "name": {
+      "tr": "Baklava",
+      "en": "Baklava"
+    },
+    "description": {
+      "tr": "Baklava mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "en": "Baklava mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur."
+    },
+    "why": {
+      "tr": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek.",
+      "en": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek."
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 92,
+    "name": {
+      "tr": "Dolma",
+      "en": "Dolma"
+    },
+    "description": {
+      "tr": "Dolma özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "en": "Dolma özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir."
+    },
+    "why": {
+      "tr": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+      "en": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 93,
+    "name": {
+      "tr": "Lobster Roll",
+      "en": "Lobster Roll"
+    },
+    "description": {
+      "tr": "Lobster Roll dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+      "en": "Lobster Roll dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir."
+    },
+    "why": {
+      "tr": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!",
+      "en": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!"
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 94,
+    "name": {
+      "tr": "Fajitas",
+      "en": "Fajitas"
+    },
+    "description": {
+      "tr": "Fajitas geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "en": "Fajitas geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir."
+    },
+    "why": {
+      "tr": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+      "en": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 95,
+    "name": {
+      "tr": "Doro Wat",
+      "en": "Doro Wat"
+    },
+    "description": {
+      "tr": "Doro Wat farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+      "en": "Doro Wat farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar."
+    },
+    "why": {
+      "tr": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+      "en": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "id": 96,
+    "name": {
+      "tr": "Biryani",
+      "en": "Biryani"
+    },
+    "description": {
+      "tr": "Biryani yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "en": "Biryani yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır."
+    },
+    "why": {
+      "tr": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!",
+      "en": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!"
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 97,
+    "name": {
+      "tr": "Gulash",
+      "en": "Gulash"
+    },
+    "description": {
+      "tr": "Gulash geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "en": "Gulash geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir."
+    },
+    "why": {
+      "tr": "Romantik bir akşam ya da özel bir mola için birebir.",
+      "en": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 98,
+    "name": {
+      "tr": "Feijoada",
+      "en": "Feijoada"
+    },
+    "description": {
+      "tr": "Feijoada bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "en": "Feijoada bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar."
+    },
+    "why": {
+      "tr": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!",
+      "en": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!"
+    },
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 99,
+    "name": {
+      "tr": "Crepes",
+      "en": "Crepes"
+    },
+    "description": {
+      "tr": "Crepes özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "en": "Crepes özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir."
+    },
+    "why": {
+      "tr": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+      "en": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 100,
+    "name": {
+      "tr": "Tandoori Chicken",
+      "en": "Tandoori Chicken"
+    },
+    "description": {
+      "tr": "Tandoori Chicken doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+      "en": "Tandoori Chicken doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir."
+    },
+    "why": {
+      "tr": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!",
+      "en": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!"
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 101,
+    "name": {
+      "tr": "Kavurma",
+      "en": "Kavurma"
+    },
+    "description": {
+      "tr": "Kavurma yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "en": "Kavurma yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır."
+    },
+    "why": {
+      "tr": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!",
+      "en": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!"
+    },
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 102,
+    "name": {
+      "tr": "Chili Con Carne",
+      "en": "Chili Con Carne"
+    },
+    "description": {
+      "tr": "Chili Con Carne dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+      "en": "Chili Con Carne dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir."
+    },
+    "why": {
+      "tr": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+      "en": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "id": 103,
+    "name": {
+      "tr": "Bamya Yemeği",
+      "en": "Bamya Yemeği"
+    },
+    "description": {
+      "tr": "Bamya Yemeği hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir.",
+      "en": "Bamya Yemeği hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir."
+    },
+    "why": {
+      "tr": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!",
+      "en": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!"
+    },
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 104,
+    "name": {
+      "tr": "Moussaka",
+      "en": "Moussaka"
+    },
+    "description": {
+      "tr": "Moussaka özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "en": "Moussaka özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir."
+    },
+    "why": {
+      "tr": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek.",
+      "en": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek."
+    },
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 105,
+    "name": {
+      "tr": "Terbiyeli Tavuk",
+      "en": "Terbiyeli Tavuk"
+    },
+    "description": {
+      "tr": "Terbiyeli Tavuk bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "en": "Terbiyeli Tavuk bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar."
+    },
+    "why": {
+      "tr": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!",
+      "en": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!"
+    },
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 106,
+    "name": {
+      "tr": "Gado Gado",
+      "en": "Gado Gado"
+    },
+    "description": {
+      "tr": "Gado Gado bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "en": "Gado Gado bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar."
+    },
+    "why": {
+      "tr": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!",
+      "en": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!"
+    },
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 107,
+    "name": {
+      "tr": "Beef Stroganoff",
+      "en": "Beef Stroganoff"
+    },
+    "description": {
+      "tr": "Beef Stroganoff doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+      "en": "Beef Stroganoff doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir."
+    },
+    "why": {
+      "tr": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+      "en": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 108,
+    "name": {
+      "tr": "Fırında Karnabahar",
+      "en": "Fırında Karnabahar"
+    },
+    "description": {
+      "tr": "Fırında Karnabahar bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "en": "Fırında Karnabahar bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar."
+    },
+    "why": {
+      "tr": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+      "en": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "id": 109,
+    "name": {
+      "tr": "Kuzu Tandır",
+      "en": "Kuzu Tandır"
+    },
+    "description": {
+      "tr": "Kuzu Tandır mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "en": "Kuzu Tandır mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur."
+    },
+    "why": {
+      "tr": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!",
+      "en": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!"
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 110,
+    "name": {
+      "tr": "Okra Stew",
+      "en": "Okra Stew"
+    },
+    "description": {
+      "tr": "Okra Stew bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "en": "Okra Stew bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar."
+    },
+    "why": {
+      "tr": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+      "en": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 111,
+    "name": {
+      "tr": "Rendang",
+      "en": "Rendang"
+    },
+    "description": {
+      "tr": "Rendang özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "en": "Rendang özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir."
+    },
+    "why": {
+      "tr": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+      "en": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 112,
+    "name": {
+      "tr": "Burrito",
+      "en": "Burrito"
+    },
+    "description": {
+      "tr": "Burrito bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "en": "Burrito bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar."
+    },
+    "why": {
+      "tr": "Romantik bir akşam ya da özel bir mola için birebir.",
+      "en": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 113,
+    "name": {
+      "tr": "Pav Bhaji",
+      "en": "Pav Bhaji"
+    },
+    "description": {
+      "tr": "Pav Bhaji yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "en": "Pav Bhaji yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır."
+    },
+    "why": {
+      "tr": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!",
+      "en": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!"
+    },
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 114,
+    "name": {
+      "tr": "Gözleme",
+      "en": "Gözleme"
+    },
+    "description": {
+      "tr": "Gözleme dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+      "en": "Gözleme dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir."
+    },
+    "why": {
+      "tr": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+      "en": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "id": 116,
+    "name": {
+      "tr": "Nasi Goreng",
+      "en": "Nasi Goreng"
+    },
+    "description": {
+      "tr": "Nasi Goreng doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+      "en": "Nasi Goreng doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir."
+    },
+    "why": {
+      "tr": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!",
+      "en": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!"
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 117,
+    "name": {
+      "tr": "Katsu Don",
+      "en": "Katsu Don"
+    },
+    "description": {
+      "tr": "Katsu Don mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "en": "Katsu Don mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur."
+    },
+    "why": {
+      "tr": "Romantik bir akşam ya da özel bir mola için birebir.",
+      "en": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 118,
+    "name": {
+      "tr": "Patates Bravas",
+      "en": "Patates Bravas"
+    },
+    "description": {
+      "tr": "Patates Bravas yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "en": "Patates Bravas yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır."
+    },
+    "why": {
+      "tr": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+      "en": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 119,
+    "name": {
+      "tr": "Zeytinyağlı Yaprak Sarma",
+      "en": "Zeytinyağlı Yaprak Sarma"
+    },
+    "description": {
+      "tr": "Zeytinyağlı Yaprak Sarma doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+      "en": "Zeytinyağlı Yaprak Sarma doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir."
+    },
+    "why": {
+      "tr": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!",
+      "en": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!"
+    },
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 120,
+    "name": {
+      "tr": "Tagine",
+      "en": "Tagine"
+    },
+    "description": {
+      "tr": "Tagine geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "en": "Tagine geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir."
+    },
+    "why": {
+      "tr": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek.",
+      "en": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek."
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 121,
+    "name": {
+      "tr": "Moqueca",
+      "en": "Moqueca"
+    },
+    "description": {
+      "tr": "Moqueca hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+      "en": "Moqueca hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir."
+    },
+    "why": {
+      "tr": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+      "en": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 122,
+    "name": {
+      "tr": "Patatesli Gözleme",
+      "en": "Patatesli Gözleme"
+    },
+    "description": {
+      "tr": "Patatesli Gözleme hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+      "en": "Patatesli Gözleme hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir."
+    },
+    "why": {
+      "tr": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!",
+      "en": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!"
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 123,
+    "name": {
+      "tr": "Karnıyarık",
+      "en": "Karnıyarık"
+    },
+    "description": {
+      "tr": "Karnıyarık geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "en": "Karnıyarık geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir."
+    },
+    "why": {
+      "tr": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!",
+      "en": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!"
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 124,
+    "name": {
+      "tr": "Köfte",
+      "en": "Köfte"
+    },
+    "description": {
+      "tr": "Köfte doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+      "en": "Köfte doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir."
+    },
+    "why": {
+      "tr": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+      "en": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 125,
+    "name": {
+      "tr": "Risotto",
+      "en": "Risotto"
+    },
+    "description": {
+      "tr": "Risotto özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "en": "Risotto özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir."
+    },
+    "why": {
+      "tr": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!",
+      "en": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!"
+    },
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 126,
+    "name": {
+      "tr": "Kırmızı Mercimek Köftesi",
+      "en": "Kırmızı Mercimek Köftesi"
+    },
+    "description": {
+      "tr": "Kırmızı Mercimek Köftesi bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "en": "Kırmızı Mercimek Köftesi bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar."
+    },
+    "why": {
+      "tr": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+      "en": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 127,
+    "name": {
+      "tr": "Islak Hamburger",
+      "en": "Islak Hamburger"
+    },
+    "description": {
+      "tr": "Islak Hamburger özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "en": "Islak Hamburger özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir."
+    },
+    "why": {
+      "tr": "Romantik bir akşam ya da özel bir mola için birebir.",
+      "en": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 128,
+    "name": {
+      "tr": "Sütlaç",
+      "en": "Sütlaç"
+    },
+    "description": {
+      "tr": "Sütlaç bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "en": "Sütlaç bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar."
+    },
+    "why": {
+      "tr": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+      "en": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 129,
+    "name": {
+      "tr": "Tavuk Sote",
+      "en": "Tavuk Sote"
+    },
+    "description": {
+      "tr": "Tavuk Sote yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "en": "Tavuk Sote yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır."
+    },
+    "why": {
+      "tr": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!",
+      "en": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!"
+    },
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 130,
+    "name": {
+      "tr": "Güllaç",
+      "en": "Güllaç"
+    },
+    "description": {
+      "tr": "Güllaç özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "en": "Güllaç özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir."
+    },
+    "why": {
+      "tr": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+      "en": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 131,
+    "name": {
+      "tr": "Kayısı Tatlısı",
+      "en": "Kayısı Tatlısı"
+    },
+    "description": {
+      "tr": "Kayısı Tatlısı mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "en": "Kayısı Tatlısı mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur."
+    },
+    "why": {
+      "tr": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+      "en": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 132,
+    "name": {
+      "tr": "İskender",
+      "en": "İskender"
+    },
+    "description": {
+      "tr": "İskender hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir.",
+      "en": "İskender hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir."
+    },
+    "why": {
+      "tr": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek.",
+      "en": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek."
+    },
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 133,
+    "name": {
+      "tr": "İçli Köfte",
+      "en": "İçli Köfte"
+    },
+    "description": {
+      "tr": "İçli Köfte hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir.",
+      "en": "İçli Köfte hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir."
+    },
+    "why": {
+      "tr": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+      "en": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 134,
+    "name": {
+      "tr": "Tamagoyaki",
+      "en": "Tamagoyaki"
+    },
+    "description": {
+      "tr": "Tamagoyaki farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+      "en": "Tamagoyaki farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar."
+    },
+    "why": {
+      "tr": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!",
+      "en": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!"
+    },
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "id": 136,
+    "name": {
+      "tr": "Fırında Kaşarlı Mantar",
+      "en": "Fırında Kaşarlı Mantar"
+    },
+    "description": {
+      "tr": "Fırında Kaşarlı Mantar farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+      "en": "Fırında Kaşarlı Mantar farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar."
+    },
+    "why": {
+      "tr": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!",
+      "en": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!"
+    },
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 137,
+    "name": {
+      "tr": "Dumplings",
+      "en": "Dumplings"
+    },
+    "description": {
+      "tr": "Dumplings hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir.",
+      "en": "Dumplings hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir."
+    },
+    "why": {
+      "tr": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!",
+      "en": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!"
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 138,
+    "name": {
+      "tr": "Cızlak",
+      "en": "Cızlak"
+    },
+    "description": {
+      "tr": "Cızlak mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "en": "Cızlak mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur."
+    },
+    "why": {
+      "tr": "Romantik bir akşam ya da özel bir mola için birebir.",
+      "en": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 139,
+    "name": {
+      "tr": "Fasulye Pilaki",
+      "en": "Fasulye Pilaki"
+    },
+    "description": {
+      "tr": "Fasulye Pilaki dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+      "en": "Fasulye Pilaki dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir."
+    },
+    "why": {
+      "tr": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+      "en": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 140,
+    "name": {
+      "tr": "Mercimekli Bulgur Pilavı",
+      "en": "Mercimekli Bulgur Pilavı"
+    },
+    "description": {
+      "tr": "Mercimekli Bulgur Pilavı bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "en": "Mercimekli Bulgur Pilavı bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar."
+    },
+    "why": {
+      "tr": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+      "en": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 141,
+    "name": {
+      "tr": "Fırın Makarna",
+      "en": "Fırın Makarna"
+    },
+    "description": {
+      "tr": "Fırın Makarna dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+      "en": "Fırın Makarna dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir."
+    },
+    "why": {
+      "tr": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+      "en": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 142,
+    "name": {
+      "tr": "Kremalı Mantar",
+      "en": "Kremalı Mantar"
+    },
+    "description": {
+      "tr": "Kremalı Mantar dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+      "en": "Kremalı Mantar dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir."
+    },
+    "why": {
+      "tr": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!",
+      "en": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!"
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 143,
+    "name": {
+      "tr": "Tandoori Tavuk",
+      "en": "Tandoori Tavuk"
+    },
+    "description": {
+      "tr": "Tandoori Tavuk hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+      "en": "Tandoori Tavuk hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir."
+    },
+    "why": {
+      "tr": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+      "en": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "id": 144,
+    "name": {
+      "tr": "Lahmacun",
+      "en": "Lahmacun"
+    },
+    "description": {
+      "tr": "Lahmacun hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir.",
+      "en": "Lahmacun hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir."
+    },
+    "why": {
+      "tr": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!",
+      "en": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!"
+    },
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 145,
+    "name": {
+      "tr": "Bulgogi",
+      "en": "Bulgogi"
+    },
+    "description": {
+      "tr": "Bulgogi özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "en": "Bulgogi özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir."
+    },
+    "why": {
+      "tr": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!",
+      "en": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!"
+    },
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "id": 146,
+    "name": {
+      "tr": "Cevizli Kabak Salatası",
+      "en": "Cevizli Kabak Salatası"
+    },
+    "description": {
+      "tr": "Cevizli Kabak Salatası geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "en": "Cevizli Kabak Salatası geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir."
+    },
+    "why": {
+      "tr": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+      "en": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 147,
+    "name": {
+      "tr": "Balık Kokoreç",
+      "en": "Balık Kokoreç"
+    },
+    "description": {
+      "tr": "Balık Kokoreç geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "en": "Balık Kokoreç geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir."
+    },
+    "why": {
+      "tr": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+      "en": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 148,
+    "name": {
+      "tr": "Samosa",
+      "en": "Samosa"
+    },
+    "description": {
+      "tr": "Samosa bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "en": "Samosa bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar."
+    },
+    "why": {
+      "tr": "Romantik bir akşam ya da özel bir mola için birebir.",
+      "en": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 149,
+    "name": {
+      "tr": "Roast Beef",
+      "en": "Roast Beef"
+    },
+    "description": {
+      "tr": "Roast Beef bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "en": "Roast Beef bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar."
+    },
+    "why": {
+      "tr": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek.",
+      "en": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek."
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 150,
+    "name": {
+      "tr": "Karides Güveç",
+      "en": "Karides Güveç"
+    },
+    "description": {
+      "tr": "Karides Güveç hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir.",
+      "en": "Karides Güveç hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir."
+    },
+    "why": {
+      "tr": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!",
+      "en": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!"
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 151,
+    "name": {
+      "tr": "Çerkez Tavuğu",
+      "en": "Çerkez Tavuğu"
+    },
+    "description": {
+      "tr": "Çerkez Tavuğu geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "en": "Çerkez Tavuğu geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir."
+    },
+    "why": {
+      "tr": "Romantik bir akşam ya da özel bir mola için birebir.",
+      "en": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 152,
+    "name": {
+      "tr": "Fırında Makarna",
+      "en": "Fırında Makarna"
+    },
+    "description": {
+      "tr": "Fırında Makarna geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "en": "Fırında Makarna geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir."
+    },
+    "why": {
+      "tr": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+      "en": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 154,
+    "name": {
+      "tr": "Zeytinyağlı Enginar",
+      "en": "Zeytinyağlı Enginar"
+    },
+    "description": {
+      "tr": "Zeytinyağlı Enginar hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir.",
+      "en": "Zeytinyağlı Enginar hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir."
+    },
+    "why": {
+      "tr": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!",
+      "en": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!"
+    },
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "id": 157,
+    "name": {
+      "tr": "Çorba Trio",
+      "en": "Çorba Trio"
+    },
+    "description": {
+      "tr": "Çorba Trio özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "en": "Çorba Trio özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir."
+    },
+    "why": {
+      "tr": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!",
+      "en": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!"
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 158,
+    "name": {
+      "tr": "Domates Çorbası",
+      "en": "Domates Çorbası"
+    },
+    "description": {
+      "tr": "Domates Çorbası yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "en": "Domates Çorbası yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır."
+    },
+    "why": {
+      "tr": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+      "en": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 159,
+    "name": {
+      "tr": "Lasagna",
+      "en": "Lasagna"
+    },
+    "description": {
+      "tr": "Lasagna geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "en": "Lasagna geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir."
+    },
+    "why": {
+      "tr": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!",
+      "en": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!"
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 160,
+    "name": {
+      "tr": "Perde Pilavı",
+      "en": "Perde Pilavı"
+    },
+    "description": {
+      "tr": "Perde Pilavı yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "en": "Perde Pilavı yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır."
+    },
+    "why": {
+      "tr": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!",
+      "en": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!"
+    },
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "id": 161,
+    "name": {
+      "tr": "Tavuklu Krep",
+      "en": "Tavuklu Krep"
+    },
+    "description": {
+      "tr": "Tavuklu Krep mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "en": "Tavuklu Krep mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur."
+    },
+    "why": {
+      "tr": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+      "en": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 162,
+    "name": {
+      "tr": "Kıymalı Ispanak",
+      "en": "Kıymalı Ispanak"
+    },
+    "description": {
+      "tr": "Kıymalı Ispanak özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "en": "Kıymalı Ispanak özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir."
+    },
+    "why": {
+      "tr": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+      "en": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 163,
+    "name": {
+      "tr": "Bratwurst",
+      "en": "Bratwurst"
+    },
+    "description": {
+      "tr": "Bratwurst dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+      "en": "Bratwurst dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir."
+    },
+    "why": {
+      "tr": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+      "en": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 164,
+    "name": {
+      "tr": "Fırın Tavuk Baget",
+      "en": "Fırın Tavuk Baget"
+    },
+    "description": {
+      "tr": "Fırın Tavuk Baget hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+      "en": "Fırın Tavuk Baget hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir."
+    },
+    "why": {
+      "tr": "Bugün böyle bir tat seni gülümsetecek diye düşündüm.",
+      "en": "Bugün böyle bir tat seni gülümsetecek diye düşündüm."
+    },
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 165,
+    "name": {
+      "tr": "Köri Soslu Tavuk",
+      "en": "Köri Soslu Tavuk"
+    },
+    "description": {
+      "tr": "Köri Soslu Tavuk geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "en": "Köri Soslu Tavuk geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir."
+    },
+    "why": {
+      "tr": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!",
+      "en": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!"
+    },
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 166,
+    "name": {
+      "tr": "Fırın Somon",
+      "en": "Fırın Somon"
+    },
+    "description": {
+      "tr": "Fırın Somon geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "en": "Fırın Somon geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir."
+    },
+    "why": {
+      "tr": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!",
+      "en": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!"
+    },
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 167,
+    "name": {
+      "tr": "Karalahana Sarması",
+      "en": "Karalahana Sarması"
+    },
+    "description": {
+      "tr": "Karalahana Sarması mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "en": "Karalahana Sarması mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur."
+    },
+    "why": {
+      "tr": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+      "en": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 168,
+    "name": {
+      "tr": "Mantarlı Risotto",
+      "en": "Mantarlı Risotto"
+    },
+    "description": {
+      "tr": "Mantarlı Risotto hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+      "en": "Mantarlı Risotto hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir."
+    },
+    "why": {
+      "tr": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!",
+      "en": "Bugün tam da böyle bir lezzete ihtiyacın varmış gibi hissettim!"
+    },
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "id": 169,
+    "name": {
+      "tr": "Fırın Mücver",
+      "en": "Fırın Mücver"
+    },
+    "description": {
+      "tr": "Fırın Mücver geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "en": "Fırın Mücver geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir."
+    },
+    "why": {
+      "tr": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek.",
+      "en": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek."
+    },
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 170,
+    "name": {
+      "tr": "Spaghetti Carbonara",
+      "en": "Spaghetti Carbonara"
+    },
+    "description": {
+      "tr": "Spaghetti Carbonara özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "en": "Spaghetti Carbonara özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir."
+    },
+    "why": {
+      "tr": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+      "en": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 172,
+    "name": {
+      "tr": "Sebzeli Kuskus",
+      "en": "Sebzeli Kuskus"
+    },
+    "description": {
+      "tr": "Sebzeli Kuskus yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "en": "Sebzeli Kuskus yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır."
+    },
+    "why": {
+      "tr": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!",
+      "en": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!"
+    },
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "id": 173,
+    "name": {
+      "tr": "Şinitzel",
+      "en": "Şinitzel"
+    },
+    "description": {
+      "tr": "Şinitzel farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+      "en": "Şinitzel farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar."
+    },
+    "why": {
+      "tr": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+      "en": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 174,
+    "name": {
+      "tr": "Biftek Tava",
+      "en": "Biftek Tava"
+    },
+    "description": {
+      "tr": "Biftek Tava yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "en": "Biftek Tava yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır."
+    },
+    "why": {
+      "tr": "Romantik bir akşam ya da özel bir mola için birebir.",
+      "en": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 175,
+    "name": {
+      "tr": "Kaşarlı Köfte",
+      "en": "Kaşarlı Köfte"
+    },
+    "description": {
+      "tr": "Kaşarlı Köfte dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+      "en": "Kaşarlı Köfte dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir."
+    },
+    "why": {
+      "tr": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!",
+      "en": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!"
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 176,
+    "name": {
+      "tr": "Biber Dolması",
+      "en": "Biber Dolması"
+    },
+    "description": {
+      "tr": "Biber Dolması geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "en": "Biber Dolması geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir."
+    },
+    "why": {
+      "tr": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+      "en": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "id": 177,
+    "name": {
+      "tr": "Bulgurlu Semizotu",
+      "en": "Bulgurlu Semizotu"
+    },
+    "description": {
+      "tr": "Bulgurlu Semizotu bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "en": "Bulgurlu Semizotu bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar."
+    },
+    "why": {
+      "tr": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek.",
+      "en": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek."
+    },
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 178,
+    "name": {
+      "tr": "Garnitürlü Tavuk",
+      "en": "Garnitürlü Tavuk"
+    },
+    "description": {
+      "tr": "Garnitürlü Tavuk dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+      "en": "Garnitürlü Tavuk dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir."
+    },
+    "why": {
+      "tr": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+      "en": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 179,
+    "name": {
+      "tr": "Köri Noodle",
+      "en": "Köri Noodle"
+    },
+    "description": {
+      "tr": "Köri Noodle hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir.",
+      "en": "Köri Noodle hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir."
+    },
+    "why": {
+      "tr": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek.",
+      "en": "Yorgunluğunu unutturacak ve enerjini geri kazandıracak bir seçenek."
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 180,
+    "name": {
+      "tr": "Zerdeçallı Tavuk",
+      "en": "Zerdeçallı Tavuk"
+    },
+    "description": {
+      "tr": "Zerdeçallı Tavuk mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "en": "Zerdeçallı Tavuk mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur."
+    },
+    "why": {
+      "tr": "Romantik bir akşam ya da özel bir mola için birebir.",
+      "en": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 181,
+    "name": {
+      "tr": "Yoğurtlu Kabak",
+      "en": "Yoğurtlu Kabak"
+    },
+    "description": {
+      "tr": "Yoğurtlu Kabak yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "en": "Yoğurtlu Kabak yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır."
+    },
+    "why": {
+      "tr": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+      "en": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 182,
+    "name": {
+      "tr": "Soya Soslu Sebzeler",
+      "en": "Soya Soslu Sebzeler"
+    },
+    "description": {
+      "tr": "Soya Soslu Sebzeler doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+      "en": "Soya Soslu Sebzeler doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir."
+    },
+    "why": {
+      "tr": "Romantik bir akşam ya da özel bir mola için birebir.",
+      "en": "Romantik bir akşam ya da özel bir mola için birebir."
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 183,
+    "name": {
+      "tr": "Fırın Kumpir",
+      "en": "Fırın Kumpir"
+    },
+    "description": {
+      "tr": "Fırın Kumpir farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+      "en": "Fırın Kumpir farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar."
+    },
+    "why": {
+      "tr": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+      "en": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 184,
+    "name": {
+      "tr": "Naneli Mercimek Çorbası",
+      "en": "Naneli Mercimek Çorbası"
+    },
+    "description": {
+      "tr": "Naneli Mercimek Çorbası farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+      "en": "Naneli Mercimek Çorbası farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar."
+    },
+    "why": {
+      "tr": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!",
+      "en": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!"
+    },
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 185,
+    "name": {
+      "tr": "Soğan Halkası",
+      "en": "Soğan Halkası"
+    },
+    "description": {
+      "tr": "Soğan Halkası farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+      "en": "Soğan Halkası farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar."
+    },
+    "why": {
+      "tr": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim.",
+      "en": "Lezzetli bir dokunuşla gününe renk katmak için bunu seçtim."
+    },
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 186,
+    "name": {
+      "tr": "Tahinli Kabak Tatlısı",
+      "en": "Tahinli Kabak Tatlısı"
+    },
+    "description": {
+      "tr": "Tahinli Kabak Tatlısı bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar.",
+      "en": "Tahinli Kabak Tatlısı bol proteinli yapısıyla enerji verir ve uzun süre tok kalmanı sağlar."
+    },
+    "why": {
+      "tr": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+      "en": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 187,
+    "name": {
+      "tr": "Tavuklu Sezar Salata",
+      "en": "Tavuklu Sezar Salata"
+    },
+    "description": {
+      "tr": "Tavuklu Sezar Salata doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir.",
+      "en": "Tavuklu Sezar Salata doyurucu ve pratik yapısıyla günün her öğününde tercih edilebilecek harika bir seçenektir."
+    },
+    "why": {
+      "tr": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!",
+      "en": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!"
+    },
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 189,
+    "name": {
+      "tr": "Kestaneli İç Pilav",
+      "en": "Kestaneli İç Pilav"
+    },
+    "description": {
+      "tr": "Kestaneli İç Pilav hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+      "en": "Kestaneli İç Pilav hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir."
+    },
+    "why": {
+      "tr": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek.",
+      "en": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek."
+    },
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 190,
+    "name": {
+      "tr": "Fırında Köfte Patates",
+      "en": "Fırında Köfte Patates"
+    },
+    "description": {
+      "tr": "Fırında Köfte Patates dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+      "en": "Fırında Köfte Patates dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir."
+    },
+    "why": {
+      "tr": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!",
+      "en": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!"
+    },
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 191,
+    "name": {
+      "tr": "Fasulye Ezmesi",
+      "en": "Fasulye Ezmesi"
+    },
+    "description": {
+      "tr": "Fasulye Ezmesi hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir.",
+      "en": "Fasulye Ezmesi hafif ve besleyici içeriğiyle formunu korumak isteyenler için idealdir."
+    },
+    "why": {
+      "tr": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!",
+      "en": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!"
+    },
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 192,
+    "name": {
+      "tr": "Zeytinyağlı Taze Fasulye",
+      "en": "Zeytinyağlı Taze Fasulye"
+    },
+    "description": {
+      "tr": "Zeytinyağlı Taze Fasulye geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir.",
+      "en": "Zeytinyağlı Taze Fasulye geleneksel mutfağımızın sevilen bir lezzetidir. Özgün aroması ve yapımıyla sofraları şenlendirir."
+    },
+    "why": {
+      "tr": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!",
+      "en": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!"
+    },
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "id": 193,
+    "name": {
+      "tr": "Etli Kabak Dolması",
+      "en": "Etli Kabak Dolması"
+    },
+    "description": {
+      "tr": "Etli Kabak Dolması dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir.",
+      "en": "Etli Kabak Dolması dünya mutfaklarında öne çıkan, hem göze hem damağa hitap eden özel bir yemektir."
+    },
+    "why": {
+      "tr": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!",
+      "en": "Çünkü mutfakta küçük sürprizler moralini yükseltebilir!"
+    },
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "id": 194,
+    "name": {
+      "tr": "Midye Dolma",
+      "en": "Midye Dolma"
+    },
+    "description": {
+      "tr": "Midye Dolma yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır.",
+      "en": "Midye Dolma yoğun sosu ve eşsiz dokusuyla lezzet yolculuğuna çıkarır."
+    },
+    "why": {
+      "tr": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!",
+      "en": "Senin ruh halinle uyumlu, damak tadına uygun harika bir öneri!"
+    },
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 195,
+    "name": {
+      "tr": "Kalamar Tava",
+      "en": "Kalamar Tava"
+    },
+    "description": {
+      "tr": "Kalamar Tava farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar.",
+      "en": "Kalamar Tava farklı kültürlerin birleşimiyle ortaya çıkan eşsiz aromatik bir deneyim sunar."
+    },
+    "why": {
+      "tr": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek.",
+      "en": "Bu yemek, seni tam da bulunduğun ruh halinden çıkarıp mutlu edecek."
+    },
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 196,
+    "name": {
+      "tr": "Fırında Peynirli Kabak",
+      "en": "Fırında Peynirli Kabak"
+    },
+    "description": {
+      "tr": "Fırında Peynirli Kabak mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur.",
+      "en": "Fırında Peynirli Kabak mutfağında tarih kokan tariflerden biridir; yüzyıllardır sofralarda yer bulur."
+    },
+    "why": {
+      "tr": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+      "en": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 197,
+    "name": {
+      "tr": "Balık Buğulama",
+      "en": "Balık Buğulama"
+    },
+    "description": {
+      "tr": "Balık Buğulama hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir.",
+      "en": "Balık Buğulama hem çocukların hem büyüklerin bayılarak yediği klasikleşmiş bir lezzettir."
+    },
+    "why": {
+      "tr": "Kendini ödüllendirmek için en doğru seçim bu olabilir!",
+      "en": "Kendini ödüllendirmek için en doğru seçim bu olabilir!"
+    },
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 198,
+    "name": {
+      "tr": "Kuzu İncik",
+      "en": "Kuzu İncik"
+    },
+    "description": {
+      "tr": "Kuzu İncik özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir.",
+      "en": "Kuzu İncik özel baharatlarla harmanlanmış, damakta unutulmaz bir tat bırakan geleneksel bir lezzettir."
+    },
+    "why": {
+      "tr": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!",
+      "en": "Hem klasik hem de etkileyici bir lezzet. Denemeye değer!"
+    },
+    "moods": [
+      "acıktım"
+    ]
+  }
+]
