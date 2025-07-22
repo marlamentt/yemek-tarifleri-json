@@ -1,0 +1,1784 @@
+[
+  {
+    "id": 1,
+    "name": "Mercimek Köftesi",
+    "description": "Mercimek Köftesi, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Lezzetiyle zihnini dinlendirecek özel bir seçenek."
+  },
+  {
+    "id": 2,
+    "name": "Chow Mein",
+    "description": "Chow Mein, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "mutlu"
+    ],
+    "why": "Enerjin yüksek, bu tarif seni daha da keyiflendirecek."
+  },
+  {
+    "id": 3,
+    "name": "Pizza Margherita",
+    "description": "Pizza Margherita, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Kolay ama doyurucu; tam senin ihtiyacın olan tarif!"
+  },
+  {
+    "id": 4,
+    "name": "Ramen",
+    "description": "Ramen, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Lezzetiyle zihnini dinlendirecek özel bir seçenek."
+  },
+  {
+    "id": 5,
+    "name": "Poutine",
+    "description": "Poutine, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Stresini hafifletecek sakinleştirici bir tat!"
+  },
+  {
+    "id": 6,
+    "name": "Sauerbraten",
+    "description": "Sauerbraten, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "mutlu"
+    ],
+    "why": "Bugünkü neşene yakışacak taptaze bir seçenek!"
+  },
+  {
+    "id": 7,
+    "name": "Ceviche",
+    "description": "Ceviche, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Stresini hafifletecek sakinleştirici bir tat!"
+  },
+  {
+    "id": 8,
+    "name": "Tom Yum",
+    "description": "Tom Yum, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Bu tarifle biraz nefes al, biraz rahatla."
+  },
+  {
+    "id": 9,
+    "name": "Empanadas",
+    "description": "Empanadas, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Lezzetiyle zihnini dinlendirecek özel bir seçenek."
+  },
+  {
+    "id": 10,
+    "name": "Bulgur Pilavı",
+    "description": "Bulgur Pilavı, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "acıktım"
+    ],
+    "why": "Açlık krizine birebir, hemen doyurur!"
+  },
+  {
+    "id": 11,
+    "name": "Tacos",
+    "description": "Tacos, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Yorgun günlerinde sana enerji verecek pratik bir lezzet!"
+  },
+  {
+    "id": 12,
+    "name": "Yoğurtlu Patates",
+    "description": "Yoğurtlu Patates, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "mutlu"
+    ],
+    "why": "Bugünkü neşene yakışacak taptaze bir seçenek!"
+  },
+  {
+    "id": 13,
+    "name": "Okonomiyaki",
+    "description": "Japon mutfağının lezzetli bir pankek türüdür.",
+    "moods": [
+      "romantik"
+    ],
+    "why": "Aşk dolu bir akşam için mükemmel tercih!"
+  },
+  {
+    "id": 14,
+    "name": "Etli Nohut",
+    "description": "Etli Nohut, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "romantik"
+    ],
+    "why": "Romantik anlara yakışır, özel bir dokunuş."
+  },
+  {
+    "id": 15,
+    "name": "Arnavut Ciğeri",
+    "description": "Arnavut Ciğeri, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Stresini hafifletecek sakinleştirici bir tat!"
+  },
+  {
+    "id": 16,
+    "name": "Bouillabaisse",
+    "description": "Fransa’nın Marsilya şehrine özgü balık çorbası.",
+    "moods": [
+      "acıktım"
+    ],
+    "why": "Açlık krizine birebir, hemen doyurur!"
+  },
+  {
+    "id": 17,
+    "name": "Katsu Curry",
+    "description": "Japonya'da çok sevilen kızarmış etli körili pilav.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Lezzetiyle zihnini dinlendirecek özel bir seçenek."
+  },
+  {
+    "id": 18,
+    "name": "Ciğer Tava",
+    "description": "Ciğer Tava, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Kolay ama doyurucu; tam senin ihtiyacın olan tarif!"
+  },
+  {
+    "id": 19,
+    "name": "Kuzu Şiş",
+    "description": "Kuzu Şiş, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Kendini iyi hissetmen için seni yormayacak harika bir seçim."
+  },
+  {
+    "id": 20,
+    "name": "Köfte Ekmek",
+    "description": "Köfte Ekmek, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Stresini hafifletecek sakinleştirici bir tat!"
+  },
+  {
+    "id": 21,
+    "name": "Kimchi",
+    "description": "Kimchi, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "acıktım"
+    ],
+    "why": "Açlık krizine birebir, hemen doyurur!"
+  },
+  {
+    "id": 22,
+    "name": "Yakitori",
+    "description": "Yakitori, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "acıktım"
+    ],
+    "why": "Çabuk hazırlanır, tok tutar; işte budur!"
+  },
+  {
+    "id": 23,
+    "name": "Bibimbap",
+    "description": "Bibimbap, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "romantik"
+    ],
+    "why": "Romantik anlara yakışır, özel bir dokunuş."
+  },
+  {
+    "id": 24,
+    "name": "Kumpir",
+    "description": "Kumpir, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "romantik"
+    ],
+    "why": "Romantik anlara yakışır, özel bir dokunuş."
+  },
+  {
+    "id": 25,
+    "name": "Çılbır",
+    "description": "Çılbır, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "mutlu"
+    ],
+    "why": "Enerjin yüksek, bu tarif seni daha da keyiflendirecek."
+  },
+  {
+    "id": 26,
+    "name": "Sucuklu Yumurta",
+    "description": "Sucuklu Yumurta, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "romantik"
+    ],
+    "why": "Paylaştıkça güzelleşen, duygusal bir tarif!"
+  },
+  {
+    "id": 27,
+    "name": "Adana Kebap",
+    "description": "Adana Kebap, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Kendini iyi hissetmen için seni yormayacak harika bir seçim."
+  },
+  {
+    "id": 28,
+    "name": "Ratatouille",
+    "description": "Ratatouille, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "romantik"
+    ],
+    "why": "Aşk dolu bir akşam için mükemmel tercih!"
+  },
+  {
+    "id": 29,
+    "name": "Karnabahar Graten",
+    "description": "Karnabahar Graten, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "romantik"
+    ],
+    "why": "Paylaştıkça güzelleşen, duygusal bir tarif!"
+  },
+  {
+    "id": 30,
+    "name": "Croissant",
+    "description": "Croissant, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Stresini hafifletecek sakinleştirici bir tat!"
+  },
+  {
+    "id": 31,
+    "name": "Goulash",
+    "description": "Macar mutfağının baharatlı etli yahni yemeğidir.",
+    "moods": [
+      "acıktım"
+    ],
+    "why": "Çabuk hazırlanır, tok tutar; işte budur!"
+  },
+  {
+    "id": 32,
+    "name": "Çoban Salata",
+    "description": "Çoban Salata, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Kendini iyi hissetmen için seni yormayacak harika bir seçim."
+  },
+  {
+    "id": 33,
+    "name": "Mapo Tofu",
+    "description": "Çin'in Sichuan mutfağından, acılı tofu yemeği.",
+    "moods": [
+      "mutlu"
+    ],
+    "why": "Enerjin yüksek, bu tarif seni daha da keyiflendirecek."
+  },
+  {
+    "id": 34,
+    "name": "Khachapuri",
+    "description": "Gürcülerin peynirli ve yumurtalı geleneksel ekmeği.",
+    "moods": [
+      "mutlu"
+    ],
+    "why": "Mutluluğunu daha da artıracak hafif ama lezzetli bir tarif!"
+  },
+  {
+    "id": 35,
+    "name": "Pad Thai",
+    "description": "Pad Thai, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "acıktım"
+    ],
+    "why": "Açlık krizine birebir, hemen doyurur!"
+  },
+  {
+    "id": 36,
+    "name": "Falafel",
+    "description": "Falafel, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "mutlu"
+    ],
+    "why": "Mutluluğunu daha da artıracak hafif ama lezzetli bir tarif!"
+  },
+  {
+    "id": 37,
+    "name": "Havuç Tarator",
+    "description": "Havuç Tarator, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Bu tarifle biraz nefes al, biraz rahatla."
+  },
+  {
+    "id": 38,
+    "name": "Kabak Mücver",
+    "description": "Kabak Mücver, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Yorgun günlerinde sana enerji verecek pratik bir lezzet!"
+  },
+  {
+    "id": 39,
+    "name": "Tantuni",
+    "description": "Tantuni, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Yorgun günlerinde sana enerji verecek pratik bir lezzet!"
+  },
+  {
+    "id": 40,
+    "name": "Kahvaltı Tabağı",
+    "description": "Kahvaltı Tabağı, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "romantik"
+    ],
+    "why": "Aşk dolu bir akşam için mükemmel tercih!"
+  },
+  {
+    "id": 41,
+    "name": "Kısır",
+    "description": "Kısır, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Stresini hafifletecek sakinleştirici bir tat!"
+  },
+  {
+    "id": 42,
+    "name": "Sulu Köfte",
+    "description": "Sulu Köfte, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Yorgun günlerinde sana enerji verecek pratik bir lezzet!"
+  },
+  {
+    "id": 43,
+    "name": "Shakshuka",
+    "description": "Shakshuka, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Yorgun günlerinde sana enerji verecek pratik bir lezzet!"
+  },
+  {
+    "id": 44,
+    "name": "Arepas",
+    "description": "Venezuela ve Kolombiya’da mısır unundan yapılan ekmek.",
+    "moods": [
+      "acıktım"
+    ],
+    "why": "Karnın zil çalıyorsa bu tarif tam sana göre!"
+  },
+  {
+    "id": 45,
+    "name": "Gnocchi",
+    "description": "Gnocchi, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "mutlu"
+    ],
+    "why": "Bugünkü neşene yakışacak taptaze bir seçenek!"
+  },
+  {
+    "id": 46,
+    "name": "Tamales",
+    "description": "Meksika’nın mısır yaprağına sarılı geleneksel yemeği.",
+    "moods": [
+      "mutlu"
+    ],
+    "why": "Bugünkü neşene yakışacak taptaze bir seçenek!"
+  },
+  {
+    "id": 47,
+    "name": "Fırın Tavuk",
+    "description": "Fırın Tavuk, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Kolay ama doyurucu; tam senin ihtiyacın olan tarif!"
+  },
+  {
+    "id": 48,
+    "name": "Paneer Tikka",
+    "description": "Paneer Tikka, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "acıktım"
+    ],
+    "why": "Açlık krizine birebir, hemen doyurur!"
+  },
+  {
+    "id": 49,
+    "name": "Chimichurri Steak",
+    "description": "Arjantin’e özgü yeşil sosla servis edilen biftek.",
+    "moods": [
+      "acıktım"
+    ],
+    "why": "Açlık krizine birebir, hemen doyurur!"
+  },
+  {
+    "id": 50,
+    "name": "Cepelinai",
+    "description": "Litvanya mutfağında kıymalı patatesli köfte.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Stresini hafifletecek sakinleştirici bir tat!"
+  },
+  {
+    "id": 51,
+    "name": "Pide",
+    "description": "Türk mutfağının ince uzun hamur işi lezzeti.",
+    "moods": [
+      "romantik"
+    ],
+    "why": "Aşk dolu bir akşam için mükemmel tercih!"
+  },
+  {
+    "id": 52,
+    "name": "Alinazik",
+    "description": "Közlenmiş patlıcan ve yoğurtlu et yemeği.",
+    "moods": [
+      "romantik"
+    ],
+    "why": "Romantik anlara yakışır, özel bir dokunuş."
+  },
+  {
+    "id": 53,
+    "name": "Ezogelin Çorbası",
+    "description": "Ezogelin Çorbası, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Stresini hafifletecek sakinleştirici bir tat!"
+  },
+  {
+    "id": 54,
+    "name": "Tepsi Kebabı",
+    "description": "Tepsi Kebabı, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "romantik"
+    ],
+    "why": "Paylaştıkça güzelleşen, duygusal bir tarif!"
+  },
+  {
+    "id": 55,
+    "name": "Kuru Fasulye",
+    "description": "Kuru Fasulye, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "mutlu"
+    ],
+    "why": "Mutluluğunu daha da artıracak hafif ama lezzetli bir tarif!"
+  },
+  {
+    "id": 56,
+    "name": "Kuzu Güveç",
+    "description": "Kuzu Güveç, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "acıktım"
+    ],
+    "why": "Açlık krizine birebir, hemen doyurur!"
+  },
+  {
+    "id": 57,
+    "name": "Fish and Chips",
+    "description": "Fish and Chips, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "romantik"
+    ],
+    "why": "Romantik anlara yakışır, özel bir dokunuş."
+  },
+  {
+    "id": 58,
+    "name": "Zerde",
+    "description": "Safranla renklendirilmiş Türk usulü tatlı pirinç pilavı.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Stresini hafifletecek sakinleştirici bir tat!"
+  },
+  {
+    "id": 59,
+    "name": "Tavuk Şiş",
+    "description": "Tavuk Şiş, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Yorgun günlerinde sana enerji verecek pratik bir lezzet!"
+  },
+  {
+    "id": 60,
+    "name": "Shepherd's Pie",
+    "description": "Shepherd's Pie, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "mutlu"
+    ],
+    "why": "Mutluluğunu daha da artıracak hafif ama lezzetli bir tarif!"
+  },
+  {
+    "id": 61,
+    "name": "Su Böreği",
+    "description": "Türk mutfağının klasiklerinden, yumuşak ve kat kat börek.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Kendini iyi hissetmen için seni yormayacak harika bir seçim."
+  },
+  {
+    "id": 62,
+    "name": "Pierogi",
+    "description": "Pierogi, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "romantik"
+    ],
+    "why": "Aşk dolu bir akşam için mükemmel tercih!"
+  },
+  {
+    "id": 63,
+    "name": "Mercimek Çorbası",
+    "description": "Mercimek Çorbası, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "mutlu"
+    ],
+    "why": "Mutluluğunu daha da artıracak hafif ama lezzetli bir tarif!"
+  },
+  {
+    "id": 64,
+    "name": "Laksa",
+    "description": "Laksa, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "romantik"
+    ],
+    "why": "Paylaştıkça güzelleşen, duygusal bir tarif!"
+  },
+  {
+    "id": 65,
+    "name": "Dim Sum",
+    "description": "Dim Sum, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Kendini iyi hissetmen için seni yormayacak harika bir seçim."
+  },
+  {
+    "id": 66,
+    "name": "Hummus",
+    "description": "Hummus, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Bu tarifle biraz nefes al, biraz rahatla."
+  },
+  {
+    "id": 67,
+    "name": "Couscous",
+    "description": "Couscous, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "mutlu"
+    ],
+    "why": "Enerjin yüksek, bu tarif seni daha da keyiflendirecek."
+  },
+  {
+    "id": 68,
+    "name": "Hünkar Beğendi",
+    "description": "Hünkar Beğendi, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "mutlu"
+    ],
+    "why": "Enerjin yüksek, bu tarif seni daha da keyiflendirecek."
+  },
+  {
+    "id": 69,
+    "name": "Tarhana Çorbası",
+    "description": "Tarhana Çorbası, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Kendini iyi hissetmen için seni yormayacak harika bir seçim."
+  },
+  {
+    "id": 70,
+    "name": "Erişte",
+    "description": "Ev yapımı kesme makarna türü.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Kendini iyi hissetmen için seni yormayacak harika bir seçim."
+  },
+  {
+    "id": 71,
+    "name": "Tavuklu Pilav",
+    "description": "Türk sokak lezzetlerinin vazgeçilmezi.",
+    "moods": [
+      "romantik"
+    ],
+    "why": "Aşk dolu bir akşam için mükemmel tercih!"
+  },
+  {
+    "id": 72,
+    "name": "Sarma",
+    "description": "Asma yaprağına sarılmış zeytinyağlı nefis bir dolma türüdür.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Stresini hafifletecek sakinleştirici bir tat!"
+  },
+  {
+    "id": 73,
+    "name": "Kabak Dolması",
+    "description": "Kabak Dolması, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "mutlu"
+    ],
+    "why": "Mutluluğunu daha da artıracak hafif ama lezzetli bir tarif!"
+  },
+  {
+    "id": 74,
+    "name": "Zeytinyağlı Bamya",
+    "description": "Yaz aylarının hafif ve zeytinyağlı sebze yemeği.",
+    "moods": [
+      "romantik"
+    ],
+    "why": "Romantik anlara yakışır, özel bir dokunuş."
+  },
+  {
+    "id": 75,
+    "name": "Pilav Üstü Döner",
+    "description": "Pilav Üstü Döner, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Yorgun günlerinde sana enerji verecek pratik bir lezzet!"
+  },
+  {
+    "id": 76,
+    "name": "Simit",
+    "description": "Simit, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "romantik"
+    ],
+    "why": "Romantik anlara yakışır, özel bir dokunuş."
+  },
+  {
+    "id": 77,
+    "name": "Burger",
+    "description": "Burger, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "mutlu"
+    ],
+    "why": "Mutluluğunu daha da artıracak hafif ama lezzetli bir tarif!"
+  },
+  {
+    "id": 78,
+    "name": "Sushi",
+    "description": "Sushi, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Lezzetiyle zihnini dinlendirecek özel bir seçenek."
+  },
+  {
+    "id": 79,
+    "name": "Çiğ Köfte",
+    "description": "Çiğ Köfte, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "mutlu"
+    ],
+    "why": "Mutluluğunu daha da artıracak hafif ama lezzetli bir tarif!"
+  },
+  {
+    "id": 80,
+    "name": "Menemen",
+    "description": "Menemen, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Lezzetiyle zihnini dinlendirecek özel bir seçenek."
+  },
+  {
+    "id": 81,
+    "name": "İmam Bayıldı",
+    "description": "İmam Bayıldı, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Kendini iyi hissetmen için seni yormayacak harika bir seçim."
+  },
+  {
+    "id": 82,
+    "name": "Paella",
+    "description": "Paella, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "mutlu"
+    ],
+    "why": "Enerjin yüksek, bu tarif seni daha da keyiflendirecek."
+  },
+  {
+    "id": 83,
+    "name": "Kibbeh",
+    "description": "Ortadoğu’ya özgü bulgurlu içli köfte.",
+    "moods": [
+      "romantik"
+    ],
+    "why": "Romantik anlara yakışır, özel bir dokunuş."
+  },
+  {
+    "id": 84,
+    "name": "Piyaz",
+    "description": "Fasulye, soğan ve sumakla yapılan salata.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Kolay ama doyurucu; tam senin ihtiyacın olan tarif!"
+  },
+  {
+    "id": 85,
+    "name": "Clam Chowder",
+    "description": "Clam Chowder, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "romantik"
+    ],
+    "why": "Romantik anlara yakışır, özel bir dokunuş."
+  },
+  {
+    "id": 86,
+    "name": "Pho",
+    "description": "Vietnam mutfağının meşhur etli erişte çorbası.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Kendini iyi hissetmen için seni yormayacak harika bir seçim."
+  },
+  {
+    "id": 87,
+    "name": "Tortilla Española",
+    "description": "İspanya’nın patatesli ve yumurtalı omleti.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Kolay ama doyurucu; tam senin ihtiyacın olan tarif!"
+  },
+  {
+    "id": 88,
+    "name": "Manti",
+    "description": "Türk mutfağının küçük hamur dolgulu lezzeti.",
+    "moods": [
+      "romantik"
+    ],
+    "why": "Aşk dolu bir akşam için mükemmel tercih!"
+  },
+  {
+    "id": 89,
+    "name": "Miso Soup",
+    "description": "Japon mutfağının geleneksel fermente çorbası.",
+    "moods": [
+      "mutlu"
+    ],
+    "why": "Enerjin yüksek, bu tarif seni daha da keyiflendirecek."
+  },
+  {
+    "id": 90,
+    "name": "Gyoza",
+    "description": "Gyoza, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Bu tarifle biraz nefes al, biraz rahatla."
+  },
+  {
+    "id": 91,
+    "name": "Baklava",
+    "description": "Kat kat yufka ve şerbetle yapılan Türk tatlısı.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Kendini iyi hissetmen için seni yormayacak harika bir seçim."
+  },
+  {
+    "id": 92,
+    "name": "Dolma",
+    "description": "Dolma, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "romantik"
+    ],
+    "why": "Aşk dolu bir akşam için mükemmel tercih!"
+  },
+  {
+    "id": 93,
+    "name": "Lobster Roll",
+    "description": "Lobster Roll, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Kolay ama doyurucu; tam senin ihtiyacın olan tarif!"
+  },
+  {
+    "id": 94,
+    "name": "Fajitas",
+    "description": "Fajitas, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "acıktım"
+    ],
+    "why": "Karnın zil çalıyorsa bu tarif tam sana göre!"
+  },
+  {
+    "id": 95,
+    "name": "Doro Wat",
+    "description": "Etiyopya mutfağının acılı tavuk yahni yemeği.",
+    "moods": [
+      "mutlu"
+    ],
+    "why": "Enerjin yüksek, bu tarif seni daha da keyiflendirecek."
+  },
+  {
+    "id": 96,
+    "name": "Biryani",
+    "description": "Biryani, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Lezzetiyle zihnini dinlendirecek özel bir seçenek."
+  },
+  {
+    "id": 97,
+    "name": "Gulash",
+    "description": "Gulash, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Kendini iyi hissetmen için seni yormayacak harika bir seçim."
+  },
+  {
+    "id": 98,
+    "name": "Feijoada",
+    "description": "Brezilya'nın fasulyeli etli güveci.",
+    "moods": [
+      "romantik"
+    ],
+    "why": "Romantik anlara yakışır, özel bir dokunuş."
+  },
+  {
+    "id": 99,
+    "name": "Crepes",
+    "description": "Crepes, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "romantik"
+    ],
+    "why": "Paylaştıkça güzelleşen, duygusal bir tarif!"
+  },
+  {
+    "id": 100,
+    "name": "Tandoori Chicken",
+    "description": "Tandoori Chicken, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Lezzetiyle zihnini dinlendirecek özel bir seçenek."
+  },
+  {
+    "id": 101,
+    "name": "Kavurma",
+    "description": "Kavurma, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "romantik"
+    ],
+    "why": "Paylaştıkça güzelleşen, duygusal bir tarif!"
+  },
+  {
+    "id": 102,
+    "name": "Chili Con Carne",
+    "description": "Chili Con Carne, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "mutlu"
+    ],
+    "why": "Bugünkü neşene yakışacak taptaze bir seçenek!"
+  },
+  {
+    "id": 103,
+    "name": "Bamya Yemeği",
+    "description": "Bamya Yemeği, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "acıktım"
+    ],
+    "why": "Açlık krizine birebir, hemen doyurur!"
+  },
+  {
+    "id": 104,
+    "name": "Moussaka",
+    "description": "Moussaka, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "acıktım"
+    ],
+    "why": "Çabuk hazırlanır, tok tutar; işte budur!"
+  },
+  {
+    "id": 105,
+    "name": "Terbiyeli Tavuk",
+    "description": "Terbiyeli Tavuk, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "romantik"
+    ],
+    "why": "Romantik anlara yakışır, özel bir dokunuş."
+  },
+  {
+    "id": 106,
+    "name": "Gado Gado",
+    "description": "Endonezya’dan sebze ve fıstık soslu bir salata.",
+    "moods": [
+      "romantik"
+    ],
+    "why": "Romantik anlara yakışır, özel bir dokunuş."
+  },
+  {
+    "id": 107,
+    "name": "Beef Stroganoff",
+    "description": "Beef Stroganoff, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Bu tarifle biraz nefes al, biraz rahatla."
+  },
+  {
+    "id": 108,
+    "name": "Fırında Karnabahar",
+    "description": "Karnabaharı fırında sağlıklı şekilde tüketmenin leziz yolu.",
+    "why": "Sebze yemeği sevenler için hem hafif hem doyurucu.",
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Kuzu Tandır",
+    "description": "Kuzu Tandır, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Lezzetiyle zihnini dinlendirecek özel bir seçenek."
+  },
+  {
+    "id": 110,
+    "name": "Okra Stew",
+    "description": "Orta Doğu’da bol domatesle pişirilen bamya yemeği.",
+    "moods": [
+      "acıktım"
+    ],
+    "why": "Çabuk hazırlanır, tok tutar; işte budur!"
+  },
+  {
+    "id": 111,
+    "name": "Rendang",
+    "description": "Endonezya’nın yavaş pişirilen baharatlı eti.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Kolay ama doyurucu; tam senin ihtiyacın olan tarif!"
+  },
+  {
+    "id": 112,
+    "name": "Burrito",
+    "description": "Burrito, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Kendini iyi hissetmen için seni yormayacak harika bir seçim."
+  },
+  {
+    "id": 113,
+    "name": "Pav Bhaji",
+    "description": "Hindistan’ın baharatlı sebze püresi ve ekmeği.",
+    "moods": [
+      "acıktım"
+    ],
+    "why": "Çabuk hazırlanır, tok tutar; işte budur!"
+  },
+  {
+    "id": 114,
+    "name": "Gözleme",
+    "description": "Türk mutfağından çeşitli iç harçlı sac böreği.",
+    "moods": [
+      "mutlu"
+    ],
+    "why": "Enerjin yüksek, bu tarif seni daha da keyiflendirecek."
+  },
+  {
+    "id": 115,
+    "name": "Pho",
+    "description": "Vietnam mutfağının aromatik ve şifalı çorbası.",
+    "why": "Taze otlar ve sıcak et suyuyla moral depolayacaksın.",
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Nasi Goreng",
+    "description": "Endonezya usulü kızarmış pilav.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Stresini hafifletecek sakinleştirici bir tat!"
+  },
+  {
+    "id": 117,
+    "name": "Katsu Don",
+    "description": "Kızarmış etli Japon pilav kaseleri.",
+    "moods": [
+      "acıktım"
+    ],
+    "why": "Karnın zil çalıyorsa bu tarif tam sana göre!"
+  },
+  {
+    "id": 118,
+    "name": "Patates Bravas",
+    "description": "İspanya’da baharatlı domates soslu kızarmış patates.",
+    "moods": [
+      "romantik"
+    ],
+    "why": "Aşk dolu bir akşam için mükemmel tercih!"
+  },
+  {
+    "id": 119,
+    "name": "Zeytinyağlı Yaprak Sarma",
+    "description": "Zeytinyağlı Yaprak Sarma, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "romantik"
+    ],
+    "why": "Aşk dolu bir akşam için mükemmel tercih!"
+  },
+  {
+    "id": 120,
+    "name": "Tagine",
+    "description": "Fas’ın sebzeli etli tencere yemeği.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Yorgun günlerinde sana enerji verecek pratik bir lezzet!"
+  },
+  {
+    "id": 121,
+    "name": "Moqueca",
+    "description": "Brezilya’nın hindistancevizli balık yemeği.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Bu tarifle biraz nefes al, biraz rahatla."
+  },
+  {
+    "id": 122,
+    "name": "Patatesli Gözleme",
+    "description": "Anadolu usulü çıtır gözleme.",
+    "why": "Ev sıcaklığı gibi hissettiren lezzet.",
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 123,
+    "name": "Karnıyarık",
+    "description": "Karnıyarık, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Bu tarifle biraz nefes al, biraz rahatla."
+  },
+  {
+    "id": 124,
+    "name": "Köfte",
+    "description": "Türk mutfağının klasik baharatlı et köftesi.",
+    "moods": [
+      "acıktım"
+    ],
+    "why": "Karnın zil çalıyorsa bu tarif tam sana göre!"
+  },
+  {
+    "id": 125,
+    "name": "Risotto",
+    "description": "Risotto, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "acıktım"
+    ],
+    "why": "Karnın zil çalıyorsa bu tarif tam sana göre!"
+  },
+  {
+    "id": 126,
+    "name": "Kırmızı Mercimek Köftesi",
+    "description": "Bol yeşillikli, doyurucu ve vegan dostu köfte.",
+    "why": "Atıştırmalık ve tok tutucu bir öneri.",
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 127,
+    "name": "Islak Hamburger",
+    "description": "İstanbul’da popüler ıslak soslu hamburger.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Kolay ama doyurucu; tam senin ihtiyacın olan tarif!"
+  },
+  {
+    "id": 128,
+    "name": "Sütlaç",
+    "description": "Türk mutfağından fırınlanmış sütlü pirinç tatlısı.",
+    "moods": [
+      "acıktım"
+    ],
+    "why": "Çabuk hazırlanır, tok tutar; işte budur!"
+  },
+  {
+    "id": 129,
+    "name": "Tavuk Sote",
+    "description": "Sebzeli hızlı ve pratik tavuk yemeği.",
+    "moods": [
+      "acıktım"
+    ],
+    "why": "Açlık krizine birebir, hemen doyurur!"
+  },
+  {
+    "id": 130,
+    "name": "Güllaç",
+    "description": "Ramazan ayına özel sütlü yapraklı tatlı.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Kendini iyi hissetmen için seni yormayacak harika bir seçim."
+  },
+  {
+    "id": 131,
+    "name": "Kayısı Tatlısı",
+    "description": "Kayısıyla yapılan hafif Türk tatlısı.",
+    "moods": [
+      "acıktım"
+    ],
+    "why": "Çabuk hazırlanır, tok tutar; işte budur!"
+  },
+  {
+    "id": 132,
+    "name": "İskender",
+    "description": "İskender, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "acıktım"
+    ],
+    "why": "Açlık krizine birebir, hemen doyurur!"
+  },
+  {
+    "id": 133,
+    "name": "İçli Köfte",
+    "description": "İçli Köfte, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Kolay ama doyurucu; tam senin ihtiyacın olan tarif!"
+  },
+  {
+    "id": 134,
+    "name": "Tamagoyaki",
+    "description": "Tatlımsı Japon omleti.",
+    "moods": [
+      "mutlu"
+    ],
+    "why": "Enerjin yüksek, bu tarif seni daha da keyiflendirecek."
+  },
+  {
+    "id": 135,
+    "name": "Okonomiyaki",
+    "description": "Japonya'nın krep tarzı sebzeli yemeği.",
+    "why": "Egzotik tatlara açıksan tam sana göre.",
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Fırında Kaşarlı Mantar",
+    "description": "Mantarların kaşarla buluştuğu enfes tarif.",
+    "why": "Pratik, lezzetli ve gurme bir tercih.",
+    "moods": [
+      "romantik"
+    ]
+  },
+  {
+    "id": 137,
+    "name": "Dumplings",
+    "description": "Çin’in buharda pişen hamur dolmaları.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Yorgun günlerinde sana enerji verecek pratik bir lezzet!"
+  },
+  {
+    "id": 138,
+    "name": "Cızlak",
+    "description": "Cızlak, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Yorgun günlerinde sana enerji verecek pratik bir lezzet!"
+  },
+  {
+    "id": 139,
+    "name": "Fasulye Pilaki",
+    "description": "Zeytinyağlı beyaz fasulye yemeği.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Kolay ama doyurucu; tam senin ihtiyacın olan tarif!"
+  },
+  {
+    "id": 140,
+    "name": "Mercimekli Bulgur Pilavı",
+    "description": "Anadolu mutfağının besleyici klasiklerinden.",
+    "why": "Protein dolu, sade ve sağlıklı bir seçenek.",
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 141,
+    "name": "Fırın Makarna",
+    "description": "Fırın Makarna, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Lezzetiyle zihnini dinlendirecek özel bir seçenek."
+  },
+  {
+    "id": 142,
+    "name": "Kremalı Mantar",
+    "description": "Kremayla pişmiş lezzetli mantar sotelenmiş yemeği.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Bu tarifle biraz nefes al, biraz rahatla."
+  },
+  {
+    "id": 143,
+    "name": "Tandoori Tavuk",
+    "description": "Hint mutfağından baharatlı ızgara tavuk.",
+    "why": "Yoğun baharatlı ve enerji dolu bir akşam için.",
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Lahmacun",
+    "description": "Lahmacun, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "acıktım"
+    ],
+    "why": "Açlık krizine birebir, hemen doyurur!"
+  },
+  {
+    "id": 145,
+    "name": "Bulgogi",
+    "description": "Kore mutfağında tatlı-soya soslu et yemeği.",
+    "moods": [
+      "mutlu"
+    ],
+    "why": "Mutluluğunu daha da artıracak hafif ama lezzetli bir tarif!"
+  },
+  {
+    "id": 146,
+    "name": "Cevizli Kabak Salatası",
+    "description": "Yoğurtlu ve cevizli nefis kabak mezesi.",
+    "why": "Ferahlık isteyenler için serinletici bir seçim.",
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 147,
+    "name": "Balık Kokoreç",
+    "description": "Farklı bir balık sunumu, Ege usulü baharatlı.",
+    "why": "Farklı tatlar keşfetmeye açıksan bu tarif senin.",
+    "moods": [
+      "yorgun"
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Samosa",
+    "description": "Hindistan menşeli kızartılmış baharatlı hamur.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Bu tarifle biraz nefes al, biraz rahatla."
+  },
+  {
+    "id": 149,
+    "name": "Roast Beef",
+    "description": "Roast Beef, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Kendini iyi hissetmen için seni yormayacak harika bir seçim."
+  },
+  {
+    "id": 150,
+    "name": "Karides Güveç",
+    "description": "Fırında pişen domatesli, biberli deniz mahsulü lezzet.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Stresini hafifletecek sakinleştirici bir tat!"
+  },
+  {
+    "id": 151,
+    "name": "Çerkez Tavuğu",
+    "description": "Cevizli, sarımsaklı tavuklu meze.",
+    "why": "Zengin aromasıyla davet sofralarının yıldızı.",
+    "moods": [
+      "stresli"
+    ]
+  },
+  {
+    "id": 152,
+    "name": "Fırında Makarna",
+    "description": "Peynirli beşamel soslu fırın yemeği.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Kolay ama doyurucu; tam senin ihtiyacın olan tarif!"
+  },
+  {
+    "id": 153,
+    "name": "Arnavut Ciğeri",
+    "description": "Lokmalık ciğer, soğan ve baharatla mükemmel uyum.",
+    "why": "Geleneksel lezzetleri sevenler için.",
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "id": 154,
+    "name": "Zeytinyağlı Enginar",
+    "description": "Hafif ve sağlıklı zeytinyağlı sebze yemeği.",
+    "moods": [
+      "mutlu"
+    ],
+    "why": "Enerjin yüksek, bu tarif seni daha da keyiflendirecek."
+  },
+  {
+    "id": 155,
+    "name": "Kısır",
+    "description": "Yeşillikli, limonlu, salçalı pratik lezzet.",
+    "why": "Çay saatlerinin vazgeçilmezidir.",
+    "moods": [
+      "mutlu"
+    ]
+  },
+  {
+    "id": 156,
+    "name": "Shakshuka",
+    "description": "Kuzey Afrika'nın bol domatesli, yumurtalı yemeği.",
+    "why": "İster kahvaltıda ister akşam yemeğinde enerji verir.",
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 157,
+    "name": "Çorba Trio",
+    "description": "Üç farklı çorbanın aynı tabakta sunulduğu gurme tarz.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Yorgun günlerinde sana enerji verecek pratik bir lezzet!"
+  },
+  {
+    "id": 158,
+    "name": "Domates Çorbası",
+    "description": "Domates Çorbası, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "romantik"
+    ],
+    "why": "Aşk dolu bir akşam için mükemmel tercih!"
+  },
+  {
+    "id": 159,
+    "name": "Lasagna",
+    "description": "Lasagna, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Lezzetiyle zihnini dinlendirecek özel bir seçenek."
+  },
+  {
+    "id": 160,
+    "name": "Perde Pilavı",
+    "description": "İç pilavla doldurulmuş zarif hamurla kaplı yemek.",
+    "moods": [
+      "mutlu"
+    ],
+    "why": "Mutluluğunu daha da artıracak hafif ama lezzetli bir tarif!"
+  },
+  {
+    "id": 161,
+    "name": "Tavuklu Krep",
+    "description": "İnce krep içinde tavuklu harç sunumu.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Stresini hafifletecek sakinleştirici bir tat!"
+  },
+  {
+    "id": 162,
+    "name": "Kıymalı Ispanak",
+    "description": "Ispanak ve kıyma ile yapılan besleyici yemek.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Kendini iyi hissetmen için seni yormayacak harika bir seçim."
+  },
+  {
+    "id": 163,
+    "name": "Bratwurst",
+    "description": "Bratwurst, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Stresini hafifletecek sakinleştirici bir tat!"
+  },
+  {
+    "id": 164,
+    "name": "Fırın Tavuk Baget",
+    "description": "Baharatlı fırında nar gibi kızarmış tavuk baget.",
+    "moods": [
+      "romantik"
+    ],
+    "why": "Aşk dolu bir akşam için mükemmel tercih!"
+  },
+  {
+    "id": 165,
+    "name": "Köri Soslu Tavuk",
+    "description": "Hint usulü kremalı köri ile marine edilmiş tavuk.",
+    "moods": [
+      "acıktım"
+    ],
+    "why": "Açlık krizine birebir, hemen doyurur!"
+  },
+  {
+    "id": 166,
+    "name": "Fırın Somon",
+    "description": "Limonlu ve otlarla fırında pişirilmiş somon fileto.",
+    "moods": [
+      "acıktım"
+    ],
+    "why": "Karnın zil çalıyorsa bu tarif tam sana göre!"
+  },
+  {
+    "id": 167,
+    "name": "Karalahana Sarması",
+    "description": "Karadeniz’in meşhur lahana sarması.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Kendini iyi hissetmen için seni yormayacak harika bir seçim."
+  },
+  {
+    "id": 168,
+    "name": "Mantarlı Risotto",
+    "description": "İtalyan mutfağından kremalı pirinç yemeği.",
+    "moods": [
+      "mutlu"
+    ],
+    "why": "Bugünkü neşene yakışacak taptaze bir seçenek!"
+  },
+  {
+    "id": 169,
+    "name": "Fırın Mücver",
+    "description": "Sebzeli, az yağlı fırında pişmiş Türk lezzeti.",
+    "moods": [
+      "romantik"
+    ],
+    "why": "Aşk dolu bir akşam için mükemmel tercih!"
+  },
+  {
+    "id": 170,
+    "name": "Spaghetti Carbonara",
+    "description": "Spaghetti Carbonara, AI tarafından ruh haline uygun olarak önerildi.",
+    "moods": [
+      "romantik"
+    ],
+    "why": "Aşk dolu bir akşam için mükemmel tercih!"
+  },
+  {
+    "id": 171,
+    "name": "Fırında Karnabahar",
+    "description": "Baharatlarla fırınlanan sağlıklı sebze tarifi.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Lezzetiyle zihnini dinlendirecek özel bir seçenek."
+  },
+  {
+    "id": 172,
+    "name": "Sebzeli Kuskus",
+    "description": "Küçük taneli makarna ile renkli sebzelerin uyumu.",
+    "moods": [
+      "mutlu"
+    ],
+    "why": "Enerjin yüksek, bu tarif seni daha da keyiflendirecek."
+  },
+  {
+    "id": 173,
+    "name": "Şinitzel",
+    "description": "Pane harcıyla kaplanmış çıtır tavuk/kuzu dilimleri.",
+    "moods": [
+      "romantik"
+    ],
+    "why": "Aşk dolu bir akşam için mükemmel tercih!"
+  },
+  {
+    "id": 174,
+    "name": "Biftek Tava",
+    "description": "Döküm tavada pişmiş marine edilmiş biftek.",
+    "moods": [
+      "acıktım"
+    ],
+    "why": "Karnın zil çalıyorsa bu tarif tam sana göre!"
+  },
+  {
+    "id": 175,
+    "name": "Kaşarlı Köfte",
+    "description": "İçi kaşar dolu köfte lezzeti.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Bu tarifle biraz nefes al, biraz rahatla."
+  },
+  {
+    "id": 176,
+    "name": "Biber Dolması",
+    "description": "Zeytinyağlı ya da kıymalı içle doldurulmuş biber.",
+    "moods": [
+      "mutlu"
+    ],
+    "why": "Enerjin yüksek, bu tarif seni daha da keyiflendirecek."
+  },
+  {
+    "id": 177,
+    "name": "Bulgurlu Semizotu",
+    "description": "Sağlıklı ve lezzetli hafif sebze yemeği.",
+    "moods": [
+      "romantik"
+    ],
+    "why": "Romantik anlara yakışır, özel bir dokunuş."
+  },
+  {
+    "id": 178,
+    "name": "Garnitürlü Tavuk",
+    "description": "Sebze garnitürle servis edilen tavuk yemeği.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Lezzetiyle zihnini dinlendirecek özel bir seçenek."
+  },
+  {
+    "id": 179,
+    "name": "Köri Noodle",
+    "description": "Asya esintili erişte ve köri lezzeti.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Lezzetiyle zihnini dinlendirecek özel bir seçenek."
+  },
+  {
+    "id": 180,
+    "name": "Zerdeçallı Tavuk",
+    "description": "Baharatlarla marine edilmiş özel tavuk tarifi.",
+    "moods": [
+      "acıktım"
+    ],
+    "why": "Çabuk hazırlanır, tok tutar; işte budur!"
+  },
+  {
+    "id": 181,
+    "name": "Yoğurtlu Kabak",
+    "description": "Rende kabak ve sarımsaklı yoğurt ile yapılan meze.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Bu tarifle biraz nefes al, biraz rahatla."
+  },
+  {
+    "id": 182,
+    "name": "Soya Soslu Sebzeler",
+    "description": "Çin usulü wok sebze sote.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Bu tarifle biraz nefes al, biraz rahatla."
+  },
+  {
+    "id": 183,
+    "name": "Fırın Kumpir",
+    "description": "Dev fırınlanmış patatesin içi malzemeyle doldurulur.",
+    "moods": [
+      "acıktım"
+    ],
+    "why": "Açlık krizine birebir, hemen doyurur!"
+  },
+  {
+    "id": 184,
+    "name": "Naneli Mercimek Çorbası",
+    "description": "Ferahlatıcı ve doyurucu yeşil mercimek çorbası.",
+    "moods": [
+      "acıktım"
+    ],
+    "why": "Açlık krizine birebir, hemen doyurur!"
+  },
+  {
+    "id": 185,
+    "name": "Soğan Halkası",
+    "description": "Kızartılmış çıtır soğan dilimleri.",
+    "moods": [
+      "acıktım"
+    ],
+    "why": "Karnın zil çalıyorsa bu tarif tam sana göre!"
+  },
+  {
+    "id": 186,
+    "name": "Tahinli Kabak Tatlısı",
+    "description": "Kabak tatlısı üzerine tahin ve ceviz eklenerek sunulur.",
+    "moods": [
+      "acıktım"
+    ],
+    "why": "Çabuk hazırlanır, tok tutar; işte budur!"
+  },
+  {
+    "id": 187,
+    "name": "Tavuklu Sezar Salata",
+    "description": "Tavuk parçaları, kruton ve parmesanla yapılan klasik salata.",
+    "moods": [
+      "stresli"
+    ],
+    "why": "Bu tarifle biraz nefes al, biraz rahatla."
+  },
+  {
+    "id": 188,
+    "name": "Kumpir",
+    "description": "Fırında patatesin dolu dolu hali.",
+    "why": "Ne istersen içine koy, her modda gider!",
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 189,
+    "name": "Kestaneli İç Pilav",
+    "description": "Yılbaşlarının vazgeçilmezi, kestaneli aromatik iç pilav.",
+    "moods": [
+      "acıktım"
+    ],
+    "why": "Çabuk hazırlanır, tok tutar; işte budur!"
+  },
+  {
+    "id": 190,
+    "name": "Fırında Köfte Patates",
+    "description": "Ev yapımı klasik lezzet fırınlanarak hazırlanır.",
+    "moods": [
+      "romantik"
+    ],
+    "why": "Paylaştıkça güzelleşen, duygusal bir tarif!"
+  },
+  {
+    "id": 191,
+    "name": "Fasulye Ezmesi",
+    "description": "Ege usulü, zeytinyağlı ve hafif meze.",
+    "why": "Hafif ama karakterli tatları sevenlere.",
+    "moods": [
+      "acıktım"
+    ]
+  },
+  {
+    "id": 192,
+    "name": "Zeytinyağlı Taze Fasulye",
+    "description": "Yaz aylarının hafif ve sağlıklı yemeği.",
+    "moods": [
+      "mutlu"
+    ],
+    "why": "Mutluluğunu daha da artıracak hafif ama lezzetli bir tarif!"
+  },
+  {
+    "id": 193,
+    "name": "Etli Kabak Dolması",
+    "description": "Kabakların kıymalı harçla doldurulmasıyla yapılan yemek.",
+    "moods": [
+      "mutlu"
+    ],
+    "why": "Bugünkü neşene yakışacak taptaze bir seçenek!"
+  },
+  {
+    "id": 194,
+    "name": "Midye Dolma",
+    "description": "İç pilavla doldurulmuş midyeler, limonla servis edilir.",
+    "moods": [
+      "yorgun"
+    ],
+    "why": "Kolay ama doyurucu; tam senin ihtiyacın olan tarif!"
+  },
+  {
+    "id": 195,
+    "name": "Kalamar Tava",
+    "description": "Altın renginde çıtır kızarmış deniz ürünü.",
+    "moods": [
+      "romantik"
+    ],
+    "why": "Aşk dolu bir akşam için mükemmel tercih!"
+  },
+  {
+    "id": 196,
+    "name": "Fırında Peynirli Kabak",
+    "description": "Kabakların fırında peynirle buluştuğu hafif lezzet.",
+    "moods": [
+      "acıktım"
+    ],
+    "why": "Çabuk hazırlanır, tok tutar; işte budur!"
+  },
+  {
+    "id": 197,
+    "name": "Balık Buğulama",
+    "description": "Sebzelerle birlikte buharda pişirilen balık yemeği.",
+    "moods": [
+      "acıktım"
+    ],
+    "why": "Açlık krizine birebir, hemen doyurur!"
+  },
+  {
+    "id": 198,
+    "name": "Kuzu İncik",
+    "description": "Fırında uzun süre pişirilmiş yumuşacık kuzu eti.",
+    "moods": [
+      "acıktım"
+    ],
+    "why": "Açlık krizine birebir, hemen doyurur!"
+  }
+]
